@@ -1,0 +1,2521 @@
+Patient_ID,Patient_Name,Doctor_Assigned,Age,Department,Treatment_Days,Bill_Amount,Insurance_Coverage,Satisfaction_Rating,Hospital_Profit
+P0001,Amanda King,Brittney Vaughan,44,Oncology,2,4221.57,Yes,5,844.314
+P0002,Isaiah Pacheco,Deborah Allen,46,Cardiology,22,9871.07,No,4,1974.214
+P0003,Brian Myers,Francisco Thompson,59,General Medicine,1,7377.48,Yes,2,1475.496
+P0004,Lisa Nelson,Angela Fischer,59,General Medicine,30,,No,3,1500.152
+P0005,Ryan Flores,Emma Dixon,53,Orthopedics,44,2884.18,No,4,576.836
+P0006,Christina Powell,Brenda Lawrence,33,Neurology,22,3240.16,No,3,648.032
+P0007,Carlos Nash,Joel Wade,59,Pediatrics,5,7973.5,Yes,4,1594.7
+P0008,Tiffany Knight,Amanda Flores,69,Neurology,28,5032.72,Yes,4,1006.544
+P0009,Erin Jacobs,Matthew Gallagher,76,Neurology,16,1674.99,Yes,3,334.998
+P0010,Daniel West,John Krueger,78,Cardiology,4,5759.22,No,5,1151.844
+P0011,Grant Williams,Sara Mcbride,29,Pediatrics,19,5209.47,No,5,1041.894
+P0012,Jacob Mccarty,Aaron Harrison,77,Pediatrics,2,8737.57,No,3,1747.514
+P0013,Heather Alvarado,Melissa Williams,2,Neurology,22,2035.54,Yes,1,407.108
+P0014,Timothy Lozano,Tamara King,53,Dermatology,1,8985.29,Yes,2,1797.058
+P0015,Christopher Nicholson,Rodney Allison,36,Neurology,13,1541.81,No,2,308.362
+P0016,Craig Smith,Calvin Reyes,76,Dermatology,31,9335.8,No,5,1867.16
+P0017,John Lopez,Monique Daniels,85,Orthopedics,42,2805.55,No,3,561.11
+P0018,Paul Johnson,Brittany Duarte,20,Cardiology,13,6888.6,Yes,1,1377.72
+P0019,Tina Stephens,William Morris,20,Dermatology,26,9274.35,No,1,1854.87
+P0020,Molly Luna,Wyatt Adams,85,Neurology,44,1752.11,Yes,4,350.422
+P0021,Michael Smith,Vincent Russell,29,Orthopedics,36,2018.69,No,1,403.738
+P0022,Jared Flores,David Olson,68,Oncology,1,4358.1,No,2,871.62
+P0023,Calvin Day,Kevin Hunt,65,Neurology,7,6921.78,Yes,3,1384.356
+P0024,Daniel Hodge,Tanya Phillips,42,Pediatrics,12,,No,3,71.116
+P0025,Daniel Vincent,Emily Martinez,89,Cardiology,10,2165.27,Yes,5,433.054
+P0026,Sabrina Morales,Christopher Hoover,82,Pediatrics,32,4880.22,Yes,5,976.044
+P0027,Amy Little,Blake Robinson,88,Pediatrics,21,7820.57,No,4,1564.114
+P0028,Katherine Harrell,David Duran,13,Oncology,6,3353.92,No,5,670.784
+P0029,Lindsey Morris,Bradley Robinson,87,Oncology,14,4272.59,No,5,854.518
+P0030,Wayne Garcia,Tami Butler,27,Neurology,17,9882.52,No,1,1976.504
+P0031,Kathryn Evans,Lisa Rodriguez,79,Cardiology,35,5325.99,Yes,5,1065.198
+P0032,Tina Rodriguez,Rachel Dorsey,60,Cardiology,43,6775.08,No,1,1355.016
+P0033,David Grimes,Tommy Smith,42,Pediatrics,18,6213.11,No,1,1242.622
+P0034,Latasha Johnson,Tanya Shelton,46,Oncology,7,7897.35,No,1,1579.47
+P0035,Garrett Ramirez,Amy Gaines,43,Orthopedics,11,650.21,Yes,3,130.042
+P0036,Nathan Smith,Alexandra Hudson,64,Dermatology,30,3535.83,Yes,3,707.166
+P0037,Lori Morris,Christopher Reyes,34,Orthopedics,43,5747.55,Yes,3,1149.51
+P0038,Isaac Martin,Heather Villegas,30,Dermatology,34,938.79,No,5,187.758
+P0039,Tabitha Scott,Anthony Gilbert,53,General Medicine,45,2111.31,Yes,2,422.262
+P0040,Shannon Vang,Vincent Rodriguez,55,Cardiology,8,5682.28,Yes,2,1136.456
+P0041,Lauren Walker,Anna Henderson,32,General Medicine,1,4911.63,No,2,982.326
+P0042,Jason Foster,Charles Cameron,47,Dermatology,35,5016.59,Yes,3,1003.318
+P0043,Janet Phelps,David Benson,32,Dermatology,22,5346.79,No,5,1069.358
+P0044,Joan Santiago,Angela Anderson,55,Cardiology,24,9999.31,No,1,1999.862
+P0045,Andrew Benjamin,Dr. Matthew Gardner PhD,82,Cardiology,10,7753.22,No,2,1550.644
+P0046,Timothy Park,Andrea Russell,57,Neurology,19,5932.46,No,5,1186.492
+P0047,Natalie Rodriguez,Jason Meyer,79,General Medicine,25,1596.65,No,4,319.33
+P0048,John White,Alyssa Wiggins DVM,40,Dermatology,34,3482.83,No,3,696.566
+P0049,Joseph Hernandez,Juan Collins,65,Cardiology,8,721.55,Yes,2,144.31
+P0050,Matthew Patton,Xavier Phillips,44,Cardiology,38,439.09,Yes,1,87.818
+P0051,Amy Horn,Michael Dillon,54,General Medicine,7,6958.94,No,5,1391.788
+P0052,Debra Morse,Eric Lee,1,Dermatology,34,6302.57,Yes,5,1260.514
+P0053,Matthew Nguyen,Amanda Fox,68,General Medicine,19,5948.63,Yes,5,1189.726
+P0054,Adrienne Holmes,Colleen Brown,21,Orthopedics,3,5312.32,No,2,1062.464
+P0055,Deborah Nunez,Michael Ballard,36,Neurology,33,6159.15,No,5,1231.83
+P0056,Christopher Cunningham,Megan Wells,75,Orthopedics,5,7214.16,No,3,1442.832
+P0057,Misty Johnson,Jennifer Moore,58,Neurology,32,9684.85,No,5,1936.97
+P0058,Ronald Freeman,Ian Nelson,85,Orthopedics,36,9601.8,No,5,1920.36
+P0059,James Leon,Tracy Braun,45,Neurology,40,3141.96,Yes,5,628.392
+P0060,Stefanie Cohen,Dana Roberts,8,Neurology,1,6280.54,Yes,1,1256.108
+P0061,Jenny Edwards,Joseph Romero,35,Dermatology,36,5426.24,No,1,1085.248
+P0062,Joy Patel,Phillip Meyers,79,Pediatrics,38,7447.95,Yes,2,1489.59
+P0063,Nicole Thomas,Cynthia Holt,9,Pediatrics,14,2713.59,No,5,542.718
+P0064,William Larson,Juan Larson,8,Cardiology,34,527.79,No,5,105.558
+P0065,Ashley Conway,Stephanie Weaver,17,Pediatrics,29,4449.67,Yes,2,889.934
+P0066,Patrick Martinez,Angel Baldwin,40,Cardiology,45,4763.94,Yes,4,952.788
+P0067,Dr. Charlotte Brown,Hailey Henderson,77,Orthopedics,14,7549.08,Yes,2,1509.816
+P0068,Vickie Savage,Gary Hansen,49,Neurology,17,6698.04,No,2,1339.608
+P0069,John Perez,Samuel Moreno,Unknown,Dermatology,4,9979.78,No,4,1995.956
+P0070,Dawn Wright,Paula Griffin,65,Pediatrics,22,323.66,No,3,64.732
+P0071,Stephen Morrison,Stacey Fisher,11,Cardiology,21,9820.4,No,2,1964.08
+P0072,Kayla Thomas,Deborah Pacheco,84,Cardiology,31,5591.09,Yes,5,1118.218
+P0073,Ethan Garcia,David Kane,30,Oncology,8,1435.33,Yes,4,287.066
+P0074,Natalie Miller,Teresa Jackson,40,Oncology,6,6859.9,No,2,1371.98
+P0075,Angela Copeland,Matthew Bates,73,General Medicine,11,3861.84,Yes,3,772.368
+P0076,Cody Bowman,Michelle Carter,84,Orthopedics,4,8009.21,No,3,1601.842
+P0077,Aaron Hernandez,Michelle Schultz,24,Oncology,18,5333.88,No,3,1066.776
+P0078,Melanie Bryan,Laura Garcia,13,Oncology,2,5129.92,Yes,3,1025.984
+P0079,Taylor Conner,Kenneth Hernandez,19,Pediatrics,32,3469.66,Yes,2,693.932
+P0080,Stephanie Taylor,Larry Smith,47,Pediatrics,5,2011.36,No,3,402.272
+P0081,Erica Weber,Arthur Hopkins,27,General Medicine,20,3115.77,Yes,1,623.154
+P0082,Eric Smith,Savannah Mcbride,88,Orthopedics,34,9846.6,No,2,1969.32
+P0083,Rachel Levy,Ricardo Smith,5,Neurology,25,2135.21,No,5,427.042
+P0084,Ryan Stanley,Corey Moran,63,Oncology,30,1499.1,Yes,4,299.82
+P0085,Nicole Jones,Daniel Ortiz,58,Neurology,20,9887.78,No,4,1977.556
+P0086,Alexandra Douglas,Ryan Walker,7,Pediatrics,45,6502.24,Yes,4,1300.448
+P0087,Alicia Tran,Ashley Barajas,55,Oncology,34,4918.71,Yes,4,983.742
+P0088,Stacey Mitchell,Madeline Rodriguez,87,Oncology,24,7854.56,No,4,1570.912
+P0089,Chelsea Nunez,Jared Rodgers,54,Pediatrics,22,2241.74,Yes,4,448.348
+P0090,Charles Nelson III,Megan Moore,30,Dermatology,21,9945.75,Yes,3,1989.15
+P0091,James Houston,Alicia Cooper,10,General Medicine,9,8385.45,Yes,4,1677.09
+P0092,James Mercado,Kelly Stephens,83,Oncology,35,6082.14,Yes,2,1216.428
+P0093,Michael Mata,Susan Zuniga,14,Orthopedics,24,4880.9,No,5,976.18
+P0094,Andrew Mcgrath,Hayley Graham,74,General Medicine,38,8109.55,Yes,1,1621.91
+P0095,Brian White,Sherri Davenport,41,Orthopedics,32,8154.12,Yes,5,1630.824
+P0096,Kelly Phillips,Peter Butler,15,Dermatology,45,8565.67,Yes,4,1713.134
+P0097,Diana Frye,Natalie Young,80,Pediatrics,15,6421.14,Yes,4,1284.228
+P0098,Steven Wilson,Christopher Barber,47,Oncology,32,8303.84,Yes,3,1660.768
+P0099,Nicole Adkins PhD,Dakota Stephens,1,Orthopedics,26,2284.65,Yes,3,456.93
+P0100,Cassandra Chase,,26,Cardiology,14,8888.88,Yes,2,1777.776
+P0101,Daniel Hunt,Lisa Lopez,85,Neurology,1,9093.36,No,5,1818.672
+P0102,Teresa Nichols,Mrs. Mary Evans,20,Oncology,44,2046.97,No,5,409.394
+P0103,Veronica Holt,Dawn Ruiz,34,General Medicine,34,5959.24,Yes,4,1191.848
+P0104,Tracy Robinson,Karl Vargas,5,Orthopedics,28,6603.1,Yes,5,1320.62
+P0105,Zachary Brooks,Michael Tucker,2,Cardiology,15,6975.65,Yes,4,1395.13
+P0106,Dylan Brown,Jose Torres,31,Oncology,31,4533.05,No,2,906.61
+P0107,Dawn Johnson DDS,Todd Richards,12,Cardiology,40,3404.51,Yes,3,680.902
+P0108,Christopher Russell,Andrew Miller,56,Cardiology,13,4804.47,Yes,5,960.894
+P0109,Debra Richardson,Alejandro Weeks,3,Cardiology,22,6289.68,No,3,1257.936
+P0110,Manuel Green,Joy Munoz,26,Orthopedics,6,6578.51,No,4,1315.702
+P0111,Julia Cooper DVM,Joseph Perry,20,General Medicine,18,1891.19,Yes,2,378.238
+P0112,Kelsey Jackson,Brandon Schneider,51,General Medicine,39,7014.97,Yes,3,1402.994
+P0113,Susan Ross,Lauren Nelson,12,Orthopedics,43,3016.98,No,1,603.396
+P0114,Brian Hughes,Christine Bean,12,Neurology,20,2888.04,No,2,577.608
+P0115,Ian Murray,Kimberly Jacobs,14,Dermatology,22,2636.72,Yes,4,527.344
+P0116,Stephanie Morris,Ryan Ortega,14,Oncology,10,6611.48,Yes,5,1322.296
+P0117,Carolyn Alvarado,Matthew Nunez,69,Pediatrics,2,8934.17,No,2,1786.834
+P0118,Patricia Rios,Tanya Jimenez,20,Orthopedics,25,6921.62,No,2,1384.324
+P0119,Amanda James,Ricky Davis,22,Oncology,34,2095.77,No,1,419.154
+P0120,Natalie Maldonado,Stephanie Velazquez,67,Neurology,7,3133.68,No,1,626.736
+P0121,Darius Dennis,Tommy Newton,23,Oncology,10,672.58,No,2,134.516
+P0122,Barry Perez,Amber Richardson,38,Cardiology,7,3614.87,No,2,722.974
+P0123,Edward Little,Brian Turner,19,Cardiology,19,9665.97,Yes,2,1933.194
+P0124,Michelle Harris,Michael Butler,1,Pediatrics,45,,Yes,3,893.228
+P0125,Anthony Hobbs,Phillip Williams,53,Oncology,12,2113.19,No,1,422.638
+P0126,Brenda Meyer,Gary Wyatt,10,Dermatology,39,8499.16,No,4,1699.832
+P0127,Maurice Moore,Todd Weaver,20,Cardiology,16,6579.33,No,4,1315.866
+P0128,Christie Obrien,Douglas Henderson,39,Oncology,27,8236.57,Yes,2,1647.314
+P0129,Laurie Harmon,Andrew Davis,14,Pediatrics,12,9020.61,Yes,4,1804.122
+P0130,Nicole Mitchell,Rose Anderson,61,Cardiology,2,1618.96,No,5,323.792
+P0131,Timothy Wilson,Justin Ford,28,General Medicine,13,2021.96,Yes,5,404.392
+P0132,Douglas Walker,Mr. Alexander Gonzalez,73,Cardiology,15,5926.31,No,5,1185.262
+P0133,Carol Kim,Kyle Stark,12,Oncology,43,1208.24,Yes,5,241.648
+P0134,Todd Jones,Sarah Clark,23,Oncology,17,5503.41,No,2,1100.682
+P0135,Shelley Downs,Deanna Raymond,18,Orthopedics,7,9942.22,No,3,1988.444
+P0136,Suzanne Madden,Shelly Gordon,15,General Medicine,14,4428.17,Yes,4,885.634
+P0137,Michael Moore,Kimberly Dennis,87,Oncology,24,6975.86,Yes,5,1395.172
+P0138,Isabella Williams,Christian Garcia,5,Neurology,2,8102.87,No,4,1620.574
+P0139,Lindsey Reed,Stephanie Blackburn,70,Orthopedics,8,6658.48,Yes,3,1331.696
+P0140,Joseph Wolfe,Lisa Scott,27,Dermatology,2,3331.18,No,2,666.236
+P0141,Leah Cardenas,Jessica Nielsen,Unknown,Oncology,1,3728.81,Yes,5,745.762
+P0142,Victoria Montgomery,Jesus Jones,84,Cardiology,40,7816.57,Yes,4,1563.314
+P0143,Rebecca Rivera,Brandon Houston,65,Neurology,2,1498.89,YES,2,299.778
+P0144,Kevin Lane,John Coleman,36,Neurology,30,2722.66,Yes,5,544.532
+P0145,Susan Le,Mary Delgado,85,Orthopedics,18,5310.91,No,4,1062.182
+P0146,John Sutton,Cynthia Chaney,85,General Medicine,17,414.2,Yes,1,82.84
+P0147,Sean Cook,Michael Greene,63,Dermatology,37,1467.72,Yes,2,293.544
+P0148,Michael Kirk,Katherine Cook,77,Neurology,30,8004.24,Yes,5,1600.848
+P0149,Christopher Hood,John Jones,63,Neurology,18,4969.71,Yes,5,993.942
+P0150,John Bullock,Joseph Gonzalez,73,Orthopedics,16,7312.74,Yes,4,1462.548
+P0151,Scott Harris,Mark Herman,24,Oncology,40,2784.6,No,1,556.92
+P0152,Mark Garcia,Lori Lee,51,Cardiology,20,1335.47,Yes,4,267.094
+P0153,Stefanie Kelly,Mark Hernandez,62,Pediatrics,6,8349.47,Yes,5,1669.894
+P0154,Brandon Lewis,Janice Simmons,32,Oncology,32,1160.11,No,1,232.022
+P0155,Kimberly Brown,Mary James,12,Dermatology,20,3832.19,Yes,4,766.438
+P0156,Kim Fuller,Tracy Morris,78,Dermatology,25,1464.68,Yes,4,292.936
+P0157,Faith Martinez,Brett Walker,85,Orthopedics,15,1367.2,No,3,273.44
+P0158,Michael Armstrong,Christina Taylor,12,Dermatology,12,2481.05,No,2,496.21
+P0159,Willie Lee,Erin Hill,40,Cardiology,4,9733.74,No,3,1946.748
+P0160,Crystal Oconnell,Bradley Mitchell,7,Cardiology,16,2884.29,No,4,576.858
+P0161,Christopher Grimes,Melissa Collins,23,Pediatrics,33,3468.53,Yes,3,693.706
+P0162,Joshua Torres,Jeffrey Booth,24,Orthopedics,21,6531.57,No,5,1306.314
+P0163,Walter Tran,Amanda Vargas,34,Cardiology,7,1071.69,No,1,214.338
+P0164,Miguel Pierce,Paula Martinez,55,Neurology,38,4230.82,Yes,3,846.164
+P0165,Patrick Jones,Matthew Hayden,19,Cardiology,4,7083.77,No,3,1416.754
+P0166,Gary George,Devon Greene,69,Pediatrics,22,2355,Yes,2,471
+P0167,Elizabeth Alexander,Timothy Hodges,63,Neurology,13,4571.19,No,4,914.238
+P0168,Roberta Dixon,Carrie Patton,24,Orthopedics,11,7640.96,Yes,4,1528.192
+P0169,Amanda Green,Chris Shelton,14,Neurology,28,3608.64,No,3,721.728
+P0170,Brian Silva,Jennifer Hogan,89,Neurology,21,7268.85,No,3,1453.77
+P0171,Sarah Smith,Laura Powell,46,Cardiology,39,1607.22,Yes,1,321.444
+P0172,Jonathan Wiggins,Kimberly Maxwell,88,Cardiology,15,,Yes,3,1896.416
+P0173,Kaitlyn Mendez,Shannon Jones,19,Dermatology,19,8862.66,Yes,1,1772.532
+P0174,Caitlin Collins,Thomas Gordon,17,Cardiology,1,3837.05,No,3,767.41
+P0175,Elizabeth May,Adam Acevedo,20,Orthopedics,14,1577.38,No,4,315.476
+P0176,Nicole Stewart,Mary Small,23,Cardiology,21,3921.62,No,5,784.324
+P0177,Lauren Harris,Becky Mann,55,Cardiology,44,9735.94,Yes,4,1947.188
+P0178,Melissa Jones,Elizabeth Lowery,Unknown,Cardiology,16,7655.21,No,2,1531.042
+P0179,Jonathan Phillips,Kevin Reid,4,General Medicine,41,8393.06,Yes,2,1678.612
+P0180,Alex Willis,Derek Jones,72,General Medicine,3,1645.95,Yes,1,329.19
+P0181,Brian Martin,Brenda Roberts,45,Pediatrics,6,3419.16,Yes,3,683.832
+P0182,Alexander Boyd,Rick Johnson,2,Pediatrics,36,5020.37,Yes,1,1004.074
+P0183,Marco Richards,Alexis White,49,Neurology,40,1540.9,Yes,5,308.18
+P0184,James Williams,Jacob Yang,34,Cardiology,29,7520.69,No,5,1504.138
+P0185,Mike Walker,John Lewis,90,Dermatology,27,2386.88,Yes,1,477.376
+P0186,Kathleen Hernandez,Donald Lewis,80,Pediatrics,3,4569.01,Yes,5,913.802
+P0187,Mary Vega,Andrea Stone,Unknown,Cardiology,21,8730.82,No,3,1746.164
+P0188,Daniel Adams,Maria Zhang,25,Cardiology,8,3971.68,Yes,1,794.336
+P0189,Seth Cuevas,Kelly Swanson,33,Cardiology,37,1872.02,No,4,374.404
+P0190,Russell Bryan,Denise Gregory,60,Cardiology,7,2694.57,No,5,538.914
+P0191,Wendy Palmer,Krista Mcdaniel,75,General Medicine,29,9469.1,No,4,1893.82
+P0192,George Mcneil,,58,Cardiology,23,5251.4,Yes,4,1050.28
+P0193,Gary Paul,Jessica Woods,15,General Medicine,10,3668.55,Yes,5,733.71
+P0194,Daniel Perry,Patrick Rogers,1,Orthopedics,39,8511.54,No,2,1702.308
+P0195,Jeanette Simpson,Adam Burgess,1,Cardiology,39,1435.55,Yes,1,287.11
+P0196,Mr. Casey Ballard,Ryan Ramirez,31,Cardiology,23,1332.84,No,2,266.568
+P0197,Cheryl Day,Felicia Mason,19,Orthopedics,22,3113.29,No,3,622.658
+P0198,Shannon Boyle,Mark Williams,90,Neurology,39,7642.61,No,4,1528.522
+P0199,Jenny Wise,Aaron Chase,73,Pediatrics,39,8070.76,Yes,1,1614.152
+P0200,Joshua King,Jack Jimenez,13,Orthopedics,45,1356.24,Yes,2,271.248
+P0201,Amber Daniel,Erika Hood,79,Dermatology,1,5914.06,Yes,5,1182.812
+P0202,Brian Richards,Sheryl Small,Unknown,Dermatology,21,1811.43,Yes,1,362.286
+P0203,Christopher Barton,Sean Yang,90,Cardiology,18,6725.09,YES,5,1345.018
+P0204,Diana Bell,,17,Orthopedics,16,5718.95,Yes,2,1143.79
+P0205,Emily Gregory,Sara Howard,5,Pediatrics,45,1139.72,Yes,4,227.944
+P0206,George Mata,Ronald Hawkins,32,Orthopedics,8,5821.59,No,1,1164.318
+P0207,Keith Conley,Albert Lester,12,Orthopedics,40,1359.25,Yes,4,271.85
+P0208,Matthew Johnson,Monica Hughes,74,Neurology,34,5914.79,Yes,2,1182.958
+P0209,Joseph Day,Dana Diaz,66,Oncology,28,7625.46,Yes,1,1525.092
+P0210,Jordan Mosley,Joseph Miller,89,Dermatology,12,5300.95,No,1,1060.19
+P0211,Kim Khan,Lisa Simpson,65,Orthopedics,19,872.76,Yes,4,174.552
+P0212,Heather Walker,Robert Wise,29,Dermatology,17,9240.98,Yes,2,1848.196
+P0213,Mary Watts,Valerie Baker,83,Pediatrics,39,491.6,No,3,98.32
+P0214,Ryan Rocha,Mary Garner,24,Oncology,25,7119.93,Yes,4,1423.986
+P0215,Logan Vazquez,Lauren Parker,63,Pediatrics,31,7683.46,Yes,3,1536.692
+P0216,Nicole Gutierrez,Luis Walker,38,Pediatrics,44,9585.71,No,2,1917.142
+P0217,Vincent Flores,Megan Wilson,45,Cardiology,14,9716.15,Yes,4,1943.23
+P0218,Casey Bartlett,Preston Hudson,18,General Medicine,17,4848.52,Yes,2,969.704
+P0219,Christina Nielsen,Christopher Newton,47,General Medicine,31,7094.35,No,5,1418.87
+P0220,Darren Ball,Todd Keller,82,Neurology,1,7470.85,No,1,1494.17
+P0221,Michael Reid,Victoria Alvarez,11,Orthopedics,4,3881.15,Yes,3,776.23
+P0222,Preston Lopez,Deborah Howard,90,Neurology,13,1509.09,No,2,301.818
+P0223,Anna Martin,Amy Monroe,23,Dermatology,16,6945.74,No,5,1389.148
+P0224,Allison Sanchez,Mrs. Ashley Vazquez,35,Pediatrics,22,5683.6,No,2,1136.72
+P0225,Heidi Jones,Thomas Medina,20,Pediatrics,32,9825.16,No,4,1965.032
+P0226,Lauren Little,Bryce Maddox,17,Oncology,1,4345.82,Yes,2,869.164
+P0227,Dalton Kelly,David Bruce,10,Oncology,33,8147.08,No,1,1629.416
+P0228,Mariah Martinez,Dawn Bennett,47,Cardiology,36,4650.78,Yes,5,930.156
+P0229,Anne Alexander,David Davis,83,General Medicine,35,8962.4,No,3,1792.48
+P0230,Michelle Donaldson,Emily Hoffman,51,General Medicine,20,3196.97,Yes,4,639.394
+P0231,Alexander Nolan,Melanie Morgan,6,Cardiology,25,6340.23,Yes,4,1268.046
+P0232,Walter Oconnor,Deborah Lee,69,Dermatology,34,7564.72,Yes,2,1512.944
+P0233,William Garcia,Tyler Sanchez,8,Pediatrics,30,3864.98,No,5,772.996
+P0234,Jennifer Smith,Stephanie Taylor,76,Oncology,15,9547.73,No,2,1909.546
+P0235,Austin Richardson,Sheryl Daugherty,44,Pediatrics,18,737.33,Yes,5,147.466
+P0236,Joshua Sanders,Tracey Stone,4,Cardiology,20,5237.97,Yes,3,1047.594
+P0237,Jeffrey Miller,Kristi Campbell,88,Dermatology,31,9650.5,No,5,1930.1
+P0238,Amber Jackson,Laura Wolfe,73,General Medicine,41,1474.59,Yes,2,294.918
+P0239,Rachel Schaefer,Nathan Melendez,61,Pediatrics,45,8335.86,Yes,2,1667.172
+P0240,Jason Oliver,Jon Baker,55,Cardiology,4,326.65,No,5,65.33
+P0241,Sarah Hall,Hannah Wilson,83,General Medicine,45,6902,No,5,1380.4
+P0242,Jesse Kidd,Mark Moore,10,Dermatology,15,3515.63,Yes,1,703.126
+P0243,Theodore Martin,Heather Berry,26,Orthopedics,44,8727.79,No,5,1745.558
+P0244,Rodney Jordan,Kevin Dunn,44,Orthopedics,24,1104.85,Yes,2,220.97
+P0245,James Hines,Patricia Lopez,66,Dermatology,14,1171.24,No,3,234.248
+P0246,Jennifer Gomez,Michael Miller,56,Oncology,40,718.16,Yes,5,143.632
+P0247,William Miller,Erika Sampson,28,Oncology,16,9180.95,No,4,1836.19
+P0248,Mrs. Amanda Rivera DVM,Christie Rodriguez,17,General Medicine,15,8588.71,No,3,1717.742
+P0249,Bryan Stone,Terry Knight,45,Dermatology,4,2102.77,Yes,2,420.554
+P0250,Courtney Brooks,Mitchell Lee,53,Dermatology,27,4967.68,Yes,4,993.536
+P0251,Hailey Baxter,Andrew Gonzalez,61,Neurology,25,4813.6,No,5,962.72
+P0252,David Torres,William Miller,6,Dermatology,21,5958.72,Yes,3,1191.744
+P0253,Cindy Watson,Joshua Velez,75,General Medicine,32,5962.74,Yes,5,1192.548
+P0254,Allen Kirk,Monica Olsen,22,Neurology,34,7029.53,Yes,3,1405.906
+P0255,Joseph Rosario,Lisa Shaw,43,Dermatology,3,6232.97,No,3,1246.594
+P0256,Elizabeth Burgess,Sarah Lin,89,Pediatrics,39,923.51,Yes,1,184.702
+P0257,Tracy Jensen,Nancy Boyd,40,Pediatrics,44,2978.7,Yes,1,595.74
+P0258,Gina Pratt,Juan Jefferson,66,Neurology,10,9561.42,No,5,1912.284
+P0259,Jennifer Johnson,Kristopher Alexander,62,Dermatology,43,4955.11,No,1,991.022
+P0260,Ebony Allen,Ryan Proctor,42,Cardiology,28,3956.51,Yes,2,791.302
+P0261,Julia Jones,Cody Osborne,18,General Medicine,26,6745.56,No,3,1349.112
+P0262,Ann Gutierrez,Michelle Adkins,35,Oncology,16,1651.81,Yes,3,330.362
+P0263,Mary Fields,Wanda Sanders,34,Dermatology,27,6997.03,Yes,4,1399.406
+P0264,Selena Roberts,Philip Leon,85,General Medicine,38,3774.27,Yes,1,754.854
+P0265,David Abbott,Ashley Smith,12,Oncology,28,9412.13,No,2,1882.426
+P0266,Chelsea Young,Amanda Rivera,42,Neurology,40,3433.01,No,3,686.602
+P0267,James Johnson,Amanda Wilson,56,Pediatrics,32,,Yes,5,1559.452
+P0268,Cindy Gonzalez,Andrew Lee,68,Orthopedics,30,1447.1,Yes,5,289.42
+P0269,Susan Kelly,Nicholas Young,73,Oncology,17,1575.78,No,5,315.156
+P0270,Kimberly Phelps,Leslie Neal,14,Dermatology,13,4789.18,No,5,957.836
+P0271,Amanda Young,Bill Craig,56,General Medicine,4,5113.05,Yes,1,1022.61
+P0272,Ruth Johnson,Nicole Howe MD,77,Dermatology,1,3089.37,Yes,4,617.874
+P0273,Christopher Knight,Phillip Pacheco,78,General Medicine,38,1725.07,No,2,345.014
+P0274,Sarah Garrett,Jerry Holden,22,General Medicine,27,1773.38,Yes,4,354.676
+P0275,Lisa Montes,Michelle Morris,12,Oncology,41,9743.8,No,2,1948.76
+P0276,Diane French,John Wolf,50,Oncology,38,7120.36,No,1,1424.072
+P0277,Jessica Jones,Bruce Reed,25,General Medicine,40,1135.87,Yes,3,227.174
+P0278,Andre Moore,Daniel Velasquez,15,Orthopedics,22,6509.28,Yes,3,1301.856
+P0279,Amanda Greene,Michael Esparza,5,Dermatology,29,9328.29,Yes,3,1865.658
+P0280,David Anderson,Randy Evans,49,Cardiology,19,4149.15,Yes,5,829.83
+P0281,Timothy Todd,Alexis Hill,41,General Medicine,8,6658.47,Yes,5,1331.694
+P0282,John Benjamin,Tyler Montoya,67,General Medicine,32,6526.04,No,2,1305.208
+P0283,David Lewis DDS,Christina Harris,17,Pediatrics,12,5041.64,Yes,1,1008.328
+P0284,Alisha Hogan,Joshua Harris,34,Cardiology,36,2288.87,Yes,4,457.774
+P0285,Christopher Webb,Chad Fischer,59,Dermatology,11,7259.71,No,2,1451.942
+P0286,David Morrison,Robert Rojas,79,Oncology,4,5438.96,No,2,1087.792
+P0287,Anna Barry,Samantha Conley,87,Pediatrics,28,5294.57,No,5,1058.914
+P0288,Brenda Wallace,Zachary Floyd,69,Orthopedics,31,3377.88,Yes,2,675.576
+P0289,Joseph Cameron,Christine Horne,47,General Medicine,35,1454.88,Yes,1,290.976
+P0290,Marvin Perez,Kyle Buckley,57,Oncology,8,8575.51,No,1,1715.102
+P0291,Matthew Stark,Jennifer Patterson,71,Orthopedics,18,4369.51,No,4,873.902
+P0292,Charles Moran,Denise Clark,48,Pediatrics,36,5191.5,Yes,3,1038.3
+P0293,Ryan Carpenter,Aaron Bass,50,Oncology,12,3899.22,No,5,779.844
+P0294,Jennifer Clements,Dr. Charles Wilkerson,79,Neurology,42,7725.54,No,5,1545.108
+P0295,Beverly Acevedo,Kara Johnson,58,Dermatology,11,4161.42,No,3,832.284
+P0296,Jennifer Gaines,Mark Tate PhD,10,Cardiology,38,5111.45,Yes,2,1022.29
+P0297,Julia Parsons,Catherine Vargas,11,Pediatrics,29,3061.65,Yes,4,612.33
+P0298,Lori Bell,Lisa Rice,22,Neurology,44,6122.46,Yes,5,1224.492
+P0299,Melissa Maxwell,Kathleen Gonzalez,48,Dermatology,22,658.8,No,1,131.76
+P0300,Joseph Fisher,Joseph Short,37,Orthopedics,2,3521.88,Yes,1,704.376
+P0301,Maria Mora,Travis Dunlap,88,Neurology,18,9559.5,No,4,1911.9
+P0302,Amy Gray,Jared Palmer,61,General Medicine,23,4228.98,No,1,845.796
+P0303,Tyler Howe,Shannon Hatfield,61,Orthopedics,7,4579.93,No,1,915.986
+P0304,Roger Stevens,Raymond Brown,24,Dermatology,14,5624.89,No,2,1124.978
+P0305,Brianna Howell,James Anderson,51,Oncology,25,6083.23,No,4,1216.646
+P0306,Jamie Sutton,Kathleen Washington,69,Cardiology,40,4597.87,Yes,4,919.574
+P0307,Erica Shields,Carlos Miller,2,Cardiology,41,3398.54,No,2,679.708
+P0308,Tracy Martinez,Janet Thompson,Unknown,Oncology,28,1042.55,No,3,208.51
+P0309,Richard Garner,Michael Wright,1,Dermatology,34,862.42,No,1,172.484
+P0310,Pamela Adams,Kimberly Stone,48,Oncology,18,3163.31,Yes,2,632.662
+P0311,Melissa Leach,Lisa Reeves,66,Orthopedics,42,1818.63,Yes,4,363.726
+P0312,Douglas Hoffman,Devin Oliver,45,Neurology,19,1338.5,No,2,267.7
+P0313,Jeffrey Clark MD,Tanya Mckenzie,76,Oncology,45,3471.13,No,4,694.226
+P0314,Mr. Matthew Berry,Heather Bailey,68,Dermatology,26,9108.09,Yes,4,1821.618
+P0315,Felicia Wilkins,Steve Daniel,10,Neurology,23,4885.59,No,2,977.118
+P0316,Elizabeth Green DDS,Kyle Glover,47,General Medicine,14,6448.55,No,5,1289.71
+P0317,Isabel Vasquez,David Miller,9,Oncology,14,8492,No,1,1698.4
+P0318,Aaron Anderson,Andrea Shaw,35,Neurology,7,9655.57,No,1,1931.114
+P0319,Natalie Smith,Donald Robertson,29,Dermatology,22,9797.5,Yes,2,1959.5
+P0320,Joseph Anderson,Elizabeth Long,32,Pediatrics,42,8109.29,No,4,1621.858
+P0321,Jillian Cook,Tonya Dunlap,3,Dermatology,44,2405.6,Yes,4,481.12
+P0322,Steve Martin,Richard Webb,75,Orthopedics,9,7355.5,Yes,3,1471.1
+P0323,Kelly Munoz,David Dean,21,Dermatology,1,7469.93,Yes,4,1493.986
+P0324,Patrick Gutierrez,Tony Clements,71,Dermatology,34,548.29,Yes,2,109.658
+P0325,Katie Roman,Brianna Johnson,19,General Medicine,29,9269.16,No,2,1853.832
+P0326,Susan Perez,Cheryl Quinn,44,Oncology,37,5892.62,Yes,5,1178.524
+P0327,Jose Gutierrez,Victor Chase,78,Cardiology,27,,No,3,747.106
+P0328,Kristen Rios,Diana Contreras,19,Orthopedics,31,1257.32,No,3,251.464
+P0329,Elizabeth Carr,Christina Johnson,54,General Medicine,26,4148.07,Yes,5,829.614
+P0330,Cathy Ortiz,Emma Brown,55,Neurology,4,6206.08,Yes,5,1241.216
+P0331,Misty Johnson,Veronica Chapman,3,Oncology,7,5159.29,No,1,1031.858
+P0332,Mark Rodriguez,Anna Edwards,20,Cardiology,20,2947.34,Yes,4,589.468
+P0333,Stephen Perez,Annette Poole,8,Neurology,13,899.23,Yes,5,179.846
+P0334,Barbara Murray,Cathy Rodriguez,46,General Medicine,45,896.83,Yes,2,179.366
+P0335,Michael Robinson,Joseph Meyer,37,Oncology,42,8559.83,No,2,1711.966
+P0336,Kristy Williams,Sierra Peterson,42,Dermatology,37,9297.01,Yes,3,1859.402
+P0337,David Brewer,Daniel Ingram,61,Cardiology,18,9470.29,Yes,1,1894.058
+P0338,Adam Johnson,,22,Pediatrics,13,1542.28,No,1,308.456
+P0339,Peter Riley,Joseph Lucero,20,Cardiology,20,9348.97,No,1,1869.794
+P0340,Randy Mason,Cindy Mueller,7,Cardiology,38,1666.71,Yes,5,333.342
+P0341,Thomas Short,Mark Hamilton,19,Cardiology,10,4788.05,Yes,4,957.61
+P0342,Tammie Guzman PhD,Amber Crane,14,Dermatology,15,734.09,No,2,146.818
+P0343,Margaret Hernandez,Richard Summers,63,General Medicine,6,6051.27,No,3,1210.254
+P0344,Phyllis Mullen,Seth Kaiser DVM,38,Neurology,36,3779.23,Yes,2,755.846
+P0345,Katherine Torres,Alexander Brooks,46,Orthopedics,17,3976.2,Yes,3,795.24
+P0346,Jill Green,Nicole Turner,24,General Medicine,4,8850.25,No,4,1770.05
+P0347,Julia Mitchell,Ronnie Mcdonald,71,Orthopedics,40,2979.03,Yes,5,595.806
+P0348,Christine Johnson,Amanda Lopez,87,Dermatology,13,4375.55,Yes,4,875.11
+P0349,Christine Liu,Joseph Williams,15,Oncology,6,2366.71,No,4,473.342
+P0350,Christopher Salazar,Daniel Jones,45,Oncology,38,5284.56,No,5,1056.912
+P0351,Kristine Bullock,Hunter Thompson,74,Dermatology,8,4441.08,No,3,888.216
+P0352,Monica Murphy,Jessica Thompson DVM,23,Pediatrics,7,3501.91,Yes,1,700.382
+P0353,Julie Clark,Kathy Garner,27,Pediatrics,23,1767.9,No,1,353.58
+P0354,Paul Little,Kayla Johnson,72,Pediatrics,11,3114.76,No,5,622.952
+P0355,Kenneth Odom,Dustin Freeman,31,General Medicine,1,8262.87,No,5,1652.574
+P0356,Jody Ramirez,David Olson,28,Oncology,14,8872.64,No,2,1774.528
+P0357,Glenn Smith,Stefanie Butler,53,General Medicine,19,9300.35,Yes,1,1860.07
+P0358,Cathy Hanson,Craig Rasmussen,7,Neurology,36,7294.71,No,2,1458.942
+P0359,Heather Barnes,Tina Brock,12,Neurology,16,9987.76,Yes,1,1997.552
+P0360,Amanda Morales,Katie Gould,80,Dermatology,40,2437.6,No,5,487.52
+P0361,John Horn,Larry Becker,3,Orthopedics,5,1015.45,No,3,203.09
+P0362,Bonnie Roberts,Paul Huber,51,Pediatrics,31,4031.61,Yes,2,806.322
+P0363,Michael Hendricks,William Sosa,3,Pediatrics,27,9282.26,No,4,1856.452
+P0364,Devin Nicholson,Holly Wright,2,Pediatrics,32,1430.67,Yes,1,286.134
+P0365,Mathew Doyle,Jennifer Salinas,9,Pediatrics,1,5157.42,No,5,1031.484
+P0366,Gabriel Gilbert,Charlotte Gonzalez DDS,5,Neurology,4,9285.5,No,1,1857.1
+P0367,Cody Barker,Jesus Bennett,72,Oncology,36,3334.83,Yes,2,666.966
+P0368,Christopher Townsend,Regina Merritt,55,General Medicine,39,423.25,No,5,84.65
+P0369,Eric Mccall,Ricardo Alvarez,76,Dermatology,4,7629.89,Yes,2,1525.978
+P0370,Michael Alvarez,Veronica Matthews,48,Oncology,9,5863.17,No,4,1172.634
+P0371,Andrew English,Ryan Estrada,15,General Medicine,33,3280.01,No,4,656.002
+P0372,Elizabeth Russell,Jessica Watson,27,Orthopedics,24,,Yes,2,438.176
+P0373,Claire Thomas,Amy Green,22,Pediatrics,19,9761.67,No,2,1952.334
+P0374,Jacob Powell,Jennifer Berry,35,Cardiology,16,2579.76,Yes,5,515.952
+P0375,Courtney Key,Alex Berry,90,Cardiology,13,7217.9,No,2,1443.58
+P0376,Alexandra Oneal,Steven Leblanc,26,Oncology,1,7300.53,Yes,5,1460.106
+P0377,Daniel Lamb,Jamie Morgan,76,Pediatrics,17,705.45,No,5,141.09
+P0378,Peter Warner,Diamond Bean,12,Oncology,4,4064.89,Yes,3,812.978
+P0379,Lucas Benton,Stephanie Lynch,43,Cardiology,7,1652.63,Yes,4,330.526
+P0380,Devon Chapman,,5,General Medicine,40,3059.74,No,3,611.948
+P0381,Hannah Hill,Richard Moody,81,Oncology,34,5280.96,No,3,1056.192
+P0382,Brian Jones,Nicole Martin,39,Neurology,31,8323.38,No,3,1664.676
+P0383,Jeffery Weber,Carol Higgins,79,Dermatology,11,8444.2,Yes,3,1688.84
+P0384,Brandon Hays,Shannon Rodriguez,19,Cardiology,2,1144.53,No,5,228.906
+P0385,Kathleen Williams,Claudia Stone,72,Neurology,44,9230.27,Yes,5,1846.054
+P0386,Shane Haley,Michelle Cook,24,Oncology,7,2325.88,Yes,4,465.176
+P0387,Renee James,Joseph Moore,46,Dermatology,40,4877.54,No,1,975.508
+P0388,Christopher Johnson,Brianna Yoder,85,Pediatrics,3,4101.98,Yes,2,820.396
+P0389,James Lloyd,Julie Dorsey,75,Oncology,23,8652.55,Yes,2,1730.51
+P0390,Jessica Webb,Roy Howe,88,Cardiology,22,1303.23,No,4,260.646
+P0391,Kimberly Morton,Lisa Ferguson,37,Orthopedics,44,8228.51,Yes,3,1645.702
+P0392,Joseph Drake,Daniel Taylor,68,General Medicine,19,6258.79,Yes,3,1251.758
+P0393,Kelly Vasquez,Lisa Smith,87,Pediatrics,37,2896.04,Yes,4,579.208
+P0394,Sheryl Franklin,Randall Hernandez,63,Pediatrics,2,1216.76,Yes,2,243.352
+P0395,Michelle Bennett,Katie Thompson,43,General Medicine,23,7279.52,No,2,1455.904
+P0396,Eric Campbell,Kristin Harris MD,82,General Medicine,35,1620.88,Yes,4,324.176
+P0397,Stephanie Castro,Mark Thornton,71,Oncology,14,8361.63,Yes,1,1672.326
+P0398,Dylan Vasquez,Brian Wagner,50,General Medicine,7,4421.57,Yes,5,884.314
+P0399,Andrea Myers,James Preston,47,Cardiology,30,5380.61,No,5,1076.122
+P0400,Jackson Phillips,Richard Grant,87,Pediatrics,26,3809.46,Yes,1,761.892
+P0401,Angela Harvey,William Cooper,88,Dermatology,45,4508.57,Yes,4,901.714
+P0402,Nicholas Bennett,Aaron Brown,15,Orthopedics,39,2297.92,No,4,459.584
+P0403,Karen Gilmore,Sara Pollard,60,Orthopedics,25,2395.51,Yes,2,479.102
+P0404,Craig Jones,Devin Jackson,50,Dermatology,44,529.86,Yes,3,105.972
+P0405,Charles Wilson,Jeremy Mendoza,61,General Medicine,4,8974.42,No,3,1794.884
+P0406,Kyle Cole,Tyler Young,41,Neurology,14,972.84,No,3,194.568
+P0407,John Ramirez,Tiffany Martin,52,Orthopedics,2,3031.75,No,3,606.35
+P0408,Catherine Owens,Michael Mcbride,59,Orthopedics,23,8054.48,No,3,1610.896
+P0409,Janet Snyder,Mr. Scott Montgomery,14,Dermatology,3,5733.19,Yes,2,1146.638
+P0410,Randy King,Allison Martinez,67,Pediatrics,27,6089.12,No,5,1217.824
+P0411,Hayley Carr DVM,James Church,27,Oncology,26,4233.11,No,4,846.622
+P0412,Michael Pena,Justin Smith,88,Orthopedics,30,9671.09,No,4,1934.218
+P0413,Rachel Thomas,Stephanie Williams,42,Pediatrics,7,3678.74,No,5,735.748
+P0414,Sandy Bryant,James Chapman,90,Cardiology,20,4284.72,Yes,4,856.944
+P0415,Cynthia Rodriguez,Melinda Sanchez,40,Dermatology,6,9816.91,No,3,1963.382
+P0416,James Walker,Cynthia Martinez,85,Orthopedics,34,9738.45,No,5,1947.69
+P0417,Samuel Smith,Ms. Tara Romero,71,Orthopedics,11,4741.36,No,1,948.272
+P0418,Sarah Kennedy,Paige Adams,63,Oncology,2,8296.37,No,1,1659.274
+P0419,Richard Rose,David Williams,62,Cardiology,10,5506.62,Yes,4,1101.324
+P0420,Corey Butler,Adam Clark,69,General Medicine,31,5463.67,Yes,2,1092.734
+P0421,James Clark,Melissa Pitts PhD,12,Dermatology,36,7609.75,No,4,1521.95
+P0422,Harold Clark,Jeremy Barrett,57,Orthopedics,32,4393.7,Yes,2,878.74
+P0423,Vernon Thomas,Laurie Tran,36,Orthopedics,21,6680.82,Yes,2,1336.164
+P0424,Tanner Bryant,Mrs. Tiffany Liu,32,Cardiology,4,9791.49,No,3,1958.298
+P0425,Angela Costa,Sandra Johnson,73,Oncology,37,1957.12,Yes,2,391.424
+P0426,Kevin Lawrence,Robert Archer,38,Cardiology,10,4328.24,Yes,4,865.648
+P0427,Michael Washington,Jessica Evans,57,Neurology,31,8551.97,No,5,1710.394
+P0428,Rachel Moreno,Diana Carlson,43,Orthopedics,28,1404.41,No,5,280.882
+P0429,Carol Reeves,Deborah Hayes,3,Pediatrics,20,660.47,Yes,2,132.094
+P0430,Elizabeth Patel,Kyle Kirk,80,Dermatology,14,8173.39,YES,2,1634.678
+P0431,Diana Boyd,Pamela Brown,26,Oncology,8,5579.39,Yes,1,1115.878
+P0432,Lawrence Harris,Jason Oneal,74,Orthopedics,23,736.6,No,2,147.32
+P0433,Keith Smith,Michele Ward,26,Neurology,35,6223.91,Yes,3,1244.782
+P0434,Justin Burke,Brianna Thompson,81,Neurology,19,2340.79,No,4,468.158
+P0435,Glenn Rodgers,Stephen Franco,78,Oncology,12,7302.22,No,3,1460.444
+P0436,Kaylee Gonzales,Alicia Nguyen,2,General Medicine,8,3590.51,No,2,718.102
+P0437,Danny Quinn,Kelsey Miller,24,Pediatrics,14,9790.67,Yes,4,1958.134
+P0438,Mary Brown,Michele Cruz,66,Cardiology,23,7173.15,Yes,5,1434.63
+P0439,Jerry Collins,Tammy Sullivan,64,General Medicine,22,2954.84,No,2,590.968
+P0440,Travis Hughes,James Sosa,5,Cardiology,11,9893.51,Yes,5,1978.702
+P0441,Emily Allen,Patty Williams,61,Neurology,27,8339.81,No,4,1667.962
+P0442,Christopher Cuevas,Nathaniel Benjamin,33,Oncology,4,717.41,No,4,143.482
+P0443,Jessica Walsh,Angela Martin,88,Neurology,38,5209.07,Yes,5,1041.814
+P0444,Michael Werner,Tyler Lewis,26,Pediatrics,18,976.78,No,5,195.356
+P0445,Gabriel Garrison,Nathaniel Lucas,84,Oncology,19,9423.41,No,2,1884.682
+P0446,Jessica Porter,Kelly Marquez,28,General Medicine,31,6354.8,No,3,1270.96
+P0447,Barry White,Louis Lewis,76,Pediatrics,9,2296.4,Yes,3,459.28
+P0448,Brandon Mack,Isaac Herman,66,Neurology,32,2456.48,No,4,491.296
+P0449,Wendy Frye,Lisa Erickson,22,Cardiology,32,3227.73,No,3,645.546
+P0450,Morgan Martin,Kristina Rojas,58,Pediatrics,14,5992.18,Yes,2,1198.436
+P0451,Manuel Moore,Mary Grimes,72,General Medicine,45,8109.63,Yes,4,1621.926
+P0452,William Pittman,Laura Gomez,83,Oncology,17,7033.71,Yes,2,1406.742
+P0453,Alyssa Jennings,John Taylor,Unknown,General Medicine,5,4561.35,Yes,4,912.27
+P0454,Kristen Gray,Megan Vasquez,17,Cardiology,11,982.31,Yes,3,196.462
+P0455,Rodney Jordan,Dennis Turner,18,Dermatology,19,957.29,No,5,191.458
+P0456,Frank Gray,Carlos Price,81,General Medicine,38,5307.02,Yes,4,1061.404
+P0457,David Wu,Robin Eaton,9,Cardiology,34,6946.15,Yes,3,1389.23
+P0458,Shannon Howell,Fernando Aguilar,41,Dermatology,23,4003.68,Yes,1,800.736
+P0459,Nicholas Johnson,Janet Rosales,27,Oncology,19,1784.39,Yes,2,356.878
+P0460,Annette Dominguez,Kathy Gomez,46,Pediatrics,32,1288.8,Yes,5,257.76
+P0461,Jeffery Hardin,Amy Ramirez,29,Neurology,36,7832.04,No,4,1566.408
+P0462,Richard Townsend,Whitney Carter DVM,25,Cardiology,26,6387.59,Yes,1,1277.518
+P0463,Bobby Gonzalez,Tasha Floyd,75,General Medicine,36,1348.1,No,3,269.62
+P0464,Erik Kaufman,Taylor Harris,61,Neurology,24,5537.14,No,5,1107.428
+P0465,Anna Reeves,James Knox,22,General Medicine,36,5726.5,No,5,1145.3
+P0466,Matthew Maynard,John Holloway,Unknown,Orthopedics,41,1344.19,No,5,268.838
+P0467,Amanda Myers,Deborah Melendez,84,General Medicine,2,4833.44,No,2,966.688
+P0468,Stacy Jones,Tyler Mccoy,55,Orthopedics,11,760.62,Yes,2,152.124
+P0469,Timothy Haas,Richard Romero,26,Neurology,16,5878.99,Yes,3,1175.798
+P0470,Sharon Gardner,Courtney Clay MD,68,General Medicine,36,2078.79,No,2,415.758
+P0471,Julie Dorsey,Katelyn Lewis,85,Cardiology,28,3078.9,No,2,615.78
+P0472,Veronica Gallegos,William Davis,11,Dermatology,44,2804.52,Yes,4,560.904
+P0473,Thomas Thompson,Mr. Brad Porter,12,General Medicine,10,9087.5,Yes,5,1817.5
+P0474,Bradley Rose,Michael Cruz,6,Orthopedics,27,636.2,No,2,127.24
+P0475,Stephen Oliver,Aaron Wise,3,General Medicine,7,5455.18,No,3,1091.036
+P0476,Nathan Owen,Daniel Hill,23,Cardiology,6,6495.4,No,4,1299.08
+P0477,Tyler Williams,Danielle Smith,61,Dermatology,34,3026.74,Yes,4,605.348
+P0478,Adam Little,Kathryn Hammond,83,Pediatrics,12,9937.25,No,4,1987.45
+P0479,Peter Navarro,Philip Roberson,50,Dermatology,39,5298.46,Yes,3,1059.692
+P0480,Kathryn Long,Nathan Cook,88,Cardiology,8,9274.37,Yes,2,1854.874
+P0481,Jeffrey Hernandez,Anna Fisher,11,Neurology,41,7334.86,Yes,2,1466.972
+P0482,Kristi Stewart,Melissa Jones,29,Neurology,1,6103.37,Yes,5,1220.674
+P0483,Eric Watkins,Morgan Lewis,38,Orthopedics,5,,Yes,3,1393.822
+P0484,Nicholas Moody,Joseph Hernandez,80,Cardiology,1,,No,2,1405.496
+P0485,Christopher Lawson,Jill Harvey,54,Pediatrics,17,522.36,No,3,104.472
+P0486,Andrew Rich,Larry Arias,32,Orthopedics,6,4637.34,No,4,927.468
+P0487,Dr. Miranda Blair,James Smith,79,Cardiology,12,6328.21,No,2,1265.642
+P0488,Donna Best,Nicholas Adams,79,Orthopedics,25,2436.86,Yes,5,487.372
+P0489,Mark Watkins,Mary Henderson,52,Pediatrics,18,8414.14,No,2,1682.828
+P0490,Cynthia Flores,Kevin Gonzalez,89,Orthopedics,4,4713.87,No,3,942.774
+P0491,Barbara Garcia,Thomas Martinez,67,Orthopedics,39,8326.84,Yes,4,1665.368
+P0492,Bonnie Willis,Gregory Jones,40,General Medicine,16,3998.37,No,2,799.674
+P0493,Tina Murray,Howard Hernandez,50,Pediatrics,35,7688.92,No,1,1537.784
+P0494,Micheal Williams,Sherry Nichols,23,Orthopedics,36,1003.33,No,3,200.666
+P0495,Desiree Carter,Brandon Richmond,78,Dermatology,11,7448.76,Yes,4,1489.752
+P0496,Christina Ortiz,,68,Dermatology,1,710.74,Yes,5,142.148
+P0497,Timothy Roberts,Zachary Greene,49,Neurology,17,4298,Yes,3,859.6
+P0498,Kari Gonzalez MD,Shawn Payne,53,Cardiology,13,5694.66,Yes,4,1138.932
+P0499,Timothy Evans,Wayne Petty,8,Neurology,12,6511.17,Yes,5,1302.234
+P0500,Troy Thompson,Jeffrey Nash,88,Orthopedics,18,987.09,Yes,3,197.418
+P0501,Janet Rich,Matthew Boyer,35,Pediatrics,26,7337.82,No,1,1467.564
+P0502,Michael Martin,Christine Perkins,75,Pediatrics,7,7407.06,Yes,3,1481.412
+P0503,Caroline Holt,Richard Campbell,71,Oncology,7,4136.1,No,4,827.22
+P0504,Reginald Good,Valerie Walker,87,Neurology,10,574.42,Yes,2,114.884
+P0505,Meredith Kelley,Michael Russo,13,Orthopedics,12,6121.19,Yes,3,1224.238
+P0506,Kelly Jefferson,Julie Whitaker,42,Pediatrics,18,8871.62,Yes,1,1774.324
+P0507,Brittany Kelley,Tammy Manning,9,Oncology,9,1344.46,Yes,4,268.892
+P0508,William Brown,Gabrielle Robinson,22,Pediatrics,36,8144.33,No,2,1628.866
+P0509,William Burke,Jennifer Richardson,72,General Medicine,4,9820.96,No,5,1964.192
+P0510,Crystal Wagner,Patrick Short,90,Orthopedics,9,6134.06,Yes,2,1226.812
+P0511,Tiffany Murphy,Adam Mcguire,43,Oncology,36,2817.34,No,2,563.468
+P0512,Roberto Carlson,Barry George,60,Cardiology,7,4019.57,No,5,803.914
+P0513,Melissa Butler,Karen Roth,23,Pediatrics,31,,No,5,1730.494
+P0514,Rebecca Contreras,Todd Perez,65,Pediatrics,37,9840.97,No,4,1968.194
+P0515,Julie Nelson,Charles Mclaughlin,56,Oncology,27,4437.38,Yes,5,887.476
+P0516,Daniel Kennedy,Julia Gomez,2,Neurology,34,8210.35,No,4,1642.07
+P0517,Stephanie Stokes,Angela Gonzales,86,Dermatology,14,7166.6,Yes,4,1433.32
+P0518,David Perez,Jonathan Villarreal,45,General Medicine,39,6871.74,No,1,1374.348
+P0519,Amy Hurley,Robert Taylor,14,Pediatrics,34,5430.95,Yes,5,1086.19
+P0520,Kimberly Cuevas,Roy Moore,63,Pediatrics,10,3480.33,Yes,3,696.066
+P0521,James Williams,Catherine Walker,15,Orthopedics,2,9065.29,Yes,2,1813.058
+P0522,Ashley Allen,Fernando Price,66,Oncology,13,3188.98,No,3,637.796
+P0523,Gabriella Franklin,Elizabeth Long DVM,4,Dermatology,23,9877.9,Yes,2,1975.58
+P0524,Kayla Price,Lisa Gibson,9,Pediatrics,3,5126.46,No,2,1025.292
+P0525,Erika Burton,Charles Werner,88,Neurology,11,2112.02,Yes,3,422.404
+P0526,Jennifer Thomas,Lindsay Russo,35,Cardiology,4,3548.66,No,5,709.732
+P0527,Andrew Young,Mr. Christopher Allen,14,Pediatrics,39,5773.07,Yes,4,1154.614
+P0528,Craig Odom,,23,Neurology,6,4912.01,No,1,982.402
+P0529,Lindsay Wong,Teresa Kennedy,69,Neurology,34,7570.29,No,5,1514.058
+P0530,Linda Moss,Ashley Reyes,45,Cardiology,1,9627.97,No,5,1925.594
+P0531,Christopher Chen,Aaron Evans,73,Neurology,28,6882.86,Yes,3,1376.572
+P0532,Emily Nelson,David Lopez,47,Dermatology,40,9625.34,No,2,1925.068
+P0533,Christina Thomas,Andrew Baker,70,General Medicine,38,2088.14,No,5,417.628
+P0534,Ryan Watkins,Rachel Gray,23,Cardiology,33,5199.77,No,5,1039.954
+P0535,Derek Huff,Max Haley,28,Cardiology,12,6364.89,Yes,4,1272.978
+P0536,Julie Williams,,34,Cardiology,16,4020.13,Yes,2,804.026
+P0537,Brenda Cummings,,Unknown,Dermatology,39,2320.66,Yes,5,464.132
+P0538,Jonathan Schmidt,Maria Collins,31,Neurology,12,7901.01,No,4,1580.202
+P0539,Michael Nash,Nicholas Jones,42,Orthopedics,2,2884.53,No,3,576.906
+P0540,Alexis Hayes,Nicole Moyer,43,Neurology,14,8053.88,No,3,1610.776
+P0541,Brittany Zamora,Scott Chavez,60,Cardiology,43,,Yes,2,810.758
+P0542,Phillip Patterson,Danielle White,25,General Medicine,38,8525.5,Yes,1,1705.1
+P0543,Drew Ward,David Davidson,79,Dermatology,10,6962.53,Yes,3,1392.506
+P0544,William Davis,Angela Quinn,32,Neurology,21,8204.13,No,2,1640.826
+P0545,Mark Morrison,Danielle Nunez,22,Neurology,29,2084.7,Yes,2,416.94
+P0546,Angela Monroe,Andre Ryan,37,General Medicine,18,1523.64,No,4,304.728
+P0547,Kristina Beck,Scott Shaw,52,Cardiology,21,3319.77,No,1,663.954
+P0548,Elizabeth Lynch,Katherine Rose,57,Orthopedics,14,2851.67,Yes,4,570.334
+P0549,Christian David,Christopher Charles,79,Orthopedics,29,341.08,Yes,1,68.216
+P0550,Kendra Armstrong MD,Nicole Brown,83,Neurology,11,9117.02,Yes,5,1823.404
+P0551,Jennifer Oliver,Mr. Jose Morris,57,Neurology,9,3926.15,Yes,3,785.23
+P0552,Courtney Tucker,William Mayo,87,Pediatrics,43,7912.47,Yes,2,1582.494
+P0553,Emily Moore,Chelsea James,1,Neurology,21,4553.74,No,3,910.748
+P0554,Mark Jones,Stephen Scott,36,Dermatology,25,3695.14,Yes,5,739.028
+P0555,Elizabeth Rosales,Melissa Kirk,59,Orthopedics,29,7358.2,No,2,1471.64
+P0556,Steven Carroll,Tanner Jones,29,Dermatology,3,4230.52,No,3,846.104
+P0557,Shannon Davidson,Steven Cline,1,General Medicine,45,3311.44,No,1,662.288
+P0558,Jason Waters,Allison Evans,74,Neurology,24,1049.14,Yes,2,209.828
+P0559,Elizabeth Hansen,Elizabeth Williams,83,Cardiology,25,5943.07,YES,2,1188.614
+P0560,Amber Ramirez,Laura Carter,76,Orthopedics,25,4885.1,No,5,977.02
+P0561,Pamela Ellis,Peter Morton,7,Cardiology,29,3976.91,Yes,4,795.382
+P0562,Debra Reese,David Lam,34,Dermatology,18,7663.63,Yes,4,1532.726
+P0563,Michael Valencia,Dylan White,31,Pediatrics,42,5863,Yes,1,1172.6
+P0564,Michael Mckinney,Michelle Moore,5,Oncology,25,7921.68,No,4,1584.336
+P0565,Jesse Bailey,Patrick Parsons,85,Cardiology,15,6729.8,No,3,1345.96
+P0566,James Davidson,Chad Palmer,26,Pediatrics,44,7982.51,No,5,1596.502
+P0567,Timothy Johnson,Kathleen Taylor,17,Oncology,15,8475.24,No,4,1695.048
+P0568,Joe Robles,Ashley Yates,43,Pediatrics,7,6758.16,No,5,1351.632
+P0569,Nicholas White,Shane Boyd,80,Dermatology,25,5905.77,Yes,2,1181.154
+P0570,Tanya Hughes,Alexis Smith,42,Neurology,20,7670.25,No,5,1534.05
+P0571,Debra Nicholson,Lauren Jordan,61,Cardiology,24,6599.62,No,2,1319.924
+P0572,Sherry Evans,Mr. Bradley Sherman II,14,Pediatrics,13,6318.7,No,4,1263.74
+P0573,Stephen Mullen,Phillip West,52,Cardiology,20,7334.81,Yes,4,1466.962
+P0574,Matthew Brooks,Rebecca Sawyer,60,Cardiology,40,3010.34,No,2,602.068
+P0575,Tara Rivas,Cassandra Reid,9,Orthopedics,30,6579.43,Yes,5,1315.886
+P0576,Julie Payne,Becky Deleon,87,Cardiology,1,9827.15,No,4,1965.43
+P0577,Wesley Case,Terri Stevens,47,Cardiology,43,4801.34,Yes,4,960.268
+P0578,Eric Ward,Patricia Smith,66,Pediatrics,21,7637.39,No,2,1527.478
+P0579,Anthony Baker,Bruce Bell,84,Dermatology,18,2569.76,Yes,3,513.952
+P0580,Leonard Williams,Jonathan Hall,43,Cardiology,15,6507.35,No,4,1301.47
+P0581,Sean Kent,John Walker,47,Oncology,31,7561.42,No,2,1512.284
+P0582,James James,Travis Hardy,48,Orthopedics,25,2924.25,Yes,2,584.85
+P0583,Susan Freeman,Joe Campbell,39,Dermatology,17,4753.01,Yes,1,950.602
+P0584,Logan Gates,Kathy Harris,68,Neurology,36,8864.32,No,5,1772.864
+P0585,Daniel Brown,Andrea Phillips,21,Dermatology,34,3353.88,No,4,670.776
+P0586,Ronald Harrell,Linda Gonzales,77,Oncology,18,6128.11,Yes,3,1225.622
+P0587,Jon Johnson,Cheryl Whitaker,19,Neurology,44,4168.44,Yes,4,833.688
+P0588,Alison James,Jesse Weber,66,Neurology,32,5882.41,Yes,2,1176.482
+P0589,Adam Bryant,Charles Beard,69,Cardiology,18,3686.5,No,5,737.3
+P0590,Michelle Sweeney,Joseph Becker,11,Dermatology,10,9400.87,No,1,1880.174
+P0591,Kathryn Moreno,Tanya Rhodes,85,Neurology,28,8926.69,Yes,3,1785.338
+P0592,Jonathan West,Patrick Walker,15,Dermatology,22,2942.84,No,5,588.568
+P0593,Lisa Pope,Craig Anderson,42,Orthopedics,43,6159.57,No,4,1231.914
+P0594,Julie Wilson,Nicole Parker,83,Dermatology,29,2108.71,No,4,421.742
+P0595,Terry Hernandez,Jose Vincent,10,Oncology,40,972.26,No,1,194.452
+P0596,Daniel Kane,Justin Harris,31,Dermatology,29,5298.78,Yes,4,1059.756
+P0597,Lisa Jones,Christina White,40,Neurology,45,955.29,Yes,2,191.058
+P0598,Beth Dean,Jared Hooper,1,Pediatrics,18,3889.13,Yes,4,777.826
+P0599,Gilbert Gutierrez,Patricia Hicks,8,Cardiology,16,1175.07,No,1,235.014
+P0600,Cynthia Clark,Sarah Byrd,8,Orthopedics,8,9687.46,Yes,4,1937.492
+P0601,Tammy Jones,Andrew Fitzgerald,74,Orthopedics,31,5866.76,Yes,4,1173.352
+P0602,Dustin Ford,Amy Daniels,74,Neurology,39,8232.77,Yes,2,1646.554
+P0603,Garrett Landry,Joseph Aguilar,21,Oncology,26,5999.98,Yes,3,1199.996
+P0604,Keith Briggs,,25,Oncology,26,4069.01,No,3,813.802
+P0605,Kimberly Norris,Amy Evans MD,9,Neurology,25,7160.91,Yes,1,1432.182
+P0606,Tracey Ramsey,Brian Phelps,83,Cardiology,5,5815.78,No,3,1163.156
+P0607,Lori Buck,Ashley Potts,9,Oncology,36,7465.04,No,2,1493.008
+P0608,Michael Scott,Tiffany Sherman,11,Neurology,37,9509.37,No,4,1901.874
+P0609,Erin Hale,Russell Johnson,14,General Medicine,25,7495.15,No,2,1499.03
+P0610,Cassandra Gordon,John Ali,31,General Medicine,8,9616.74,No,4,1923.348
+P0611,David Berger,Amy Perry,3,Pediatrics,19,9578.25,Yes,1,1915.65
+P0612,Lori Hunter,Jamie Garcia,58,Cardiology,9,8645.74,Yes,2,1729.148
+P0613,Kelly Patel,Jennifer Hughes,25,Cardiology,6,9096.14,Yes,4,1819.228
+P0614,Peggy Thompson,Margaret Green,48,Pediatrics,18,6220.41,No,5,1244.082
+P0615,Courtney Henry,Adrian Turner,25,Orthopedics,3,7319.73,No,3,1463.946
+P0616,Joshua Martin,Ronald Lyons,79,General Medicine,41,6517.87,Yes,4,1303.574
+P0617,Michael Garcia,Mariah Palmer,37,Orthopedics,4,3451.05,Yes,3,690.21
+P0618,Heather Turner,,67,Cardiology,43,7444.03,Yes,4,1488.806
+P0619,Timothy Flores,Rhonda Garcia,71,Neurology,6,8569.62,No,5,1713.924
+P0620,Anthony Harper,Anthony Hopkins,85,Pediatrics,14,2937.88,Yes,4,587.576
+P0621,Danielle Leon,April Brown,5,Oncology,24,6962.18,No,2,1392.436
+P0622,Angela Davis,Eric Myers,44,Dermatology,12,5502.16,Yes,2,1100.432
+P0623,Carol Evans,Robert Galvan,67,Neurology,27,638.13,No,3,127.626
+P0624,Matthew Anderson,Eddie Rasmussen,81,Orthopedics,31,3959.15,Yes,1,791.83
+P0625,Sarah Day,Mark Gutierrez,25,Neurology,36,1823.51,Yes,5,364.702
+P0626,Laura Crawford,Diana Nunez,90,Orthopedics,16,6954.54,No,2,1390.908
+P0627,Meredith Chapman,Jeffrey Lopez,63,Neurology,28,5300.38,Yes,5,1060.076
+P0628,Kimberly Jackson,Ernest Moon,29,Orthopedics,25,,No,5,74.5
+P0629,Tyrone Benson,Robert Ramirez,84,Neurology,31,2603.48,No,2,520.696
+P0630,Nicole Johnson MD,Christian Jones,90,Neurology,42,8252.55,Yes,4,1650.51
+P0631,Felicia Butler,David Griffin,61,Pediatrics,32,705.27,YES,2,141.054
+P0632,Thomas Long,Kathryn Wilson,34,Dermatology,39,8153.02,No,2,1630.604
+P0633,Tiffany Flynn,David Wong MD,86,Cardiology,2,2580.65,Yes,1,516.13
+P0634,Shannon Noble,Brandon Parker,7,Neurology,35,9350.55,No,4,1870.11
+P0635,Cathy Ayers,Douglas Johnson,15,Pediatrics,9,2804.72,No,2,560.944
+P0636,Angela Roberts,Sean Mcintosh,71,Oncology,31,9555.49,Yes,3,1911.098
+P0637,Ashley Frey,Dawn Scott,65,Orthopedics,4,3432.91,No,4,686.582
+P0638,Jennifer Brown,Julia Taylor,18,Oncology,41,7658.15,Yes,4,1531.63
+P0639,Madeline Moore,Terry Wells,34,Dermatology,38,9355.09,No,3,1871.018
+P0640,Shirley Floyd,Melissa Harrison,42,Pediatrics,39,2903.29,Yes,1,580.658
+P0641,Kevin Thompson,Stephanie Shepherd,31,Cardiology,7,5016.8,No,3,1003.36
+P0642,Darryl Phillips,Nicholas Davis,48,Orthopedics,30,7679.71,No,3,1535.942
+P0643,Amanda Mitchell,Brad Bell,63,General Medicine,13,2994.48,No,2,598.896
+P0644,Megan Briggs,Daniel Jones,54,Orthopedics,7,4438.77,No,3,887.754
+P0645,Jason Ayala,Carmen Castillo,89,Dermatology,29,425.78,No,3,85.156
+P0646,Allen Keith,Carmen Alvarez,65,Cardiology,19,3432.58,Yes,4,686.516
+P0647,Lisa Villegas,Felicia Thompson,48,Cardiology,33,6902.58,No,4,1380.516
+P0648,Julia Shaffer,Miranda Ashley,82,Oncology,33,8837.94,No,5,1767.588
+P0649,Johnny Lawrence,Ryan Coleman,Unknown,Orthopedics,18,5161.74,No,3,1032.348
+P0650,Christopher Williams,Renee Villegas,67,Orthopedics,31,6955.19,No,5,1391.038
+P0651,Isabella Wallace,Wanda Gray,90,Oncology,2,6051.94,Yes,3,1210.388
+P0652,William Todd,Debra Salazar,32,Neurology,9,7691.88,No,3,1538.376
+P0653,Sherry Black,Jeff Bruce,79,General Medicine,9,3422.94,No,5,684.588
+P0654,Belinda Hodges DDS,Katelyn Stewart,82,General Medicine,37,375.27,No,3,75.054
+P0655,Terry Romero,Amber Brown,73,Neurology,36,1026.82,Yes,5,205.364
+P0656,Cynthia Tucker,Ronald Jackson,77,Orthopedics,27,2298.22,Yes,2,459.644
+P0657,Patricia Mendez,Todd Parsons,62,Pediatrics,7,5223.83,No,5,1044.766
+P0658,Alyssa Warren,Pam Callahan,29,Orthopedics,2,5689.35,Yes,3,1137.87
+P0659,James Lopez,Mrs. Angela Clements,88,Pediatrics,37,5367.23,No,4,1073.446
+P0660,Glenn Rogers,Dwayne Wilson,90,General Medicine,26,4965.25,Yes,3,993.05
+P0661,Blake Sanders,Laurie Dawson,29,General Medicine,13,7282.23,Yes,2,1456.446
+P0662,Phillip Mcdonald,Meghan Jennings,45,Neurology,2,8832.3,Yes,5,1766.46
+P0663,Susan Ramos,Jeffrey Lee,86,Dermatology,7,7048.23,No,1,1409.646
+P0664,Heather Hodges,Glenn Mccann,86,Pediatrics,34,1480.95,Yes,1,296.19
+P0665,Joseph Thompson,Hannah Walters,45,Cardiology,27,8374.3,Yes,4,1674.86
+P0666,Erin Rivera,Courtney Clark,62,Oncology,18,6263.3,Yes,4,1252.66
+P0667,Corey Flores,Robert Scott,6,Neurology,11,6823.16,No,5,1364.632
+P0668,Gloria Johnson,Jeff Macias,76,General Medicine,41,428.73,No,1,85.746
+P0669,Mikayla Thompson,Monica Chambers,3,Pediatrics,36,4158.24,No,2,831.648
+P0670,Jennifer Bryant,Sarah Berry,8,Oncology,1,2421.22,Yes,5,484.244
+P0671,Jeffrey Adams,Alexander Lee,31,Pediatrics,34,7587.18,Yes,5,1517.436
+P0672,Christopher Smith,Lawrence Burton,1,Pediatrics,34,3125.99,Yes,2,625.198
+P0673,Crystal Bryant,Antonio Roberson,42,Neurology,33,5385.3,Yes,1,1077.06
+P0674,Alexander Mccarthy,Sharon Rosario,23,Neurology,28,9122.46,No,4,1824.492
+P0675,April Clark,Bonnie Adams,71,Cardiology,4,2966.08,Yes,2,593.216
+P0676,Brian Mcgrath,Stephanie Wood,7,Dermatology,4,3294.24,No,2,658.848
+P0677,Vanessa Webster,Kaitlyn Hale,11,Oncology,17,5562.41,No,2,1112.482
+P0678,Dr. David Mcmillan Jr.,Nancy Glover,62,Orthopedics,14,7648.23,Yes,1,1529.646
+P0679,Adam Brown,Maria Hall,77,Neurology,15,6105.17,No,4,1221.034
+P0680,Ashley Perez,Veronica Lambert,18,Cardiology,25,9315.62,Yes,3,1863.124
+P0681,Kenneth Bailey,Sydney Martin,73,Oncology,10,3885.79,Yes,2,777.158
+P0682,Anthony Craig Jr.,Jason Mann,5,Cardiology,36,9726.43,No,1,1945.286
+P0683,Timothy Martinez,Ms. Jessica Calhoun,79,Cardiology,36,2144.55,No,5,428.91
+P0684,Melinda Thompson,Nicholas Jones,71,Neurology,24,8034.68,No,5,1606.936
+P0685,Joshua Rich,Kristin Mathis,22,Pediatrics,16,428.41,Yes,1,85.682
+P0686,Wesley Kelly,Jacqueline Miranda,90,Oncology,9,5451.34,Yes,3,1090.268
+P0687,Eric Kennedy,James Mason,72,Oncology,41,1900.22,Yes,1,380.044
+P0688,Raymond Rios,Joe West,39,Neurology,3,9071.34,No,4,1814.268
+P0689,Cynthia Smith,Rebecca Watson,80,Orthopedics,20,1864.88,No,5,372.976
+P0690,Craig Dennis,Adam Meyers,37,Cardiology,19,7002.64,Yes,1,1400.528
+P0691,Caleb Potter,Rachel Fischer,77,General Medicine,1,5525.05,Yes,3,1105.01
+P0692,Eric Leonard,Mrs. Danielle Ryan MD,40,Neurology,19,498.11,Yes,3,99.622
+P0693,Phillip Holmes,Ashley Harrison,15,Oncology,18,5211.51,Yes,5,1042.302
+P0694,Heather Lopez,Roberta Snyder,63,Dermatology,38,6818.03,Yes,4,1363.606
+P0695,Teresa Rios,Brendan Harris,31,Neurology,14,6852.55,No,5,1370.51
+P0696,Carmen Goodwin,Lauren Giles,14,General Medicine,3,623.01,No,4,124.602
+P0697,Cody Taylor,Christopher Richardson,8,Oncology,34,1976.76,Yes,2,395.352
+P0698,Anthony Sandoval,Michael Wise,79,Cardiology,18,4180.15,Yes,3,836.03
+P0699,Anthony Powers,Jeffery Kirby,89,Cardiology,2,5370.47,Yes,2,1074.094
+P0700,Amy Wood,Jenny Baird,40,Pediatrics,42,8305.46,Yes,2,1661.092
+P0701,Michael Martin,Mallory Chavez,21,Dermatology,45,8989.35,Yes,2,1797.87
+P0702,Mr. Corey Stanton,Makayla Jones,45,Oncology,31,6823.29,No,3,1364.658
+P0703,Jennifer Lee,Daniel Brown,8,Cardiology,38,4065.09,YES,3,813.018
+P0704,Patrick Tyler,Madeline Vega,80,General Medicine,4,6826.71,No,1,1365.342
+P0705,Dr. Austin Martin DDS,Christopher Brock,33,Oncology,26,5267.41,Yes,3,1053.482
+P0706,Kimberly Reynolds,Jeffrey Thompson,65,Neurology,27,9614.41,No,4,1922.882
+P0707,Terry Carr,Tina Harris,64,Neurology,36,1022.01,No,1,204.402
+P0708,Pamela Watkins,Jessica Rose,5,Cardiology,2,7594.83,No,1,1518.966
+P0709,Mary Sullivan,Sheila Armstrong,62,Pediatrics,41,6256.15,Yes,1,1251.23
+P0710,John Ross,,16,Oncology,26,8613.16,No,1,1722.632
+P0711,Ryan Walker,Mr. Joseph Ward,55,Orthopedics,45,7551.08,Yes,5,1510.216
+P0712,Timothy West,Veronica Gallagher,36,Dermatology,37,,Yes,2,600.948
+P0713,Cindy Jefferson,Joe Delgado,15,General Medicine,37,2012.48,YES,5,402.496
+P0714,Daniel Aguirre,Bradley Conrad,13,Cardiology,18,4461.43,No,3,892.286
+P0715,Tammy Steele,Michael Reed,10,Dermatology,3,794.14,Yes,1,158.828
+P0716,Susan Martin,Tamara Juarez,9,Oncology,33,3246.25,Yes,5,649.25
+P0717,Jaime Johnson,Jerry Rodriguez,56,Neurology,32,1504.92,Yes,5,300.984
+P0718,Christina Fisher,Diane Stephenson,38,Neurology,44,2331.85,Yes,5,466.37
+P0719,Preston Rivera,Patricia Smith,44,Neurology,34,4541.34,No,4,908.268
+P0720,Connie Ferguson,Todd Weber MD,Unknown,Cardiology,39,7471.47,Yes,5,1494.294
+P0721,Michael Andrews,Jeremy Pearson,30,Cardiology,19,2147.75,No,3,429.55
+P0722,Danny Vang,Lauren Robinson,27,Pediatrics,9,349.37,No,1,69.874
+P0723,Patricia Martin,Ryan Crawford,77,Orthopedics,28,3533.82,Yes,3,706.764
+P0724,Brandi Dominguez,John Rosario,44,Orthopedics,3,1383.53,No,4,276.706
+P0725,Jane Lee,Antonio Barr,46,Neurology,33,7494.96,No,1,1498.992
+P0726,Rebecca Yates,Jacqueline George,39,Orthopedics,10,6234.36,Yes,4,1246.872
+P0727,John Keller DDS,John Smith,50,Oncology,4,6212.01,No,1,1242.402
+P0728,Danielle Rios,Amber Murphy,90,Cardiology,18,2808.19,Yes,4,561.638
+P0729,Stephen Tran,Maurice Montes,71,Cardiology,2,,No,4,748.788
+P0730,Ronald Adams,Anna Watson,43,Pediatrics,33,2269.05,Yes,1,453.81
+P0731,Mary Ingram,Andre Collins,51,Neurology,24,1851.49,No,2,370.298
+P0732,Tammy Reed,Ronald Santiago,69,Cardiology,28,3298.4,Yes,2,659.68
+P0733,Jennifer Mejia,Susan Thompson,20,Orthopedics,38,8268.26,Yes,5,1653.652
+P0734,Casey Marquez,Jessica Smith,16,General Medicine,12,8546.49,Yes,4,1709.298
+P0735,Jermaine Mcintosh,Victoria Smith,34,Orthopedics,7,3917.15,Yes,4,783.43
+P0736,Matthew Holder,Kelly Wright,33,Cardiology,29,7668.91,Yes,4,1533.782
+P0737,Joshua Tapia,Tiffany Solis,61,Dermatology,13,6504.76,No,4,1300.952
+P0738,Anna Le,Steven Richards,84,Pediatrics,37,5003.74,No,5,1000.748
+P0739,Kathleen Robinson,Kenneth Gray,74,Oncology,19,2230.87,Yes,3,446.174
+P0740,Oscar Scott,Stephanie Meadows,62,Orthopedics,28,4022.82,No,3,804.564
+P0741,Lisa Rivera,,86,Dermatology,39,753.96,Yes,1,150.792
+P0742,Brittany Fleming,Rebecca Moore,16,Pediatrics,3,3759.46,No,4,751.892
+P0743,Nancy Adams,Christian Caldwell,45,Oncology,2,634.39,No,2,126.878
+P0744,Wayne Young,Steven Rodriguez,59,Orthopedics,42,5992.28,No,4,1198.456
+P0745,Joshua Brown,Brianna Kelley,51,Cardiology,13,8530.85,No,2,1706.17
+P0746,Thomas Russell,Amanda Hernandez,58,Dermatology,9,5976.97,No,1,1195.394
+P0747,Rebecca Brown,Kaitlyn Ashley,46,Orthopedics,19,5944.74,Yes,5,1188.948
+P0748,April Cox,Michael Martin,46,General Medicine,38,3371.28,Yes,3,674.256
+P0749,Jennifer Gould,Matthew Brown,22,General Medicine,4,4527.62,Yes,2,905.524
+P0750,Christopher Wagner,Caroline Schultz,45,Cardiology,8,2079.91,No,2,415.982
+P0751,April Chavez,Jacob Roth,49,Dermatology,41,1654.45,No,4,330.89
+P0752,Luke Weaver,Cory Rogers,1,Orthopedics,23,4576.05,Yes,5,915.21
+P0753,Michael Daugherty,Taylor Schmidt,44,Dermatology,12,315.61,No,1,63.122
+P0754,Veronica Watson,Robert Alvarado,25,Neurology,7,4395.57,No,2,879.114
+P0755,Traci Phillips,Douglas Clark,73,Dermatology,21,4859.34,No,3,971.868
+P0756,Olivia Medina,Duane Johnson,62,Orthopedics,28,9708.71,No,4,1941.742
+P0757,Jeffery Stone PhD,Mr. Brian Miles,11,Neurology,18,3770.2,No,4,754.04
+P0758,Paula Ward,Ashley Bradley,61,Pediatrics,5,808.63,No,4,161.726
+P0759,Anna Joseph,Erika Ward,10,Cardiology,13,6386.99,Yes,1,1277.398
+P0760,Eric Beck,Bryan Howell,4,Neurology,5,3891.2,Yes,3,778.24
+P0761,Michelle Collins,Steve Hunt,88,Pediatrics,22,1329.77,Yes,3,265.954
+P0762,Ashley Zimmerman,Morgan Castillo,64,Dermatology,20,9136.02,Yes,5,1827.204
+P0763,Sarah Rodriguez,Amanda Bradley,42,Pediatrics,10,5101.58,Yes,1,1020.316
+P0764,Patrick Hunter,Robert Swanson,26,Oncology,21,7094.39,Yes,3,1418.878
+P0765,Keith Davenport,Mark Burns,78,Orthopedics,22,6797.46,No,5,1359.492
+P0766,Nicholas White,Christine Santiago,21,Cardiology,30,2641.97,No,3,528.394
+P0767,Manuel Wilson,Russell Garrett,47,Dermatology,38,4849.96,No,3,969.992
+P0768,Melanie Mendez,Thomas Johnson,10,Neurology,19,3819.57,Yes,5,763.914
+P0769,Erin Gonzalez,Christine Johnson,4,Cardiology,10,6100.14,No,2,1220.028
+P0770,Michele Brown,William Olson,4,Pediatrics,36,1632.58,Yes,4,326.516
+P0771,Melvin Murray II,Heather Hardin,4,Neurology,28,3796.99,No,4,759.398
+P0772,Melissa Graham,Eric Chavez,79,Oncology,34,4861.86,No,4,972.372
+P0773,Nichole Smith,Denise Cunningham,5,General Medicine,5,3209.71,Yes,3,641.942
+P0774,Misty Anderson,Alexis Collins,8,Neurology,24,2850.49,Yes,4,570.098
+P0775,Ashley Hamilton,Kevin Garcia,83,Oncology,15,8791.54,Yes,4,1758.308
+P0776,Samantha Walton,Matthew Parks,Unknown,General Medicine,41,,Yes,2,1572.356
+P0777,Felicia Armstrong,Katherine Jones,47,General Medicine,12,5683.91,Yes,3,1136.782
+P0778,Zachary Brown,Briana Gonzalez,67,Orthopedics,8,5772.82,No,4,1154.564
+P0779,Stacey Orozco,Ronald Baxter,9,Dermatology,22,7930.84,Yes,2,1586.168
+P0780,Michael Watson,Ann Mooney,25,Dermatology,20,4643.95,No,5,928.79
+P0781,Daniel Richard,Elizabeth Smith,11,Orthopedics,40,4197.25,No,2,839.45
+P0782,Brian Trevino,Joseph Brooks,82,Cardiology,27,4842.93,No,2,968.586
+P0783,Diana Mahoney,Tamara Porter DDS,77,Neurology,44,7467.32,No,4,1493.464
+P0784,Ashley Valdez,Joseph Mendoza,2,Oncology,21,655.01,No,1,131.002
+P0785,Stacey Brown,Sara Vazquez,15,Dermatology,7,2326.73,No,4,465.346
+P0786,Kelsey Gomez,Shawn Jackson,18,Neurology,35,7780.38,No,2,1556.076
+P0787,Sandra Young,,16,Dermatology,17,9537.92,Yes,3,1907.584
+P0788,Kristen Gallagher,Michael Sparks,75,Oncology,38,9009.08,No,2,1801.816
+P0789,Michael Foster,Benjamin Green,37,Cardiology,44,9665.46,Yes,5,1933.092
+P0790,Allison Green,Alexandria Garcia,55,Pediatrics,25,963.93,No,4,192.786
+P0791,Tammie Moore,Gloria Harmon,18,Oncology,43,5235.24,Yes,4,1047.048
+P0792,Stephanie Todd DVM,Samuel Mack,70,Neurology,2,1636.82,No,4,327.364
+P0793,Phillip Russell,Thomas Williams,3,General Medicine,33,,No,4,1215.292
+P0794,Cory Richardson,Randy Brown,81,Dermatology,22,5715.97,Yes,3,1143.194
+P0795,Amanda Fowler,Michael Christian,39,Oncology,23,5107.92,Yes,5,1021.584
+P0796,Kevin Young,Robert White,74,Neurology,14,7540.64,Yes,5,1508.128
+P0797,Steve Wilson,Sharon Baker,26,General Medicine,30,2671.16,No,2,534.232
+P0798,Danielle Alvarado,Robert Koch,88,General Medicine,22,1663.54,No,5,332.708
+P0799,Danielle Pittman,Tracy West,80,Orthopedics,12,6648.92,Yes,5,1329.784
+P0800,Daniel Stanley,Lindsay Garcia,20,Neurology,16,644.75,No,4,128.95
+P0801,Brendan Cohen,Phyllis Nguyen,55,Pediatrics,21,8896.7,No,3,1779.34
+P0802,Nancy Perry,Mark Wilkinson,66,Orthopedics,27,8913.88,No,3,1782.776
+P0803,Gabrielle Sanders,Devon Moore,56,Pediatrics,8,3429.45,Yes,2,685.89
+P0804,Nicole Torres,Amanda Garcia,67,Orthopedics,30,,No,1,1032.076
+P0805,Joy Castillo,Jacqueline Clay,21,General Medicine,38,6074.63,No,5,1214.926
+P0806,Brittany Owens,Daniel Valdez,31,Pediatrics,10,7707.68,No,5,1541.536
+P0807,Cathy Miller,,81,General Medicine,43,6825.46,No,4,1365.092
+P0808,Gabrielle Cunningham,Kathleen Greer,36,Cardiology,17,2496.1,Yes,4,499.22
+P0809,Tiffany Medina,Kyle Gibson,82,General Medicine,15,9133.39,Yes,4,1826.678
+P0810,Kelly Ramsey,Whitney Howe,16,Pediatrics,35,2610.72,No,4,522.144
+P0811,Jeffrey Rice,Betty Robinson,79,General Medicine,37,807.24,No,3,161.448
+P0812,Dr. Jessica Douglas,Kathleen Tate,24,General Medicine,34,9311.45,Yes,4,1862.29
+P0813,Jennifer Ortiz,Linda Hamilton,71,Dermatology,13,1089.58,No,5,217.916
+P0814,Nathaniel Stuart,Nichole Harper,61,Orthopedics,6,5259.08,Yes,2,1051.816
+P0815,Denise Richards,Mallory Kim,9,Pediatrics,11,9449.96,No,3,1889.992
+P0816,Cody Hughes,Elizabeth Foster,40,General Medicine,31,1883.68,Yes,4,376.736
+P0817,Richard Willis,Matthew Burch,82,Cardiology,3,8486.52,No,4,1697.304
+P0818,Lee Gonzalez,Kaitlyn Koch,48,Cardiology,38,697.6,Yes,5,139.52
+P0819,Carrie Gardner,Logan Peterson,11,General Medicine,15,7448.29,Yes,5,1489.658
+P0820,Jordan Flores,Ashley Reid,45,Pediatrics,17,3853.39,Yes,5,770.678
+P0821,Adriana Thomas,Ryan Harding,17,General Medicine,8,7308.38,No,5,1461.676
+P0822,Cody Davies,Lindsey Mendoza,20,General Medicine,8,5032.44,YES,4,1006.488
+P0823,Cynthia Schwartz,Joseph Williams,36,Neurology,16,4855.36,No,2,971.072
+P0824,Meredith Green,Megan Avila,68,Dermatology,32,6949.61,No,5,1389.922
+P0825,Eric Mathews,Deborah Gray,22,Neurology,22,9158.8,No,4,1831.76
+P0826,Jessica Matthews,Connie Lester DDS,50,Pediatrics,37,2787.17,Yes,1,557.434
+P0827,Larry Hamilton,Joseph Kirk,10,General Medicine,24,9966.82,No,4,1993.364
+P0828,Jennifer Williams,Grant George,72,General Medicine,19,571.62,No,4,114.324
+P0829,Melissa Morse,Joseph Valdez,82,Pediatrics,6,483.75,No,3,96.75
+P0830,Ashley Torres,Neil Moore,50,Pediatrics,14,7063.55,Yes,3,1412.71
+P0831,Lacey Buckley,Robert Lin,83,General Medicine,42,2706.34,Yes,4,541.268
+P0832,Jennifer Griffin,Dylan Bishop Jr.,13,Oncology,35,7644.56,No,1,1528.912
+P0833,Zachary Adams,Toni Hall,3,Neurology,43,3322.88,No,1,664.576
+P0834,Robert Carney,Cole Todd,39,General Medicine,31,9694.17,Yes,2,1938.834
+P0835,Gregory Rich,Joshua Dougherty,58,Cardiology,29,1315.72,Yes,1,263.144
+P0836,Bradley Rivas,Sean Ramirez,15,Oncology,6,863.68,No,4,172.736
+P0837,Lauren Carter,Michael Ochoa,86,Dermatology,22,980.06,No,2,196.012
+P0838,Victoria Humphrey,Gabrielle Peterson,20,Pediatrics,31,9162.19,Yes,3,1832.438
+P0839,Julie Howard,Betty Clark,69,Oncology,28,4982.51,Yes,3,996.502
+P0840,Mr. Bobby Wood,Jonathan Patrick,38,Oncology,36,3925.98,Yes,3,785.196
+P0841,Richard Martinez DDS,Kimberly Vazquez,73,Pediatrics,42,8271.16,Yes,3,1654.232
+P0842,Jacob Stewart,Olivia Sanchez,79,Orthopedics,11,945.58,Yes,1,189.116
+P0843,Nicole Ayers,Melissa Francis,60,Orthopedics,28,7478.12,No,4,1495.624
+P0844,Dr. Bruce Johnson Jr.,Brooke Whitaker,31,General Medicine,41,8286.97,Yes,2,1657.394
+P0845,Michael Benton,Tiffany Wilkins,65,Pediatrics,13,4811.79,No,1,962.358
+P0846,Jesse Palmer,Stephen Lopez,76,Cardiology,24,6071.18,No,2,1214.236
+P0847,Benjamin Fitzgerald,Christopher Duncan,77,General Medicine,11,9845.25,Yes,4,1969.05
+P0848,Andrew Campbell,Jason Wilson,15,Orthopedics,9,1272.71,No,3,254.542
+P0849,Brian Jenkins,Christopher Howell,85,Oncology,19,7294.39,Yes,3,1458.878
+P0850,Michael Stein,Kelly Yu,5,Pediatrics,28,5033.77,Yes,5,1006.754
+P0851,Sarah Chandler,James Stanley,16,Neurology,2,4643.84,Yes,3,928.768
+P0852,Paul Anderson,Evan Gomez,34,Dermatology,1,4345.09,Yes,2,869.018
+P0853,Victoria Black,Julie Bell,83,Oncology,40,5823.09,No,3,1164.618
+P0854,Jason Lawson,Justin Long MD,57,Oncology,24,9410.72,Yes,2,1882.144
+P0855,Donald Brown,Andrew Durham,32,Oncology,25,5728.1,No,1,1145.62
+P0856,Lisa Griffith,Cheryl Robinson,88,General Medicine,40,8223.48,Yes,2,1644.696
+P0857,Leroy Cain,David Smith,85,Cardiology,3,8200.12,No,4,1640.024
+P0858,Holly Norris,Rodney Nichols,59,Neurology,15,2774.16,No,4,554.832
+P0859,Yolanda Stevenson,Travis Morrow,13,Dermatology,26,9587.91,Yes,5,1917.582
+P0860,Stacy Nielsen,Stephanie Allen,48,Neurology,40,8274.93,Yes,2,1654.986
+P0861,Jacob Ramos,Kimberly King,76,Orthopedics,2,3879.1,Yes,3,775.82
+P0862,Jeffrey Cunningham,Pamela Gutierrez,72,Neurology,26,3674.43,Yes,1,734.886
+P0863,Dr. Danny Hall,Stuart Huffman,71,General Medicine,11,5325.62,No,3,1065.124
+P0864,Heather Melton,Casey Rice,14,Oncology,23,2608.49,Yes,5,521.698
+P0865,Richard Rice,Troy Lopez,7,Oncology,11,1543.75,Yes,2,308.75
+P0866,Michaela Quinn,Craig Chaney,36,Neurology,15,3407.85,No,5,681.57
+P0867,Dawn Thompson,David Abbott,68,Pediatrics,15,4934.05,Yes,5,986.81
+P0868,Debra Anderson,Matthew Sanders,19,General Medicine,15,3870.83,Yes,3,774.166
+P0869,James Hill,Robin Johnson,24,Pediatrics,8,7610.02,No,2,1522.004
+P0870,David Cardenas,Lauren Hall,79,General Medicine,1,6257.97,No,2,1251.594
+P0871,John Gallagher,Mark Hutchinson,31,Dermatology,44,5086.55,Yes,3,1017.31
+P0872,Brandy Montoya,Matthew Osborn,58,Dermatology,19,2848.74,Yes,2,569.748
+P0873,Rebecca Garcia,Erika Morris,77,Neurology,18,4211.93,Yes,4,842.386
+P0874,Shelly Ortiz,,54,Oncology,43,3055.58,No,3,611.116
+P0875,Peter Fields,,6,Orthopedics,26,7735.2,Yes,3,1547.04
+P0876,Victor Trujillo,Tiffany Hill,81,Neurology,20,2872.11,Yes,3,574.422
+P0877,Annette Curtis,Barry Conner,70,Orthopedics,19,1365.52,No,5,273.104
+P0878,Robert Mcmillan,Arthur Stewart,69,Pediatrics,28,9918.34,No,4,1983.668
+P0879,Brittany Gregory,John Lopez,80,Oncology,45,6194.26,Yes,2,1238.852
+P0880,Bethany Myers,Andrew Hall,36,General Medicine,8,5692.58,No,3,1138.516
+P0881,Alan Mann,Shelby Goodman,1,Cardiology,43,2171.09,No,3,434.218
+P0882,Katie Camacho,Elizabeth Riley,68,Oncology,38,7491.92,No,5,1498.384
+P0883,Joanna Gregory,Dana Schwartz,Unknown,Cardiology,10,5532.19,No,2,1106.438
+P0884,Melissa Sanchez,Andrew Blake,26,Pediatrics,7,3153.84,Yes,1,630.768
+P0885,Angelica Miller,Christine Hunter,33,Oncology,38,4445.31,Yes,3,889.062
+P0886,Molly Reyes,Christopher Herman,51,Neurology,14,890.06,Yes,1,178.012
+P0887,Vickie Higgins,James Martin,11,Oncology,24,1588.77,Yes,4,317.754
+P0888,Melissa Anderson,Alicia Lee,21,Pediatrics,35,5058.65,Yes,1,1011.73
+P0889,Brooke Morales,Erik Davis,20,Oncology,17,2213.84,Yes,3,442.768
+P0890,Charles Clark,Patricia Palmer,15,General Medicine,7,4379.01,Yes,4,875.802
+P0891,Jill Stanley,Tina Cole,16,Dermatology,5,6690.59,Yes,4,1338.118
+P0892,Steven Morgan,Laura Brewer,7,General Medicine,29,1803.53,Yes,5,360.706
+P0893,Kristie King,Jesse Wallace,20,Orthopedics,4,8310.1,Yes,5,1662.02
+P0894,David Jones,Raymond Wright,39,Dermatology,38,3779.15,No,3,755.83
+P0895,Eric Jenkins,Jeffery Jones,20,General Medicine,30,1717.04,No,5,343.408
+P0896,Jeremy Perez,Kelly James,43,General Medicine,36,991.61,Yes,5,198.322
+P0897,Jacob Elliott PhD,Regina Morse,24,Orthopedics,36,2816.43,Yes,2,563.286
+P0898,Dakota Ayers,Kyle Robbins,5,Orthopedics,22,2046.66,No,5,409.332
+P0899,Jillian Tapia,Sean Anderson,56,Pediatrics,15,8791.62,Yes,2,1758.324
+P0900,Jenny Thompson,George Mahoney,50,Orthopedics,24,5205.32,Yes,5,1041.064
+P0901,Deborah Ingram,Gary Woods,39,Oncology,1,731.24,No,1,146.248
+P0902,Austin Ellis,Wendy Nelson,34,General Medicine,43,3273,Yes,4,654.6
+P0903,Tara Thompson,Elizabeth Massey,36,Orthopedics,29,9350.28,No,3,1870.056
+P0904,David Huynh,Denise Wilson,53,Oncology,36,7808.47,No,3,1561.694
+P0905,Miguel Rogers,Aaron Rogers,49,General Medicine,18,7190.39,No,1,1438.078
+P0906,Rick Daniels,Brian Snyder,27,Oncology,3,2184.78,No,5,436.956
+P0907,Brittany Mccall,Mrs. Laurie Reid,42,Orthopedics,2,6145.7,Yes,1,1229.14
+P0908,Jessica Cummings,Joseph Franklin,Unknown,General Medicine,6,9794.59,Yes,3,1958.918
+P0909,David Turner,Randy Smith,38,Pediatrics,13,3134.18,No,4,626.836
+P0910,Susan Barton,Michael Hughes,48,Cardiology,8,2237.85,No,1,447.57
+P0911,Timothy Crosby,Mary Waters,86,Neurology,33,4506.67,Yes,1,901.334
+P0912,Julia Alexander,Amanda Newton,36,Oncology,45,8062.44,Yes,1,1612.488
+P0913,Scott Lewis,Gerald Newman,62,Oncology,22,1919.85,Yes,2,383.97
+P0914,Ronald Thomas,James Gonzalez,70,Cardiology,33,4765.61,No,5,953.122
+P0915,Joseph Dunlap,Lauren Forbes,22,General Medicine,29,4135.61,No,3,827.122
+P0916,Teresa Lopez,John Campbell,82,Neurology,29,8293.17,Yes,2,1658.634
+P0917,Lisa Smith,Michael Bond,38,Cardiology,20,917.02,Yes,1,183.404
+P0918,Jasmine Price,Alicia Medina,59,Neurology,37,4358.94,No,5,871.788
+P0919,Michael Smith,Megan Gibson,33,Oncology,31,5081.44,No,2,1016.288
+P0920,Robin Oneill,Zachary Ortiz,9,Pediatrics,26,9753.72,No,3,1950.744
+P0921,Jonathan Cooper,Shaun Briggs,27,Pediatrics,31,4318.49,YES,5,863.698
+P0922,Michael Carpenter,Patricia King,29,Cardiology,5,3740.88,No,4,748.176
+P0923,Aaron Murphy,Robert Nunez,46,Dermatology,33,1456.13,No,2,291.226
+P0924,Justin Holmes,Matthew Johnson MD,74,Orthopedics,1,9179.54,No,2,1835.908
+P0925,Jennifer Ray,Sharon Marquez,89,Cardiology,19,7453.9,No,3,1490.78
+P0926,Donna Hoover,Nicole Fisher,13,Dermatology,13,3116.01,No,5,623.202
+P0927,Kayla Hayden,Stephen Garrison,Unknown,Oncology,16,5466.9,No,1,1093.38
+P0928,Craig Hernandez,Lisa Ballard,42,Neurology,44,8341.52,Yes,1,1668.304
+P0929,Hailey Williams,Tammy Mendoza,40,Pediatrics,32,4720.13,No,1,944.026
+P0930,John Flores,Kimberly Mercer,18,Neurology,35,7010.9,YES,4,1402.18
+P0931,Joseph Powers,Mary Cunningham,40,Cardiology,6,2348.61,No,4,469.722
+P0932,Christina Holloway,Kara Wood,55,Oncology,33,9768.12,No,3,1953.624
+P0933,Ronald Baxter,Aaron Holmes,78,Neurology,13,2446.88,No,4,489.376
+P0934,Jennifer Williams,Jeffrey Sanchez,13,Orthopedics,6,770.87,Yes,1,154.174
+P0935,Shelby Meyer,Daniel Nicholson,73,Pediatrics,45,5391.84,Yes,3,1078.368
+P0936,Robert Cunningham,Johnathan Stewart,75,Neurology,17,3329.93,Yes,1,665.986
+P0937,Raymond Huff,Alexis Griffith,81,Dermatology,6,911.94,Yes,3,182.388
+P0938,Vanessa Watson,Danielle Carson,32,Neurology,18,3345,Yes,4,669
+P0939,Frank Doyle MD,Miss Jennifer Lawrence MD,67,Pediatrics,24,2160.78,Yes,5,432.156
+P0940,Dr. Gregory Haas,Nathaniel Rubio,71,Neurology,38,5396.85,No,5,1079.37
+P0941,Amy Porter,Ashley Freeman,5,Cardiology,19,3242.06,No,5,648.412
+P0942,Andrew Daniels,Jon Day,41,Dermatology,21,6885.98,Yes,4,1377.196
+P0943,Ann Blevins,Lisa Larsen,79,Dermatology,12,2716.14,No,2,543.228
+P0944,Katelyn Cervantes,Michael Grant,72,Dermatology,24,2585.78,Yes,1,517.156
+P0945,Heather Rose,Samantha Gutierrez,47,Oncology,32,7120.6,Yes,3,1424.12
+P0946,Jose Allen,Joseph Aguilar,33,Neurology,43,4610.94,Yes,4,922.188
+P0947,Elizabeth Fuller,William Martinez,10,Dermatology,15,2757.48,Yes,1,551.496
+P0948,Derrick Adams,Emily Davis,38,Pediatrics,1,5506.94,Yes,3,1101.388
+P0949,Summer King,Jocelyn Trujillo,85,Oncology,26,1143.07,Yes,5,228.614
+P0950,Michael Lewis,Gregory Anderson,26,Orthopedics,26,5403.4,Yes,3,1080.68
+P0951,Sandra Clark,Gregory Vargas,83,Cardiology,43,4529.3,Yes,4,905.86
+P0952,Deborah Nguyen,Michael Butler,27,Orthopedics,32,4701.59,No,3,940.318
+P0953,Robert Rogers,Melissa Russell,6,General Medicine,8,1363.68,Yes,3,272.736
+P0954,Lucas Thomas,Paul Cohen,56,Neurology,27,3223.92,No,1,644.784
+P0955,Brian Harris,Andrew Nelson,42,Oncology,14,8848.44,Yes,5,1769.688
+P0956,Calvin Mitchell,Jordan Beltran,3,Oncology,41,5628.79,Yes,1,1125.758
+P0957,Felicia Cole,Alvin Smith,52,Dermatology,31,924.84,Yes,3,184.968
+P0958,Julie Davis,Ashley Lewis,8,Pediatrics,31,3298.06,Yes,4,659.612
+P0959,Ronald Miller,Cheryl Bennett,37,Neurology,18,4070.24,Yes,1,814.048
+P0960,Kerri Carter,Danielle Simmons,58,Cardiology,17,2362.92,No,4,472.584
+P0961,Destiny Bass,Michael Williams,2,Neurology,29,1788.62,Yes,2,357.724
+P0962,Stacy Bridges,Erik Diaz,Unknown,Pediatrics,6,5141.45,No,3,1028.29
+P0963,James Thompson,Tracie Sanchez,74,Dermatology,25,7044.58,Yes,2,1408.916
+P0964,Sydney Wallace,Caroline Hall,37,Dermatology,25,909.32,No,2,181.864
+P0965,Mr. David Walker,Shannon Espinoza,62,Oncology,5,5991.7,No,5,1198.34
+P0966,Anthony Carroll,Stephen Diaz,21,Neurology,31,1304.46,No,5,260.892
+P0967,Kerry Larson,Tiffany Gray,56,Neurology,43,8925.07,Yes,1,1785.014
+P0968,Kelly Lam,Eric Black,61,Oncology,4,1888.34,Yes,3,377.668
+P0969,Andrew Lozano,John Hunter,83,Orthopedics,3,1542.73,Yes,1,308.546
+P0970,Jose Owens,Misty Wise,34,Oncology,37,333.85,No,4,66.77
+P0971,Gina Moss,Kelsey Hill,32,Cardiology,33,9751.46,No,1,1950.292
+P0972,Michael Herrera,Brian Harris,60,Dermatology,4,7105,No,3,1421
+P0973,Jane Myers,Jimmy Davis,51,Cardiology,28,6422.04,No,3,1284.408
+P0974,Timothy Wilson,Gordon Anderson,64,Neurology,29,3607.68,YES,4,721.536
+P0975,Tamara Orr,Alexis Foster,37,Pediatrics,9,4624.83,No,4,924.966
+P0976,William Sullivan,Dominic King,6,Neurology,32,8532.24,Yes,1,1706.448
+P0977,Jason Thomas,Tyler Henry,2,Oncology,2,2055.9,No,1,411.18
+P0978,Derek Hoffman,Jane Hamilton,17,Pediatrics,23,5121.67,No,4,1024.334
+P0979,Joseph Cooke,Adam Christensen,21,Neurology,13,809.29,No,2,161.858
+P0980,Anne Morrison,Audrey Cross,26,Dermatology,20,2164.46,Yes,3,432.892
+P0981,Andrea Houston,Michael Martin,52,Neurology,4,6646.33,No,5,1329.266
+P0982,Colin Robinson,James Reid,7,Dermatology,44,1066.53,No,1,213.306
+P0983,Marcia Fleming,Christopher Wilkerson,89,General Medicine,8,6787.21,No,1,1357.442
+P0984,Philip Klein,Christy Richardson,3,Dermatology,10,2218.93,No,4,443.786
+P0985,Brenda Turner,Norma Burnett,33,Oncology,1,8534.68,No,5,1706.936
+P0986,Joshua Williams,Rachel Clay,50,Oncology,41,8989.06,No,5,1797.812
+P0987,Christine Chan,Peter Harper,45,General Medicine,27,4289.1,No,2,857.82
+P0988,Austin Miller,Karen Francis,25,Pediatrics,32,5038.32,Yes,5,1007.664
+P0989,Michelle Singleton,Dawn Mason,11,Pediatrics,39,719.09,Yes,2,143.818
+P0990,Tammy Drake,Angela Hicks,71,General Medicine,26,1713.26,Yes,4,342.652
+P0991,Vanessa Howell,Tyler Carlson,41,Pediatrics,11,956.36,No,5,191.272
+P0992,William Hunt,Dr. Brenda Dean,49,Cardiology,2,4624.44,No,3,924.888
+P0993,Brandon Jones,Rebecca Murray,68,Dermatology,20,2565.94,Yes,4,513.188
+P0994,Alan Gonzalez,Warren Mcbride,43,Oncology,44,2152.75,No,2,430.55
+P0995,Paula Kirk,Kevin Adams,40,Pediatrics,31,1726,Yes,2,345.2
+P0996,Luis Hull,Richard Thomas,56,Pediatrics,20,5609.95,No,5,1121.99
+P0997,Ashley Lara,Caitlyn Mitchell,11,Neurology,17,9138.22,No,3,1827.644
+P0998,Lisa Cline,Christina Baird,73,Oncology,35,5222.87,Yes,2,1044.574
+P0999,Regina Thornton,Thomas Lopez,44,Pediatrics,14,4700.4,No,3,940.08
+P1000,Raven Aguilar,Matthew Snyder,56,Pediatrics,26,9085.21,No,2,1817.042
+P1001,David Zavala,Mary Lane,86,Oncology,10,1558.53,Yes,5,311.706
+P1002,Elizabeth Martinez,Darryl Winters,28,General Medicine,36,,Yes,5,1530.532
+P1003,Todd Miller,Amanda Macdonald,85,General Medicine,32,4976.99,No,3,995.398
+P1004,Rachel Walsh,Jill Jones,24,Orthopedics,39,8666.93,Yes,5,1733.386
+P1005,Amanda Woods,Frank Chambers,76,Dermatology,26,6476.83,Yes,2,1295.366
+P1006,Kimberly Gilmore,Annette Werner,18,General Medicine,16,3566.14,Yes,1,713.228
+P1007,Tyrone Swanson,,83,Neurology,14,9714.29,No,4,1942.858
+P1008,Richard Reese,Jennifer Smith,34,Oncology,24,,No,1,1661.108
+P1009,Ronnie Watts,Ashley Santos,27,Cardiology,42,4417.24,No,2,883.448
+P1010,Kyle Acosta,Christian Bell,49,Oncology,45,696.55,Yes,4,139.31
+P1011,Justin Bridges,Jonathan Williams,51,General Medicine,37,4297.55,Yes,1,859.51
+P1012,Ashley Cunningham,Ethan Hill,16,Orthopedics,5,6954.99,Yes,3,1390.998
+P1013,Aaron Bailey,Melanie Clark,74,Dermatology,13,7887.31,No,1,1577.462
+P1014,Kyle Thompson,Jeffery Henderson,51,Pediatrics,9,2656.47,Yes,5,531.294
+P1015,Jeffrey Bailey,Alexandra Ramirez,32,General Medicine,39,8164.27,No,5,1632.854
+P1016,Martin Taylor,Sherry Reed,19,Oncology,8,2681.2,Yes,3,536.24
+P1017,Gary Cohen,Kristen Nelson,56,General Medicine,41,7981.51,No,4,1596.302
+P1018,Timothy Torres,Brian Compton,5,General Medicine,14,6793.11,Yes,2,1358.622
+P1019,Jenna Herrera,Alexandria Knight MD,1,Cardiology,25,7519.32,Yes,1,1503.864
+P1020,Jodi Barron,Linda Reyes,74,Dermatology,12,6013.75,Yes,2,1202.75
+P1021,Robert Hunter,Pamela Robinson,68,Dermatology,18,7107.56,No,1,1421.512
+P1022,Jack Garcia,Elizabeth Miller,31,Pediatrics,29,6240.78,No,5,1248.156
+P1023,David Gray,Omar Smith,9,Pediatrics,21,3823.31,YES,4,764.662
+P1024,Misty Diaz,Andrew Davis,70,General Medicine,10,1287.04,Yes,5,257.408
+P1025,Denise Marshall,Rebecca Griffin,59,Oncology,30,3745.75,No,5,749.15
+P1026,Monique Williams,Gary Weber,17,Pediatrics,8,6255.68,Yes,5,1251.136
+P1027,Tara George,Renee Warren,25,Orthopedics,31,4461.8,No,2,892.36
+P1028,Lisa Atkins,Rachel Perez,72,Cardiology,39,4050.71,Yes,4,810.142
+P1029,Ronald Vargas,Karen Irwin,84,Pediatrics,28,9097.17,No,1,1819.434
+P1030,Monica Rice,Miss Hannah Andrews,37,Neurology,28,1739.72,No,4,347.944
+P1031,Cameron Powell,Anthony Sexton,9,Oncology,37,9321.81,No,4,1864.362
+P1032,Sean Weaver,Thomas Smith,3,General Medicine,20,2057.31,Yes,4,411.462
+P1033,Keith Carney,Holly Sandoval,28,Cardiology,44,2667.05,No,4,533.41
+P1034,Harold Anderson,Jacqueline Brewer,8,General Medicine,6,1992.95,Yes,1,398.59
+P1035,Nathan King,Travis Gardner,13,Oncology,15,5159.31,Yes,2,1031.862
+P1036,Mark Jackson,Tina Merritt,56,Neurology,19,1972.92,No,1,394.584
+P1037,Victor Shah,Christina White,43,General Medicine,44,6582.86,No,1,1316.572
+P1038,Kellie Reynolds,Michael Goodwin,34,Orthopedics,41,6987.92,Yes,4,1397.584
+P1039,Julie Wright,Joanna Arias,74,Dermatology,27,1160.26,No,4,232.052
+P1040,Thomas Smith,Jason Ali,72,Orthopedics,17,5575.49,No,5,1115.098
+P1041,Jorge Munoz,Samuel Valdez Jr.,12,Dermatology,17,6886.87,Yes,1,1377.374
+P1042,Tanya Johnston,Kenneth Fernandez,34,General Medicine,45,5090.71,Yes,4,1018.142
+P1043,Alicia Miller,Johnny Sullivan,77,Cardiology,8,2584,Yes,4,516.8
+P1044,Michelle Jones,Kenneth Walker,54,Pediatrics,32,7209.72,YES,1,1441.944
+P1045,Matthew Jones DVM,Kara Fisher,68,Orthopedics,4,6959.81,No,5,1391.962
+P1046,Gary Jones,James Mason,34,Oncology,17,5436.34,Yes,5,1087.268
+P1047,Pamela Wilson,Maureen Carlson,77,Orthopedics,25,6731.53,No,2,1346.306
+P1048,Tammy West,Carlos Mclean,5,Cardiology,40,1729.91,No,2,345.982
+P1049,Isabella Rogers,Claudia Jenkins,12,Cardiology,2,9888.98,Yes,3,1977.796
+P1050,April Martinez,Cheryl Cohen,20,Oncology,3,2027.45,Yes,3,405.49
+P1051,Derek Davis,Vincent Mays,28,Cardiology,24,834.48,Yes,1,166.896
+P1052,Michael Lowe,John Mills,82,Orthopedics,16,3185.03,Yes,4,637.006
+P1053,Barbara Price,,29,Orthopedics,41,8152.21,No,4,1630.442
+P1054,Thomas Brown,David Smith,12,Oncology,32,,No,1,1385.894
+P1055,Donald Clark,Emily Ochoa,29,Pediatrics,41,8071.98,No,3,1614.396
+P1056,Ashley Lopez,Roger Lee,2,General Medicine,41,4458.5,Yes,3,891.7
+P1057,Carolyn Edwards,Mrs. Kari Williams,63,Oncology,21,6597.95,Yes,1,1319.59
+P1058,Lisa Campbell,Laura Evans,69,Dermatology,28,6591.33,No,5,1318.266
+P1059,Misty Lowe,Phillip Cook,44,Neurology,7,8852.45,No,2,1770.49
+P1060,Wesley Kelley,Nicole Le,72,Oncology,9,7108.46,Yes,1,1421.692
+P1061,Kim Martin,Kim Ortega,8,General Medicine,15,9935.92,No,2,1987.184
+P1062,William Gonzalez,Mr. Chris Griffith,37,General Medicine,34,1600.35,Yes,5,320.07
+P1063,Alyssa Braun,Bonnie Lowe,54,Pediatrics,32,2529.18,No,4,505.836
+P1064,Ashley Mills,Jesse Hinton,54,Orthopedics,4,4274.18,Yes,4,854.836
+P1065,Jasmine Foster,William Cook,9,Neurology,21,6799.91,No,5,1359.982
+P1066,Melvin Callahan,Elizabeth Sanchez,79,Pediatrics,5,4837.73,No,2,967.546
+P1067,Alex Luna,Thomas Dorsey,6,Orthopedics,40,4056.12,Yes,3,811.224
+P1068,Kyle Henry,Christopher Gordon,49,Orthopedics,2,2286.27,No,4,457.254
+P1069,Paige Johnson,Amber Walker,80,Pediatrics,32,4190.66,No,4,838.132
+P1070,Megan Nolan,Matthew Mitchell,47,Dermatology,8,6737.51,Yes,2,1347.502
+P1071,Michael Bowman,Zachary Gomez,41,Dermatology,5,9973.65,Yes,3,1994.73
+P1072,Jacob James,Yesenia Jackson,54,Cardiology,28,1728.3,No,5,345.66
+P1073,Larry Smith,Mike Rodriguez,4,Neurology,28,6052.38,No,3,1210.476
+P1074,Stacy Harrison,James Gilmore,24,Pediatrics,2,4335.72,Yes,1,867.144
+P1075,Christopher Miller,Brittany Beard,15,Neurology,8,2098.45,Yes,2,419.69
+P1076,Erin Henderson,Jacqueline Williams,50,General Medicine,40,5267.12,Yes,2,1053.424
+P1077,Douglas Russell,Darrell Carroll,6,Pediatrics,32,9944.45,Yes,3,1988.89
+P1078,Aimee Stevenson,Mary Schwartz,26,General Medicine,38,1369.04,Yes,4,273.808
+P1079,Phillip Hamilton,Catherine Hays,38,Orthopedics,12,7152.62,No,3,1430.524
+P1080,Sara Heath,Ryan Trevino,85,Orthopedics,16,9135.33,YES,2,1827.066
+P1081,Vanessa Thompson,Gabriela Richardson,35,Cardiology,22,4757.63,No,4,951.526
+P1082,David Jenkins,Donald Marks,45,Cardiology,27,5425.48,Yes,3,1085.096
+P1083,Stephanie Obrien,Cody Anderson,5,Orthopedics,41,641.2,Yes,4,128.24
+P1084,William Terrell,Cynthia Stewart,38,Orthopedics,35,605.45,Yes,4,121.09
+P1085,Megan Meyers,Dawn Jimenez,2,Neurology,43,8223.73,No,5,1644.746
+P1086,Robert Clarke,Nicole Gates,62,General Medicine,17,4603.39,No,5,920.678
+P1087,Micheal James,Nicholas Pineda,36,Pediatrics,42,2678.96,Yes,3,535.792
+P1088,Joseph Glover,James Ruiz,5,Cardiology,28,4424.81,Yes,4,884.962
+P1089,Evan Reilly,Helen Gonzalez,12,General Medicine,30,3027.2,Yes,5,605.44
+P1090,Joseph Callahan,Eric Coleman,12,Cardiology,28,5319.41,Yes,5,1063.882
+P1091,Joseph Cook,James Martin,38,Cardiology,16,1809.64,No,1,361.928
+P1092,Sandra Smith,Miguel Taylor,85,Oncology,3,5893.48,No,5,1178.696
+P1093,Chase Deleon,Gregory Knapp,11,Dermatology,1,8445.08,Yes,2,1689.016
+P1094,Mike Huffman,Randy Morris,70,Dermatology,3,4079.58,Yes,4,815.916
+P1095,Beth Martinez,Peggy Smith,75,Oncology,32,4673.39,No,1,934.678
+P1096,Julie Cantu,Scott Burnett,12,Orthopedics,6,3613.45,Yes,5,722.69
+P1097,Alexis Parks,Mrs. Kim Brennan,17,Dermatology,12,8739.15,No,5,1747.83
+P1098,Joy Sanchez,Glenn Whitney,Unknown,Cardiology,34,6185.89,Yes,2,1237.178
+P1099,Helen Johnson,John Larson,67,General Medicine,36,9185.96,No,1,1837.192
+P1100,Edward Alvarez,Jennifer Ward,21,Neurology,6,2420.07,No,3,484.014
+P1101,Nancy Perez,Abigail Williams,71,Orthopedics,33,9071.05,Yes,4,1814.21
+P1102,Belinda Rodgers,Joshua Copeland,14,Cardiology,30,2345.96,No,2,469.192
+P1103,Allison Sanchez,Stephanie Wilson,81,Neurology,25,360.82,No,3,72.164
+P1104,Lisa Jones,Shannon Cook,49,Pediatrics,25,6284.26,No,4,1256.852
+P1105,John Baldwin,Michael Harris,30,Orthopedics,12,5203.44,Yes,1,1040.688
+P1106,Jennifer Daniels,Victoria Monroe,14,Pediatrics,40,4409.86,No,5,881.972
+P1107,Roberto Hartman MD,Jamie Parker,5,Orthopedics,41,6470.32,No,1,1294.064
+P1108,Christine Reeves,Teresa Gonzalez,26,General Medicine,36,4714.47,No,2,942.894
+P1109,Kevin Wheeler,Kenneth Shields,Unknown,Cardiology,30,6152.02,Yes,1,1230.404
+P1110,Dawn Bright,Nicholas Turner,56,General Medicine,31,5274.09,Yes,2,1054.818
+P1111,Jeremy Stanley,Richard Williams,63,Neurology,32,,Yes,5,1103.402
+P1112,Nathaniel Anderson,Melissa Newman,19,Neurology,44,5370.62,Yes,5,1074.124
+P1113,Steven Sloan,Jamie Robinson,18,General Medicine,33,3434.46,Yes,2,686.892
+P1114,Rachel Ferguson,Carla Perkins,87,Neurology,4,3030.93,Yes,3,606.186
+P1115,Joshua Graham,,20,Oncology,16,9120.88,Yes,5,1824.176
+P1116,Carlos Howard,Matthew Gutierrez,18,General Medicine,29,5824.92,No,2,1164.984
+P1117,Kimberly Gibson,Marilyn Barber,29,Neurology,41,2753.28,No,4,550.656
+P1118,Ricardo Turner,Thomas Jones,63,Dermatology,27,8517.33,No,1,1703.466
+P1119,Megan Ryan,Peter James,11,Pediatrics,20,9469.74,No,1,1893.948
+P1120,Andrea Tucker,Katherine Garcia,85,Oncology,8,,Yes,5,410.866
+P1121,John Brown,Jasmine Avila,79,Cardiology,37,5174.93,Yes,3,1034.986
+P1122,Robert Pierce,Brandy Dillon,45,Pediatrics,25,7198.96,No,4,1439.792
+P1123,Caitlin Davis,Ryan Roberts,38,Orthopedics,25,546.47,Yes,1,109.294
+P1124,Christina Ward,Elizabeth Erickson,31,Oncology,30,614.06,Yes,3,122.812
+P1125,Edwin Sullivan,Gary Crawford,79,Cardiology,12,3199.17,Yes,4,639.834
+P1126,Jimmy Taylor,James Rodriguez,19,General Medicine,36,1311.95,Yes,5,262.39
+P1127,Katherine Johnson,Sarah Allen,88,Neurology,40,8197.94,No,2,1639.588
+P1128,Monique Stephenson,Douglas Dudley,62,Dermatology,44,9939,No,2,1987.8
+P1129,Aaron Pena,Yolanda Hobbs,Unknown,Orthopedics,3,1022.36,No,5,204.472
+P1130,Aaron Washington,Wendy Torres,89,Oncology,10,3011.11,No,2,602.222
+P1131,Donna Soto,Pamela Baxter,84,Neurology,20,3616.83,No,1,723.366
+P1132,David Morris,David Stevens,51,Cardiology,10,8507.56,Yes,5,1701.512
+P1133,David Stokes,Lauren Roberts,89,General Medicine,5,3434.57,No,2,686.914
+P1134,William Collins,Gregory Shelton,43,Cardiology,3,8820.45,Yes,2,1764.09
+P1135,Jessica Myers,Christina Miranda,60,Pediatrics,45,3081.71,Yes,2,616.342
+P1136,Douglas Anderson,David Wheeler,55,Pediatrics,3,1417.99,No,4,283.598
+P1137,John Moss,Ricky Peterson,39,Neurology,23,3472.42,No,4,694.484
+P1138,Crystal Newman,Mark Brown,63,Cardiology,2,1886.19,No,5,377.238
+P1139,Brandon Walker,Elijah Morgan,86,Orthopedics,45,515.47,No,3,103.094
+P1140,Shawn Thomas,Christina Shelton,53,Dermatology,29,2490.97,No,4,498.194
+P1141,Richard Hayes,Katie Hughes,16,Pediatrics,1,9814.28,Yes,3,1962.856
+P1142,Mr. Michael Potter,Derek Wagner,53,Pediatrics,19,5069.87,No,5,1013.974
+P1143,Robert Whitney,Ronald Little,81,General Medicine,21,7129.49,Yes,2,1425.898
+P1144,Jo Ferguson,Bethany Ewing,62,Cardiology,18,8063.41,No,3,1612.682
+P1145,Thomas Johnson,Katherine Stafford,20,General Medicine,5,6716.75,Yes,3,1343.35
+P1146,Brian Kelly,Heather Ortiz,28,Cardiology,21,5333.31,Yes,3,1066.662
+P1147,Justin Olson,Evan Beck,52,Pediatrics,33,9585.48,Yes,3,1917.096
+P1148,Brian Cooper,Michele Warner,58,Cardiology,41,6661.19,Yes,4,1332.238
+P1149,Matthew Castillo,Jerome Moore,73,Oncology,43,2100.42,Yes,4,420.084
+P1150,Ryan Thomas,Barbara Castillo,17,Oncology,41,1394.66,Yes,4,278.932
+P1151,Robert Fisher,Kelly Harper,45,Pediatrics,12,951.59,No,1,190.318
+P1152,Catherine Hopkins,Brandon Morris,27,Oncology,40,9966.67,Yes,5,1993.334
+P1153,Heather Price,Lauren Little,27,General Medicine,26,3815.01,No,2,763.002
+P1154,Alyssa Yoder,Mary Simpson,85,General Medicine,7,6747.88,Yes,2,1349.576
+P1155,Carol Cooley,Lindsey Wiggins,33,Dermatology,30,7761.48,No,5,1552.296
+P1156,Kayla Bush,Amy Arroyo,33,Oncology,9,8534.07,No,4,1706.814
+P1157,Ariana Evans,Joshua Mills,81,Neurology,22,7720.58,No,1,1544.116
+P1158,David Stephens,Paul Sanders,42,Neurology,9,7732.99,No,4,1546.598
+P1159,Renee Gonzalez,Michael Wolf,89,Dermatology,28,8433.51,Yes,2,1686.702
+P1160,Eric Robinson,Michelle Hansen,25,Orthopedics,24,4194.4,No,2,838.88
+P1161,Peter James,Thomas Hughes,73,Cardiology,12,3668.44,YES,3,733.688
+P1162,Richard Harris,Bailey Kennedy,45,Neurology,34,599.49,Yes,3,119.898
+P1163,Judy Sanders,Wayne Melton,24,Oncology,33,4484.62,No,4,896.924
+P1164,Tammy Lopez,Wendy Brown,22,Orthopedics,29,1010.26,No,2,202.052
+P1165,Jose Anderson,Allison Bailey,40,Oncology,17,5069.79,Yes,2,1013.958
+P1166,Randall Soto,Desiree Thompson,87,Cardiology,24,8888.13,No,3,1777.626
+P1167,Juan Greer,Rodney Garcia,32,Cardiology,13,2347.48,No,5,469.496
+P1168,Dawn Hill,Olivia Webb,63,Dermatology,9,4438.6,Yes,5,887.72
+P1169,Mr. Luis Sullivan,Michelle Hutchinson,1,Cardiology,9,383.58,No,4,76.716
+P1170,Phillip Johnson,Sandra Morris,65,Neurology,3,7687.88,Yes,3,1537.576
+P1171,Thomas Griffin,Holly Frost,38,Oncology,29,3537.02,Yes,2,707.404
+P1172,Monica Herrera,David Hernandez,18,Neurology,14,4489.8,No,2,897.96
+P1173,Pamela Taylor,Cynthia Decker MD,25,Neurology,8,3639.88,Yes,2,727.976
+P1174,John Jackson,Mark Oconnor,4,Pediatrics,39,6366.21,No,2,1273.242
+P1175,David Gilbert,Peter Montoya,74,Dermatology,15,3543.35,Yes,3,708.67
+P1176,Robert Stephenson,William Jones,36,Orthopedics,33,384.16,Yes,5,76.832
+P1177,Timothy Willis,Melissa Zavala,47,Dermatology,12,9172.17,No,2,1834.434
+P1178,Michael Page,Sabrina Thomas,9,Cardiology,43,9760.25,Yes,5,1952.05
+P1179,Bethany Maynard,Sarah Fernandez,90,Oncology,44,5094.76,No,3,1018.952
+P1180,Jeffery Wright,Micheal Green,26,Pediatrics,38,5865.5,YES,4,1173.1
+P1181,Jaime Lee,Laura Henry,45,Pediatrics,3,4661.7,Yes,4,932.34
+P1182,Anthony Williams,Christopher Mcdaniel,26,Neurology,28,4187.84,Yes,1,837.568
+P1183,Hannah Reeves,Samantha Powell,25,Oncology,37,8967.54,Yes,5,1793.508
+P1184,Francisco Harris,Makayla Shaffer,88,General Medicine,23,4344.3,No,2,868.86
+P1185,Deanna Smith,Dennis Colon,75,Dermatology,23,3106.61,Yes,4,621.322
+P1186,Susan Pratt,Robert Bond,5,General Medicine,10,895.2,Yes,3,179.04
+P1187,Riley Scott,Benjamin Medina,17,Neurology,18,1041.3,No,3,208.26
+P1188,Steven Rios,Joseph Haynes,8,Dermatology,1,929.71,Yes,5,185.942
+P1189,Pamela Morales,Bradley Payne,81,Pediatrics,31,4473.03,Yes,4,894.606
+P1190,Ralph Smith,Kevin Hanson,44,Pediatrics,9,1015.51,Yes,2,203.102
+P1191,Gina Cummings,Ernest Cortez,21,Oncology,21,1349.72,No,2,269.944
+P1192,Andrew Boone,Charles Brooks,55,General Medicine,10,1481.55,Yes,2,296.31
+P1193,Carolyn Frost,Stephanie Murray,39,Cardiology,21,7444.3,No,4,1488.86
+P1194,Robert Hood,David Foster,71,Cardiology,10,7434.75,No,2,1486.95
+P1195,Amber Mccoy,Mark Cervantes,34,Oncology,1,8185.24,No,3,1637.048
+P1196,Tasha Ward,,88,Dermatology,21,5830.74,Yes,1,1166.148
+P1197,Nathan Boyd,Lisa Gallagher,1,General Medicine,22,4152.98,Yes,5,830.596
+P1198,Isaiah Mills,,89,Dermatology,15,3012.96,Yes,2,602.592
+P1199,Brian Cole,Sarah Cruz,27,Pediatrics,14,1651.26,Yes,4,330.252
+P1200,Rebecca Russo,Leslie Grant,30,Dermatology,11,,No,5,1637.536
+P1201,Daniel Anderson,Christopher Freeman,83,Dermatology,32,4424.15,Yes,2,884.83
+P1202,Jeremy Mckay,Lindsay Townsend,55,Cardiology,21,8035.19,Yes,1,1607.038
+P1203,Alan Blair,Toni Frank,48,Neurology,4,2478.3,Yes,1,495.66
+P1204,Kaitlin Franklin,Rebecca Gonzalez,53,General Medicine,26,7170.63,No,2,1434.126
+P1205,Amber Hooper MD,Tina Simpson,59,Oncology,36,6230.69,No,4,1246.138
+P1206,Sheryl Davis,,67,Cardiology,12,2960.35,No,5,592.07
+P1207,Adrian Steele,Michael Gomez,41,Cardiology,5,2309.06,No,4,461.812
+P1208,Victor Hart,Miguel Underwood,3,General Medicine,43,8632.99,Yes,2,1726.598
+P1209,Jordan Guzman,Robert Bell,14,Dermatology,16,3344.27,No,5,668.854
+P1210,Barbara Davis,Billy Park,26,Dermatology,1,2307.69,No,3,461.538
+P1211,Angela Tucker,Gerald Simmons,47,Cardiology,31,1017.44,No,4,203.488
+P1212,Jonathan Mcdonald,Tina Walker,87,Orthopedics,15,8987.71,Yes,3,1797.542
+P1213,Sergio Lawson,John Brown,31,Neurology,22,5125.69,Yes,4,1025.138
+P1214,Michael Barker,Joan Bennett,66,Oncology,15,8061.34,No,1,1612.268
+P1215,Steven Higgins,John Smith,66,Neurology,12,6518.26,Yes,2,1303.652
+P1216,Helen Green,Anne Thomas MD,44,Orthopedics,39,6540.28,No,2,1308.056
+P1217,Melinda Austin,,46,Neurology,35,1892.72,No,5,378.544
+P1218,Jeffery Estes,Kelly Hayes,73,Pediatrics,18,3363.21,Yes,1,672.642
+P1219,Jeffrey Campos,Brent Russell,52,Neurology,12,5289.07,No,3,1057.814
+P1220,Melissa Bryan,Kevin Flores,84,Cardiology,30,1050.94,No,3,210.188
+P1221,Jennifer Horne,Benjamin Howard,32,General Medicine,5,7342.26,No,3,1468.452
+P1222,Zachary Love,Joseph Tucker,80,Neurology,2,1875.89,Yes,4,375.178
+P1223,James Ball,Charles Robles,80,Orthopedics,45,552.01,Yes,4,110.402
+P1224,John Brown,Amanda Larson,29,General Medicine,36,7005.42,No,1,1401.084
+P1225,Melissa Evans,Johnny Padilla,30,Orthopedics,9,6910.51,No,2,1382.102
+P1226,Suzanne Blackburn,Amanda Johnson,47,Cardiology,27,9508.3,Yes,1,1901.66
+P1227,Anthony Fowler,Isaac Oliver,62,General Medicine,35,8000.93,Yes,2,1600.186
+P1228,Christopher Chang,Chad Ellis,88,General Medicine,39,5259.17,Yes,5,1051.834
+P1229,Denise Suarez,Sarah Wolf,81,Pediatrics,3,3893.44,Yes,4,778.688
+P1230,Sarah Allen,Jacob Caldwell,42,Pediatrics,27,2458.19,Yes,4,491.638
+P1231,Lori Edwards,David Miller,34,Cardiology,40,4585.05,No,4,917.01
+P1232,Kelsey Hogan,Russell Lewis,33,Orthopedics,10,3904.8,Yes,2,780.96
+P1233,James Lee,Timothy Page,42,Pediatrics,18,5631.44,No,1,1126.288
+P1234,Kathryn Gutierrez,Lori Henry,73,Cardiology,15,6122.96,No,4,1224.592
+P1235,Gary Wallace,Lindsey Callahan,49,Dermatology,42,4963.36,Yes,5,992.672
+P1236,Tiffany Farmer,Jeremy Johnson,63,Cardiology,20,8142.43,No,2,1628.486
+P1237,Katelyn Villarreal,Brian George,31,Cardiology,40,7068.91,Yes,5,1413.782
+P1238,Cynthia Morgan,Clayton Hunter,62,Neurology,7,7454.74,Yes,2,1490.948
+P1239,Melissa Mccarthy,Daniel Smith,66,Neurology,20,9813.32,No,4,1962.664
+P1240,Luis Ferguson,Andrea Parker,45,Neurology,19,6725.09,No,4,1345.018
+P1241,Scott Miller Jr.,Timothy Richardson,84,Neurology,24,5176.77,No,2,1035.354
+P1242,Benjamin Wagner,Cindy Smith,60,Oncology,35,9760.17,No,4,1952.034
+P1243,Chase Silva,Craig Alvarez,4,Neurology,16,5308,Yes,1,1061.6
+P1244,Michelle Williams,,27,Orthopedics,10,7067.73,No,3,1413.546
+P1245,Jacob Le,Kayla Price,64,Dermatology,28,546.43,Yes,4,109.286
+P1246,Cynthia Mendoza,Dawn Johnson,78,Oncology,7,2870.59,Yes,1,574.118
+P1247,Ryan Friedman,Samuel Collins,73,Cardiology,3,723.74,Yes,5,144.748
+P1248,Kristen Velazquez,William Bell,53,Oncology,41,7463.57,No,1,1492.714
+P1249,Sean Shepherd,John Davis,29,Oncology,21,7220.29,No,5,1444.058
+P1250,Christopher Patton,Erika Hernandez,87,Orthopedics,14,8882.95,Yes,5,1776.59
+P1251,William Johnson,Timothy Castillo,12,Pediatrics,35,614.1,Yes,5,122.82
+P1252,Edward Payne,Steven Collins,27,Pediatrics,33,9041.76,Yes,4,1808.352
+P1253,Peggy Brown,Tiffany Wheeler,68,Orthopedics,40,388.92,Yes,2,77.784
+P1254,Jimmy Larsen,Amy Mcintyre,68,Dermatology,26,2651.89,No,5,530.378
+P1255,Tracy Ramirez,Mrs. Stephanie Moore,80,Orthopedics,28,2464.88,No,5,492.976
+P1256,Michael Short,Justin Olson,82,Oncology,19,4969.27,No,2,993.854
+P1257,Daniel Morales,Michele Gonzales,78,Pediatrics,10,6725.54,No,1,1345.108
+P1258,James Mays,Christopher Hill,83,Cardiology,36,4439.54,No,3,887.908
+P1259,Joseph Burton,Christopher Larsen,7,Orthopedics,15,8945.38,Yes,2,1789.076
+P1260,Randall Camacho,Kevin Martinez,62,Orthopedics,34,8864.27,No,4,1772.854
+P1261,Andrea Edwards,Kimberly Dunn,61,Orthopedics,6,1248.99,No,4,249.798
+P1262,Sergio Miller,Christopher Anderson,7,Cardiology,29,5602.74,No,3,1120.548
+P1263,Richard Valdez,Roger Sherman,59,Oncology,5,3892.36,No,5,778.472
+P1264,Kelly Owens,Wendy Myers,50,Neurology,20,7398.48,No,5,1479.696
+P1265,Jessica Leblanc,Nichole Anthony,52,Oncology,21,1472.82,No,2,294.564
+P1266,Ashley Stevenson,Brian Curtis,37,Cardiology,17,1973.67,Yes,3,394.734
+P1267,Samuel Yang,David Wolf,40,Neurology,24,7349.45,Yes,1,1469.89
+P1268,Anthony Wheeler,David Barrett,68,Dermatology,17,6577.88,Yes,4,1315.576
+P1269,Miguel Sanders Jr.,Ryan Collins,9,Oncology,37,3658.35,No,1,731.67
+P1270,Micheal Smith,Paul Barnes,74,Neurology,4,7475.33,No,5,1495.066
+P1271,Ruben Clements,Shawn Gibson,70,Cardiology,4,3121.53,Yes,1,624.306
+P1272,Jacob Day,Robert Jensen,23,Neurology,25,7466.8,No,5,1493.36
+P1273,Joseph Wolfe,Sharon Moody,6,Neurology,34,903.61,Yes,3,180.722
+P1274,Bruce Contreras,Deborah Simpson,80,Cardiology,24,8391.5,No,4,1678.3
+P1275,William Olsen,Cody Farmer MD,86,Cardiology,41,5710.17,No,5,1142.034
+P1276,Lawrence Campbell,Steven Roberts,33,Dermatology,31,5679.45,Yes,1,1135.89
+P1277,Margaret Johnson,Austin Smith,4,Dermatology,28,,Yes,1,679.854
+P1278,Blake Williams,Brian Conway,37,Orthopedics,14,1764.94,Yes,1,352.988
+P1279,Stacey Boyer,Eric Steele,89,General Medicine,27,2839.89,Yes,3,567.978
+P1280,Christopher Hess,Brooke Howard,45,Oncology,28,9747,No,1,1949.4
+P1281,Victor Chapman,Jackson Joseph,74,Orthopedics,37,8200.9,Yes,4,1640.18
+P1282,Kimberly Taylor,Monica Taylor,63,Orthopedics,40,5665.78,Yes,5,1133.156
+P1283,James Molina,Nancy Wilson,73,Pediatrics,7,,Yes,3,1363.232
+P1284,Cole Stuart,Mindy Johnson,80,Neurology,18,7299.06,Yes,2,1459.812
+P1285,Jasmine Sparks,Robert Mcknight,17,Cardiology,31,3726.48,No,3,745.296
+P1286,Michael Green,Michael Wilson,87,Oncology,6,9909.15,No,1,1981.83
+P1287,Ms. Anna Best DDS,Jacob Burton,23,General Medicine,10,1838.16,Yes,4,367.632
+P1288,John Phillips,Erin Thornton,59,Oncology,11,5554.79,Yes,4,1110.958
+P1289,David Porter,Amy Bell,6,Pediatrics,42,5318.6,No,4,1063.72
+P1290,Terry Roberts,Gordon Evans,88,Neurology,7,7458.75,Yes,2,1491.75
+P1291,Kimberly Peters,Brittany Vang,63,Oncology,17,6249.11,No,3,1249.822
+P1292,Daniel Hill,George Moss,70,Dermatology,32,2004.83,No,2,400.966
+P1293,Bobby Potter,Ashley Moon,2,Pediatrics,24,4746.02,No,1,949.204
+P1294,Brittany Wood,Christine Trujillo,61,Orthopedics,40,724.34,No,5,144.868
+P1295,Emily Richardson,Traci Chan,86,Dermatology,25,,Yes,3,1623.88
+P1296,Brianna Wagner,Joshua Anthony,47,Neurology,33,3254.56,No,1,650.912
+P1297,Dawn Gordon,Edward Williams,12,Cardiology,20,3831.82,Yes,2,766.364
+P1298,Lisa Williams,Karen Moreno,17,Orthopedics,7,455.88,No,4,91.176
+P1299,Melissa Henry DDS,Mrs. Jessica Rodriguez,71,Oncology,1,7099.35,No,4,1419.87
+P1300,Matthew Nelson,Alicia Smith,41,General Medicine,35,2578.33,No,2,515.666
+P1301,Mrs. Tracey Williams,Lee Nguyen,40,Dermatology,16,4727.16,No,1,945.432
+P1302,Kimberly Davis,Danielle Brock,28,Oncology,35,8306.52,No,5,1661.304
+P1303,Jennifer Long,Lynn Barnes,51,Dermatology,28,2033.08,Yes,1,406.616
+P1304,Breanna Knight,Tracy Murphy,65,Pediatrics,27,7534.39,Yes,2,1506.878
+P1305,Theresa Chapman,Patty Jackson,6,Pediatrics,27,7533.61,No,5,1506.722
+P1306,Rachel Howell,Peter Wolf,37,Oncology,28,1138.69,Yes,3,227.738
+P1307,Cynthia Kirk,Mr. Logan Jennings,72,Cardiology,10,6339.21,Yes,1,1267.842
+P1308,Sara Durham,Christopher Brooks,73,Oncology,31,4819.01,Yes,1,963.802
+P1309,Hannah Herrera,Mark Robinson,63,Pediatrics,40,6773.53,Yes,4,1354.706
+P1310,Kathryn Brooks,Abigail Evans,40,Dermatology,30,3459.2,No,3,691.84
+P1311,Charles Alvarez,Michael Rodriguez,35,General Medicine,44,8399.6,No,3,1679.92
+P1312,Ryan Williams,,82,Dermatology,30,2487,Yes,4,497.4
+P1313,Neil Daugherty,Catherine Wood,14,General Medicine,6,3009.63,Yes,1,601.926
+P1314,Austin Jones,,61,Orthopedics,29,7617.14,No,2,1523.428
+P1315,Kristina Gallagher,Rebecca Alvarez,29,Oncology,9,2658.42,No,1,531.684
+P1316,Jesus Patton,Evelyn Collins,85,Pediatrics,11,5724.29,No,4,1144.858
+P1317,Elizabeth Johnson,Derrick Owens,8,Oncology,39,3046.37,Yes,4,609.274
+P1318,Corey West,Lisa Anderson,29,Orthopedics,32,4833.09,Yes,3,966.618
+P1319,Meghan Haley,Jacob Davidson,4,Orthopedics,1,2621.63,Yes,5,524.326
+P1320,Christopher Davis,Joseph Moore,55,Neurology,6,7455.75,Yes,5,1491.15
+P1321,Jessica Johnson,Rebecca Smith,55,Neurology,32,3785.23,No,3,757.046
+P1322,Benjamin Rodriguez,Alexander Miller,79,Neurology,45,4372.78,No,3,874.556
+P1323,Jonathan Jenkins,Chad Cole,22,Orthopedics,36,4336.49,No,5,867.298
+P1324,Joel Diaz,Tony Fox,64,General Medicine,17,8574.65,Yes,3,1714.93
+P1325,Chad Macias,Melissa Walls,26,Pediatrics,26,8908.39,Yes,2,1781.678
+P1326,Raven Patterson,Charles Smith,23,Orthopedics,6,3921.25,No,2,784.25
+P1327,Victoria Jackson,Matthew Moore,52,Cardiology,27,940.27,Yes,1,188.054
+P1328,Matthew Phillips,Michael Crane,36,General Medicine,8,5690.81,Yes,3,1138.162
+P1329,Destiny Turner,Daniel Kelly,85,Orthopedics,4,4524.31,No,2,904.862
+P1330,Scott Massey,Joshua Reed,86,Cardiology,43,7706.59,No,2,1541.318
+P1331,Linda Trevino,Henry Lee,50,Pediatrics,26,5291.99,No,5,1058.398
+P1332,Tiffany Clark,Melissa Jackson,13,Oncology,30,819.42,No,3,163.884
+P1333,Stephanie Hall,David Rowland,68,General Medicine,25,619.87,No,3,123.974
+P1334,Jacob Brown,Theresa Parker,73,Pediatrics,7,2567.19,Yes,5,513.438
+P1335,Isabella Wilkinson,Martin Rivera,1,Oncology,6,3685.6,No,5,737.12
+P1336,Ashley Marks,David Mason,80,General Medicine,44,9262.49,Yes,5,1852.498
+P1337,Tracy Wu,Amber Brown,74,Oncology,35,2999.18,Yes,1,599.836
+P1338,Julie Welch,Ashley Ortiz,14,General Medicine,13,5544.88,No,4,1108.976
+P1339,Sarah Taylor,Rebecca Gonzalez,15,Orthopedics,39,1342.12,No,2,268.424
+P1340,Lauren Chandler,Steven Wilson,21,Neurology,17,2193.26,Yes,1,438.652
+P1341,Christina Nichols,Stephanie Rodriguez,57,Orthopedics,24,1581.66,Yes,5,316.332
+P1342,Mrs. Amy Jones,Michael Hines,48,General Medicine,44,8597.54,Yes,4,1719.508
+P1343,Steven Elliott,Timothy Hernandez,78,Orthopedics,36,6326.98,No,4,1265.396
+P1344,Chad Golden,Katherine Gray,44,Oncology,44,876.93,Yes,4,175.386
+P1345,Christopher Gomez,Xavier Ballard,82,General Medicine,23,7444.99,No,4,1488.998
+P1346,Mr. Dalton Huff DVM,Gabrielle Mitchell,13,Neurology,24,1398.25,No,4,279.65
+P1347,Marie Weber,Sean Collins,57,Oncology,32,,No,2,390.638
+P1348,Scott Walls,Jessica Nicholson,4,Neurology,30,359.5,Yes,4,71.9
+P1349,Ronald Perez,Rebecca Brown,18,Cardiology,9,1234.67,No,2,246.934
+P1350,Julia Archer,Jennifer Hayes,7,Orthopedics,28,3851.87,No,5,770.374
+P1351,Sarah Chapman,Christine Stone,86,Dermatology,24,793.55,Yes,4,158.71
+P1352,James Gonzalez,Monica Herman,Unknown,Dermatology,38,1742.91,Yes,4,348.582
+P1353,Nicholas Webb,David Cooper,13,Oncology,26,9672.85,No,1,1934.57
+P1354,Matthew Bennett,Jasmine Roberts,43,Cardiology,37,1612.4,No,3,322.48
+P1355,John Young,Joshua Phillips,53,Pediatrics,5,2446.25,Yes,1,489.25
+P1356,Jennifer Edwards,Matthew Johnston,47,Oncology,36,1471.58,Yes,5,294.316
+P1357,Michelle Brock,Mary Manning,56,Dermatology,43,300.24,No,3,60.048
+P1358,Donald Nelson,Kevin Jackson,20,Dermatology,9,9693.04,Yes,4,1938.608
+P1359,Lindsey Murphy,Mr. Richard Gutierrez,50,Neurology,24,5054.07,Yes,1,1010.814
+P1360,Brenda Cohen,Denise Hunter,46,Neurology,9,3245.6,No,2,649.12
+P1361,Karen Johnson,Christopher Butler,26,Orthopedics,32,6271.88,Yes,3,1254.376
+P1362,Bryan Church,Dawn Weiss,70,General Medicine,33,2853.81,No,4,570.762
+P1363,Christopher Escobar,Renee Gordon,63,Cardiology,22,5679.38,Yes,5,1135.876
+P1364,Lisa Graham MD,Mr. Terry Roberts,23,Dermatology,33,661.26,YES,4,132.252
+P1365,Kristen Simpson,Nicholas Campbell,3,General Medicine,2,3485.11,No,1,697.022
+P1366,Colin Dillon,Krista Smith,25,General Medicine,20,395.8,Yes,3,79.16
+P1367,Jason Downs,Tina Walker,40,Neurology,18,5156.74,No,4,1031.348
+P1368,Robert Bullock,Andrew Duran,29,Cardiology,21,8290.81,No,3,1658.162
+P1369,Denise Maynard,Kerry Ball,56,Oncology,25,3409.82,No,4,681.964
+P1370,Robert Joseph,Steven Stewart,51,Oncology,6,5271.8,No,2,1054.36
+P1371,Joshua Williams,Judy Baldwin,18,General Medicine,28,9143.95,No,3,1828.79
+P1372,Tyler Braun,David Bell,28,Oncology,30,568,Yes,1,113.6
+P1373,Thomas Smith,Tracy Ibarra,63,Neurology,14,1569.48,No,5,313.896
+P1374,Jeffrey Kidd,Mary Wallace,29,Cardiology,1,8708.71,No,4,1741.742
+P1375,Christopher Yates,Jessica Miller,61,Orthopedics,17,6865.29,Yes,4,1373.058
+P1376,Christine Williams,Crystal Phillips,32,Neurology,2,6116.49,No,4,1223.298
+P1377,Robin Dunlap,Jared Garcia,74,Oncology,14,8075.13,Yes,4,1615.026
+P1378,Shannon Collins,Linda White,40,Pediatrics,8,5617.85,Yes,4,1123.57
+P1379,Nathaniel Buchanan,Kristin Key,39,Cardiology,2,8283.4,Yes,4,1656.68
+P1380,Ashley Fisher,Francis Wilkinson,53,Dermatology,44,7071.47,No,4,1414.294
+P1381,Melissa Baker,Tonya Perez,57,Orthopedics,34,440.4,No,2,88.08
+P1382,Andrea Atkins,Michele Baker,3,Dermatology,43,2494.96,Yes,4,498.992
+P1383,Paige Hall,Matthew Woods,42,Pediatrics,6,4050.71,Yes,2,810.142
+P1384,Kelly Wallace MD,Linda Powell,48,Cardiology,7,851.25,Yes,1,170.25
+P1385,Kevin Weaver,Michael Martinez,72,Orthopedics,13,9089.71,No,5,1817.942
+P1386,Leah Smith,Elizabeth Ramirez,74,Dermatology,42,9981.72,No,3,1996.344
+P1387,Anna Scott,Angela Meza,84,General Medicine,35,7193.8,No,2,1438.76
+P1388,Nicholas Pierce,Maria Taylor,37,Orthopedics,45,6092.37,Yes,4,1218.474
+P1389,Joseph Garcia,Hannah Allison,24,General Medicine,23,3477.36,No,3,695.472
+P1390,Evan Howard,Jessica Moore,45,Neurology,12,6484.2,No,1,1296.84
+P1391,Laura Gonzalez DVM,Gregory Grant,88,Dermatology,12,2441.98,No,4,488.396
+P1392,Carrie Duncan,Samuel Arnold,30,Orthopedics,30,4441.56,Yes,2,888.312
+P1393,Rodney Smith,Daniel Collins,72,Pediatrics,8,8494.65,Yes,1,1698.93
+P1394,Megan Castro,Richard Shah,59,Oncology,29,6952.99,Yes,2,1390.598
+P1395,Christopher Cervantes,Gregory Daniels,72,Neurology,21,9677.55,Yes,1,1935.51
+P1396,Monica Leon,Erika Hays,29,Orthopedics,27,1716.03,Yes,5,343.206
+P1397,Terry Rodriguez,Eric Davis,42,Dermatology,22,6074.11,No,3,1214.822
+P1398,Ronald Riley,Oscar Thomas,71,Dermatology,7,8393.21,Yes,3,1678.642
+P1399,William Gonzales MD,Katherine Myers,26,Pediatrics,5,8127.58,No,4,1625.516
+P1400,Debbie Clark,Brooke Ferrell,65,Cardiology,2,9629.61,Yes,4,1925.922
+P1401,Dwayne Cameron DDS,Cassandra Berry,44,Neurology,42,9459.79,No,5,1891.958
+P1402,Rodney Brown,Barry Murphy,90,Dermatology,2,1262.42,Yes,4,252.484
+P1403,Patricia Sanchez,Luis Hunter,15,Pediatrics,13,5120.98,No,4,1024.196
+P1404,Sonya Parker,Kathryn Long,30,Dermatology,11,1201.79,No,2,240.358
+P1405,Dr. Ana Norman DDS,Sandra Carney,53,Oncology,44,1425.85,No,3,285.17
+P1406,Steven Fleming,,64,Orthopedics,36,955.82,Yes,3,191.164
+P1407,Christine Briggs,Caroline Wang,53,Orthopedics,25,1469.86,No,3,293.972
+P1408,Marcus Schmidt,Alicia Jordan,15,Orthopedics,13,7460.83,No,1,1492.166
+P1409,Lisa Bell,Christopher James,6,Neurology,25,3509.48,No,1,701.896
+P1410,Christina Flores,Samuel Turner,85,General Medicine,14,7292.19,Yes,2,1458.438
+P1411,Susan Robinson,Timothy Gregory,12,Pediatrics,31,5422.93,Yes,4,1084.586
+P1412,Juan Lopez,Melanie Carter,27,Neurology,31,5639.55,No,5,1127.91
+P1413,Kyle Hernandez,Larry Wiggins,41,Oncology,25,5942.26,No,1,1188.452
+P1414,Alicia Barker,Brian Perez,59,Neurology,32,435.4,Yes,4,87.08
+P1415,John Gutierrez II,John Gordon,29,Neurology,42,5151.04,No,2,1030.208
+P1416,Jeffrey Simon,Marc Johnson,32,Orthopedics,25,5845.18,No,2,1169.036
+P1417,Tyler West,Nicole Perez,64,Neurology,22,1135.82,Yes,4,227.164
+P1418,Stephen Gonzalez,Ann Ware,39,Orthopedics,23,1347.44,No,3,269.488
+P1419,Matthew Cook,Melissa Herrera,21,Orthopedics,8,1307.4,Yes,5,261.48
+P1420,Andrew Snyder,Lisa Williams,86,General Medicine,29,1245.79,Yes,2,249.158
+P1421,Heather Harris,Joanna Romero,13,General Medicine,1,3507.51,No,2,701.502
+P1422,Thomas Skinner,Andrew Johnson,62,Dermatology,35,5449.61,No,2,1089.922
+P1423,Samuel Brooks,Cristina Wallace,23,Oncology,34,8190.61,Yes,2,1638.122
+P1424,Michael Davis,Frank Charles,22,Cardiology,34,1973.35,No,3,394.67
+P1425,Katherine Jones,Lee Oneill,48,General Medicine,44,7332.75,No,2,1466.55
+P1426,Caroline Baldwin,Robyn Brooks,34,Dermatology,21,1931.92,Yes,4,386.384
+P1427,Olivia Moore,Dr. Lauren Rodriguez,57,Neurology,38,8034,No,3,1606.8
+P1428,William Hall,Ricky Fuentes,14,Pediatrics,6,1528.5,No,4,305.7
+P1429,Scott Johnson,Sean Randolph,38,Dermatology,14,3072.46,Yes,3,614.492
+P1430,Willie Lopez,Elizabeth Montoya,14,Neurology,10,6593.01,Yes,3,1318.602
+P1431,Daniel Martinez,Jesse Dixon,14,Oncology,19,5484.69,Yes,3,1096.938
+P1432,Kelly Hoffman,Patrick Clark,58,Cardiology,3,2318.36,Yes,4,463.672
+P1433,Monica Ferguson,Robert Kim,90,Dermatology,6,1740.8,Yes,3,348.16
+P1434,Karen Rodriguez,Cassandra Miller,14,Dermatology,24,7350.21,Yes,5,1470.042
+P1435,Amy Rangel,Mark Ball,61,General Medicine,8,2069.18,No,2,413.836
+P1436,Joseph Fox,Donna Valdez,4,Pediatrics,29,8732.01,Yes,4,1746.402
+P1437,Rebecca Mclean,Robin Webb,2,Dermatology,1,6035.41,Yes,5,1207.082
+P1438,Jennifer Campbell,Joel Smith,43,Cardiology,31,2716.48,Yes,5,543.296
+P1439,Susan Skinner,Nicole Calhoun,23,Orthopedics,6,5657.21,Yes,5,1131.442
+P1440,Julie Hanna,Jared Holt,47,Cardiology,6,7647.91,No,2,1529.582
+P1441,Kimberly Welch,James Ayers,28,Dermatology,37,3641.65,Yes,3,728.33
+P1442,Leslie Graham,Kimberly Marsh,1,Dermatology,1,4296.31,No,4,859.262
+P1443,Summer Parker,Dr. Cameron Payne,17,Dermatology,23,8260.27,No,3,1652.054
+P1444,Jennifer Stone,Dustin Hays,76,Oncology,37,3719.41,YES,4,743.882
+P1445,Lisa Martinez,April Carpenter,80,Dermatology,14,4940.8,No,1,988.16
+P1446,Ashley Morales,Theresa Davis,25,Pediatrics,24,3997.21,Yes,3,799.442
+P1447,Jessica Craig,Carla Powers,9,General Medicine,1,4008.95,Yes,4,801.79
+P1448,Glenda Heath,Douglas Leon,75,Cardiology,6,2716.02,No,5,543.204
+P1449,Jacob Lawson,Jason Cruz,50,General Medicine,28,6935.46,Yes,5,1387.092
+P1450,Trevor Wilson,David Fowler,37,Dermatology,35,8416.2,No,3,1683.24
+P1451,Jacob Hernandez,Amanda Henry,27,Orthopedics,39,6923.74,Yes,1,1384.748
+P1452,Eric Morrison,Ashley Hampton,85,Orthopedics,45,8344.59,Yes,4,1668.918
+P1453,Emily Carroll,Michael Alvarado,36,Neurology,21,2790.75,No,5,558.15
+P1454,Ariana White,Brian Gentry,57,Dermatology,32,3218.34,Yes,1,643.668
+P1455,Brenda James,Troy Juarez,54,Cardiology,20,3563.48,Yes,3,712.696
+P1456,Elaine Compton,Dr. Ronnie Thomas MD,69,General Medicine,36,3587.65,No,5,717.53
+P1457,Edward Boyle,Kevin Woods,29,Orthopedics,33,8440.16,Yes,5,1688.032
+P1458,Alexander Ramirez,Michael Clark,59,Dermatology,36,9091.95,No,5,1818.39
+P1459,Barbara Alexander,Julie Christian,4,Oncology,23,3599.97,Yes,2,719.994
+P1460,William Campos,Michael Johnson,10,Orthopedics,6,7990.26,No,4,1598.052
+P1461,Laura Bean,Stephen Gregory,69,General Medicine,4,673.75,No,1,134.75
+P1462,Valerie Lee,Katherine Allen,43,Cardiology,21,6621.94,Yes,4,1324.388
+P1463,Mitchell Fisher,Misty Nash,82,Pediatrics,6,3183.88,Yes,2,636.776
+P1464,Cynthia Burnett,Shannon Lopez,43,Pediatrics,17,5471.96,No,3,1094.392
+P1465,David Alexander,Randy Johnson,28,Cardiology,22,4086.32,Yes,4,817.264
+P1466,Teresa Stephens,Richard Fox,22,Oncology,26,8796.19,No,3,1759.238
+P1467,Stacey Mccarty,Scott Wood,24,Neurology,21,1512.6,Yes,2,302.52
+P1468,Mr. Thomas Molina DDS,Brian Lopez,54,Orthopedics,29,4098.68,No,1,819.736
+P1469,Jennifer Cox,Scott Jones,46,Pediatrics,13,5126.94,Yes,1,1025.388
+P1470,Matthew Mccann,Sheila Taylor,69,Orthopedics,23,2865.69,Yes,2,573.138
+P1471,Kyle Johnson,Shannon Jackson,67,Pediatrics,28,1160.5,Yes,2,232.1
+P1472,Robert Campbell,Richard Moore,67,Neurology,9,8879.91,Yes,4,1775.982
+P1473,Todd Mcfarland,Joseph Martinez,68,Cardiology,45,4347.94,No,3,869.588
+P1474,Melissa Maynard,Jill Hale,61,Orthopedics,20,3980.9,No,1,796.18
+P1475,Jennifer Richardson,Joshua Brown,40,General Medicine,15,6352.9,No,2,1270.58
+P1476,Jacob Miller,Kathryn Johnston,53,Orthopedics,32,5551.94,Yes,1,1110.388
+P1477,Kimberly Mata,Jason Coffey,20,Neurology,16,8799.64,No,1,1759.928
+P1478,Sophia Rosario,Steven Long,73,General Medicine,23,4378.04,Yes,4,875.608
+P1479,Michelle Parker,Christina Watson,25,Dermatology,22,870.12,Yes,2,174.024
+P1480,Jasmine Winters,Andrew Clark,3,Cardiology,33,9944.6,Yes,4,1988.92
+P1481,Andrea Bowen,Danny Matthews,11,Neurology,3,4888.95,No,4,977.79
+P1482,Shelby Villegas,Brittany Mcclure,32,Orthopedics,36,4625.34,No,2,925.068
+P1483,Jennifer Brown,Zachary Lester,20,Orthopedics,14,8230.75,No,2,1646.15
+P1484,Mr. Paul Soto DDS,John Johnson,19,Dermatology,44,4592.52,No,1,918.504
+P1485,Gavin Petersen,Jordan Haley,61,Dermatology,2,7961.78,Yes,3,1592.356
+P1486,Vincent Hernandez,Angela Whitney,2,Neurology,44,2033.15,Yes,3,406.63
+P1487,Maurice Powell,Carla Williams,50,Pediatrics,45,359.78,No,1,71.956
+P1488,Christine Villanueva,Scott Simmons,60,Dermatology,35,,Yes,3,64.744
+P1489,Chloe Flores,Dawn Montgomery,17,Orthopedics,6,7933.07,Yes,2,1586.614
+P1490,John Dean,Rebecca Beck,78,Cardiology,16,9723.6,Yes,2,1944.72
+P1491,Matthew Vasquez,Xavier Moore,20,Oncology,41,1678.39,Yes,1,335.678
+P1492,Sheena Morris,Hannah Santos,54,Dermatology,2,6707.95,No,4,1341.59
+P1493,Alexandria Carlson,Diane Cox,74,Oncology,9,,Yes,3,1227.168
+P1494,Hunter Nguyen,Victoria Hanson,33,Cardiology,17,4301.43,No,2,860.286
+P1495,Andre Kirk,Matthew Martinez,38,Orthopedics,17,9848.14,No,4,1969.628
+P1496,Steven Andrade,Marissa Hoover,89,General Medicine,32,5842.43,Yes,4,1168.486
+P1497,Robert White,Elizabeth Cox,27,Orthopedics,36,5513.73,Yes,1,1102.746
+P1498,Catherine Adkins,Kathleen Taylor,79,Orthopedics,25,1068.32,Yes,1,213.664
+P1499,Joseph Lawson,Denise Allen,25,General Medicine,37,2490.36,No,2,498.072
+P1500,Charles Parker,Justin Johnson,45,Dermatology,26,1190.29,Yes,5,238.058
+P1501,Paul Russell,Emily Adams,38,Cardiology,9,7974.27,Yes,3,1594.854
+P1502,Joseph Turner,Phyllis Crawford,26,Orthopedics,7,7167.21,No,1,1433.442
+P1503,Brianna Ingram,James Woods,14,Orthopedics,33,8262.56,Yes,4,1652.512
+P1504,Dr. Kimberly Smith,Kathryn Mckee,31,Neurology,13,8265.77,Yes,1,1653.154
+P1505,Steven Roberts,David Luna,5,Oncology,10,5487.55,No,3,1097.51
+P1506,Joshua Briggs,Terri Edwards,59,Neurology,31,1063.83,No,3,212.766
+P1507,Jennifer Johnston,Adam Pena,52,Orthopedics,6,8333.37,No,4,1666.674
+P1508,Jennifer Ramos,Howard Navarro,85,Orthopedics,38,4985.16,Yes,1,997.032
+P1509,John Shah,Dawn Turner,82,Neurology,42,6401.18,No,3,1280.236
+P1510,Michael Waller,Michael Pierce,87,Orthopedics,35,7856.83,No,2,1571.366
+P1511,Julian Sullivan,Terri Hampton,43,Neurology,27,4794.44,No,1,958.888
+P1512,Renee Brewer,Angela Stuart,56,Orthopedics,6,988.66,No,1,197.732
+P1513,Victoria Lester,Daniel Williams,87,Orthopedics,26,7913.03,No,1,1582.606
+P1514,David Bush,Cathy Christian,66,Dermatology,9,6563.86,No,2,1312.772
+P1515,Ronald Cole,Ashlee Wise,84,Cardiology,42,6998.55,No,3,1399.71
+P1516,Nicole Mayo,Veronica Allison,82,General Medicine,8,8760.14,No,1,1752.028
+P1517,Jacqueline Clark,Dr. Patricia Ross,22,Pediatrics,38,1382.21,Yes,3,276.442
+P1518,Mrs. Kathy Clark,Stephanie Robinson,13,Dermatology,42,1135.47,Yes,3,227.094
+P1519,Eric Best II,Casey Jackson,19,Cardiology,13,2921.22,No,2,584.244
+P1520,Pamela Johnson,Sophia Hopkins,6,Orthopedics,15,4619.34,No,1,923.868
+P1521,Cheryl Smith,Thomas Hutchinson,32,Oncology,4,3978.66,No,2,795.732
+P1522,Jordan Ayala,Jeffrey Davis,68,Neurology,2,4619,No,5,923.8
+P1523,Christopher Lucas,Thomas Powell,1,Orthopedics,12,4564.2,Yes,3,912.84
+P1524,Jeremiah Rowe,Michelle Butler,78,Pediatrics,26,2571.44,No,3,514.288
+P1525,Brianna Ellis,James Compton,47,Dermatology,34,5840.99,Yes,5,1168.198
+P1526,Kendra Murphy,Jeffrey Dunlap,11,Dermatology,23,2004.77,No,1,400.954
+P1527,Phillip Lewis,Anna Young,9,Dermatology,21,7319.83,Yes,4,1463.966
+P1528,Stephanie Vincent,Steven Smith,8,Orthopedics,20,4681.91,No,5,936.382
+P1529,Cory Patel,Michele Khan,83,General Medicine,7,5501.18,No,1,1100.236
+P1530,Shari Montgomery,Manuel Hancock,24,Pediatrics,8,8395.7,No,5,1679.14
+P1531,Jason Fields,Kathryn Rodriguez,13,General Medicine,45,453.73,No,4,90.746
+P1532,Tracy James,Grace Roberts,76,Orthopedics,19,6584.41,Yes,4,1316.882
+P1533,Brenda Owen,Richard Hall,24,Dermatology,6,1915.32,Yes,2,383.064
+P1534,Jonathan Robinson,Katherine Solomon,2,Oncology,13,9127.07,No,4,1825.414
+P1535,Debra Young,Brandon Thomas,28,Oncology,36,2958.62,Yes,4,591.724
+P1536,Gregory Solis,,77,General Medicine,22,1931.39,Yes,4,386.278
+P1537,Lee Morgan,Cynthia Gonzalez,52,Orthopedics,12,1363.06,No,4,272.612
+P1538,Cheryl Cochran,John Long,67,Pediatrics,29,8770.08,Yes,5,1754.016
+P1539,Denise Davis,Antonio Buck,13,Pediatrics,39,6773.27,Yes,4,1354.654
+P1540,Vanessa Kent,Cory Moran,76,General Medicine,32,4375.93,No,5,875.186
+P1541,Cassandra Montgomery,Shelby Miller,3,General Medicine,9,7016.36,Yes,1,1403.272
+P1542,Ashley Flores,Clinton Diaz,82,General Medicine,26,7767.99,No,3,1553.598
+P1543,Michael Bowen,Kerry Henderson,66,Dermatology,19,6967.09,No,3,1393.418
+P1544,Michael Watson,Emily Brown,39,Dermatology,10,2517.9,Yes,1,503.58
+P1545,Raymond Vega,Candice Jackson,90,Neurology,29,9861.67,Yes,5,1972.334
+P1546,Michael Nixon,Matthew Knapp,90,Dermatology,41,5782.85,Yes,4,1156.57
+P1547,Andrew Lee PhD,Jose Johnson,86,Cardiology,31,2523.32,No,5,504.664
+P1548,Martha Robbins,Shelby Murray,5,Cardiology,45,4369.34,No,3,873.868
+P1549,Gary Rivera,Jennifer Olson,1,Cardiology,5,858.16,No,2,171.632
+P1550,Tracy Jones,Justin West,69,General Medicine,26,7291.61,No,5,1458.322
+P1551,Margaret Gonzalez,Shawn Murphy,27,Cardiology,6,623.44,No,4,124.688
+P1552,Billy Spears,Kelly Martin,60,Cardiology,5,2388.81,Yes,3,477.762
+P1553,Frederick Gibbs,Sierra Green,17,General Medicine,36,2893.75,Yes,4,578.75
+P1554,Mr. Rick Donaldson,Doris Richardson,54,Oncology,39,665.26,No,4,133.052
+P1555,Kathryn Hamilton,Sandra Wallace,24,Dermatology,29,2510.94,Yes,1,502.188
+P1556,Lauren Crane,Ashley Koch,76,Pediatrics,30,4927.62,Yes,3,985.524
+P1557,Jessica Hurley,Alexandra Baker,75,Cardiology,3,2358.77,Yes,5,471.754
+P1558,Nancy Dean,Heidi Moreno,53,Pediatrics,10,3113.75,Yes,1,622.75
+P1559,Omar Johnson,Mr. Jay Cardenas,82,Dermatology,41,7951.99,No,5,1590.398
+P1560,Kristen Jones,Scott Williams,73,Dermatology,2,6256.93,Yes,3,1251.386
+P1561,Timothy Williams,Thomas Smith,7,Orthopedics,22,8104.37,Yes,4,1620.874
+P1562,Elizabeth Roberson,Craig Hester,88,Orthopedics,38,6556.48,Yes,5,1311.296
+P1563,Susan Bryant,Luis Weeks,24,General Medicine,32,5624.12,Yes,1,1124.824
+P1564,Madison Campos,Jason Acosta,10,Pediatrics,25,6504.19,No,2,1300.838
+P1565,Aaron Brown,Michael Deleon,64,Dermatology,15,7483.38,No,5,1496.676
+P1566,Jose Deleon,James Reynolds,53,Orthopedics,1,8075.49,No,1,1615.098
+P1567,Amanda Weeks,Lorraine Hubbard,45,Neurology,32,5025.37,No,3,1005.074
+P1568,Kyle Carter,Kayla Best,13,Pediatrics,17,3422.08,No,3,684.416
+P1569,Gina Martin,Ashley Schmidt,2,General Medicine,16,8153.79,No,5,1630.758
+P1570,Laura Oneal,Michael Potter,75,Orthopedics,11,6192.5,No,2,1238.5
+P1571,Caroline Stark,Jared Alvarez,88,Oncology,36,2787.51,No,1,557.502
+P1572,Kimberly Vance,Sean Taylor,20,Dermatology,29,5424.79,No,4,1084.958
+P1573,Barry Stephens,Susan Holloway,40,Neurology,20,3574.8,No,4,714.96
+P1574,Victoria Pennington,Karen Young,46,Orthopedics,8,9903.87,No,2,1980.774
+P1575,Sonya Miller,Michael Johnson,58,Orthopedics,11,2881.6,No,1,576.32
+P1576,Michael Snyder,Sarah Lara,32,Cardiology,23,5830.03,Yes,3,1166.006
+P1577,Daniel Morrison,David Williams,80,General Medicine,13,1345.22,No,2,269.044
+P1578,Michele Combs,Nicholas Brooks,63,Dermatology,27,5937.75,No,4,1187.55
+P1579,Richard Lewis,Benjamin Willis,27,Oncology,36,5676.68,Yes,3,1135.336
+P1580,Jessica Powell,Mark Graham,58,Dermatology,16,9130.64,No,4,1826.128
+P1581,Joshua Smith,Jasmine Foster,27,Pediatrics,8,6055.19,Yes,5,1211.038
+P1582,Vanessa Vasquez,Jose Barnes,28,General Medicine,45,7432.78,Yes,3,1486.556
+P1583,Tracy Elliott,Wesley Andersen,36,Pediatrics,43,4223.12,Yes,3,844.624
+P1584,Michael Mcdaniel,Crystal Brown,8,Cardiology,5,1193.62,No,3,238.724
+P1585,Molly Fowler,Tammy Foster,52,Oncology,38,4858.41,Yes,4,971.682
+P1586,David Lee PhD,Connie Simpson,19,Orthopedics,42,8542.61,No,1,1708.522
+P1587,Jennifer Hudson,Andrew Smith,13,Orthopedics,1,1330.22,Yes,1,266.044
+P1588,Michael Vazquez,Jonathon Cox,63,Dermatology,21,4780.78,Yes,5,956.156
+P1589,Gabriel Case,Brett Fisher,53,Pediatrics,6,8983.32,No,3,1796.664
+P1590,Marissa Frederick,Nicholas Harrell,67,Dermatology,37,3410.32,No,3,682.064
+P1591,Jasmine Adams,Mary Yang,19,Pediatrics,27,1598.61,No,1,319.722
+P1592,Mary Richard,Nathan Trujillo,5,Cardiology,17,2742.45,No,3,548.49
+P1593,Andrew Roach,Jack Thornton,18,Cardiology,32,8920.87,Yes,2,1784.174
+P1594,Megan Jones,Kimberly Wilson,48,Oncology,29,5244.06,Yes,5,1048.812
+P1595,Kaylee Simpson,,Unknown,Oncology,32,7096.23,Yes,1,1419.246
+P1596,Thomas Morris,Karen Williams,66,Dermatology,41,706.7,Yes,2,141.34
+P1597,Cassandra Torres,Brandon Rogers,43,Neurology,35,8007.27,Yes,4,1601.454
+P1598,Dominic Flores,Robert Daniels,56,Dermatology,27,390.82,No,3,78.164
+P1599,Matthew King,William Perez,48,Cardiology,43,4585.1,Yes,2,917.02
+P1600,Matthew Barnes,Alicia Nicholson,52,Pediatrics,40,2478.99,No,2,495.798
+P1601,Carolyn Benson,Amanda Schmidt,90,Pediatrics,17,9373.37,Yes,1,1874.674
+P1602,Wayne Montes,Heather Velazquez,68,Cardiology,3,7311.61,Yes,5,1462.322
+P1603,Brian Howell,Mrs. Jessica Clarke,3,Oncology,6,6426.1,No,2,1285.22
+P1604,Cory Thomas,Tamara Sanchez,32,Cardiology,20,9882.44,Yes,4,1976.488
+P1605,Brendan Moses,Andrew Hudson,56,Cardiology,3,9969.56,No,2,1993.912
+P1606,Benjamin Gray,Steven Smith,3,General Medicine,35,3117.23,Yes,2,623.446
+P1607,Rachel Miller,Robert Marshall,73,Dermatology,35,8749.21,No,4,1749.842
+P1608,Anthony Alexander,,53,Neurology,14,9356.45,Yes,4,1871.29
+P1609,Angela Adkins,Angela Conley,51,Dermatology,10,1922.54,Yes,4,384.508
+P1610,Jeremy Serrano,Carmen Taylor,31,Neurology,18,8898.15,No,2,1779.63
+P1611,Charles Garza,Mark Beck,11,Oncology,3,2648.25,Yes,1,529.65
+P1612,Tracy Martin,Patricia Manning,45,Cardiology,44,9810.56,No,5,1962.112
+P1613,Karen Lopez,Lindsay Tran,25,Dermatology,31,2425.92,No,2,485.184
+P1614,Nicole George,,8,Oncology,15,7089.86,No,2,1417.972
+P1615,Makayla Richardson,Mr. Curtis Green,83,Oncology,10,830.88,Yes,4,166.176
+P1616,Karina Wright,Barbara Morse,48,Dermatology,12,7456.42,No,1,1491.284
+P1617,Matthew Tran,Dr. Marie Roberts MD,56,Cardiology,13,1393.51,No,5,278.702
+P1618,Justin Payne,Ronald Harris,54,Pediatrics,14,7210.52,Yes,1,1442.104
+P1619,Christopher Long,Michael Lam,59,General Medicine,19,1230.5,No,3,246.1
+P1620,Amanda Ortiz MD,Sarah Zimmerman,35,Oncology,41,9465.28,Yes,3,1893.056
+P1621,Olivia Goodwin,Cynthia Bender,15,Cardiology,21,,Yes,2,1017.382
+P1622,James Rodgers,Lindsey Jones,Unknown,General Medicine,12,7520.79,No,2,1504.158
+P1623,Diana Bailey,Laura Jones,2,General Medicine,19,7813.3,Yes,3,1562.66
+P1624,Sarah Phillips,Lauren Joyce,68,Oncology,10,5165.8,No,5,1033.16
+P1625,Dennis Hernandez,Lynn Gentry,62,Cardiology,15,4798.3,Yes,4,959.66
+P1626,Nicholas Campbell,Brittany Padilla,14,Oncology,42,1447.79,No,1,289.558
+P1627,Shawn Bender,Andrew Mayer,73,Pediatrics,32,5107.55,No,5,1021.51
+P1628,Angela Cowan,Christine Warren,51,Oncology,42,8897.43,No,1,1779.486
+P1629,Anthony Simmons,Amanda Gray,24,Dermatology,43,5239.62,Yes,1,1047.924
+P1630,Meagan Crane,Matthew Green,11,Pediatrics,9,,No,2,333.296
+P1631,Andrew Garcia,Scott Roberts,68,Neurology,9,5222.92,Yes,1,1044.584
+P1632,Tracey Gray,Suzanne Flores,74,Neurology,19,3410.41,No,3,682.082
+P1633,Kathleen Kennedy,Michael Simmons,40,General Medicine,41,8114.02,No,2,1622.804
+P1634,Alexander Hall,Emma Young,10,Neurology,36,2130.75,No,3,426.15
+P1635,Richard Ryan,Joseph Orozco,19,Dermatology,41,3401.84,No,2,680.368
+P1636,Justin Robertson,Juan Lewis,64,Dermatology,39,7525.2,Yes,2,1505.04
+P1637,Michael Graham,Gregory Santos,6,Dermatology,26,3014.59,Yes,2,602.918
+P1638,Natalie Parker,Nicole Barrett,2,Dermatology,19,431.72,No,4,86.344
+P1639,Samantha Hernandez,Christopher Rose,21,Pediatrics,20,6740.78,Yes,2,1348.156
+P1640,Laura Morrison,Gary Perez,86,General Medicine,15,1984.32,Yes,5,396.864
+P1641,Kevin Liu,Brandon Durham,77,Orthopedics,25,2817.14,Yes,5,563.428
+P1642,Melissa Leblanc,Kenneth Taylor,22,Neurology,35,1491.06,Yes,3,298.212
+P1643,Cory Chapman,Caitlyn Scott,32,Dermatology,6,690.43,YES,1,138.086
+P1644,Olivia Jones,Tammy Lopez,22,Neurology,21,6499.19,No,4,1299.838
+P1645,Samuel Lowery,Ashley Morgan,40,Oncology,40,5339.06,Yes,1,1067.812
+P1646,David Mcdaniel,James Robinson,80,Dermatology,15,5160.97,Yes,5,1032.194
+P1647,Sarah Nelson,Jeffrey Wilson,45,Oncology,18,5865.98,No,5,1173.196
+P1648,Jeremy Phelps,Darrell Mitchell,70,Pediatrics,6,8118.91,No,2,1623.782
+P1649,Teresa Williams,Kelly Turner,57,Neurology,45,1302.04,Yes,4,260.408
+P1650,Kaylee Webb PhD,Samantha Howard,31,Dermatology,30,8695.39,Yes,3,1739.078
+P1651,Lauren Harris,Ricky Reynolds,Unknown,Oncology,40,6793.08,No,5,1358.616
+P1652,Karen Mason,,51,Dermatology,18,436.04,No,5,87.208
+P1653,Terri Barker,Lisa Ward MD,8,General Medicine,38,2326.95,No,5,465.39
+P1654,Melissa Woods,Mr. David Walter DVM,59,Neurology,31,8736.4,No,4,1747.28
+P1655,Sherry Woods,Lisa Torres,57,General Medicine,36,7354.43,Yes,3,1470.886
+P1656,Lisa Stevens,Sandra Weiss,71,Neurology,16,4231.23,Yes,3,846.246
+P1657,Judy Banks,Raymond Dyer,48,Pediatrics,36,6473.13,Yes,5,1294.626
+P1658,Mary Griffin,John Smith,7,Neurology,10,1758.94,Yes,5,351.788
+P1659,William Torres,Morgan Marshall,35,Oncology,17,9582.38,Yes,1,1916.476
+P1660,Jasmine Brewer,Robert Adams,21,Neurology,12,6694.95,Yes,5,1338.99
+P1661,Leslie Clements,Henry Best,23,Dermatology,8,2960.99,Yes,5,592.198
+P1662,James Carter,Shannon Branch,15,Neurology,16,9495.28,Yes,1,1899.056
+P1663,Nicole Rodriguez,Lauren Peters,61,Orthopedics,20,3424.72,Yes,5,684.944
+P1664,John Hunter,Cristina Griffin,31,Dermatology,32,8132.13,Yes,1,1626.426
+P1665,Christine Roberts,Taylor Savage,12,General Medicine,40,1231.38,No,3,246.276
+P1666,Jackie Hull,Donald Jones,72,Pediatrics,29,6702.64,No,4,1340.528
+P1667,Renee Watts,Christopher Cunningham,67,General Medicine,42,3386.66,Yes,1,677.332
+P1668,Catherine Torres,Cynthia Jordan,15,Oncology,3,9319.99,No,1,1863.998
+P1669,Evelyn Moran,Stephen Ramirez,77,Neurology,31,4348.83,No,3,869.766
+P1670,Cheryl Richardson,Veronica Choi,48,Dermatology,1,8414.24,No,4,1682.848
+P1671,Lori Rodriguez,Charles Glenn,74,Dermatology,23,4803.88,No,4,960.776
+P1672,Anthony Johnson,Stephanie Boyle,66,Dermatology,2,9139.44,Yes,3,1827.888
+P1673,Richard Weeks,David Romero,25,Neurology,41,3357.26,Yes,3,671.452
+P1674,Shannon Chavez,Marcus Johnson,78,Dermatology,36,4805.65,No,2,961.13
+P1675,Stefanie Cooke,Mr. Andrew Hernandez,9,Oncology,20,680.39,No,2,136.078
+P1676,Laura Werner,Allen Serrano,22,General Medicine,22,5130.8,Yes,5,1026.16
+P1677,Kyle Strickland,Yolanda Thomas,61,General Medicine,24,2726.14,Yes,4,545.228
+P1678,Tonya Simon,Timothy Williams,66,Pediatrics,32,5005.42,Yes,4,1001.084
+P1679,Ryan Lamb,Sabrina Pearson,63,General Medicine,42,6747.15,No,5,1349.43
+P1680,Michael Jones,Danielle Hunter,57,Neurology,3,6081.86,No,2,1216.372
+P1681,Diana Wright,Sean Rocha,25,Neurology,43,2277.01,No,3,455.402
+P1682,Alicia Matthews,Michael Thomas,41,Neurology,21,9505.74,No,4,1901.148
+P1683,Daniel Newman,Heather Harris,48,Oncology,17,9046.19,No,4,1809.238
+P1684,Sandra Norman,Miss Joanna Johnson,17,Pediatrics,44,8652.82,No,1,1730.564
+P1685,Eric Collins,Nicole Morton,69,Pediatrics,3,5843.03,No,1,1168.606
+P1686,Edward Miller,Summer Moore,17,Cardiology,45,8663.48,Yes,5,1732.696
+P1687,Brandon Hancock,Caitlin Todd,23,Orthopedics,35,3754.04,Yes,5,750.808
+P1688,Jennifer Gates,Sharon Rodriguez,88,Neurology,18,1997.12,Yes,1,399.424
+P1689,Jose Cox,Elizabeth Miller,71,Pediatrics,10,1562.22,Yes,3,312.444
+P1690,Stacey Rodriguez,Veronica Webster,4,Cardiology,6,6743.66,No,2,1348.732
+P1691,Christopher Porter,Dawn Cole,5,Oncology,23,6568.68,Yes,4,1313.736
+P1692,Matthew Marquez,Christine Russell,1,Pediatrics,20,6048.07,Yes,5,1209.614
+P1693,Charles Rose,Erik Watts,50,Orthopedics,30,650.48,Yes,4,130.096
+P1694,Janice Garcia,Leslie Williams,61,Oncology,17,5042.38,Yes,4,1008.476
+P1695,Richard Byrd,Kenneth Reilly,30,Neurology,43,2165.06,Yes,2,433.012
+P1696,Noah Vega,Sara Allen,23,General Medicine,20,4628.82,No,1,925.764
+P1697,Robert Calderon,Timothy Rivera,87,Oncology,31,1195.49,Yes,5,239.098
+P1698,Shannon Ortega,Carrie Williams,17,Cardiology,40,1187.72,Yes,3,237.544
+P1699,James Jackson,Bryan Leon,46,Oncology,13,2851.57,No,5,570.314
+P1700,Melissa Patterson,Steven Webb,83,Cardiology,30,8543.52,No,2,1708.704
+P1701,Gary Brewer,Victoria Stokes,62,Pediatrics,16,1401.54,Yes,2,280.308
+P1702,Kelsey Bartlett,Tara Miles,69,Dermatology,3,6898.54,No,4,1379.708
+P1703,Jose Fox,April Howe DVM,52,Pediatrics,43,3236.7,Yes,4,647.34
+P1704,Nathan Lewis,Kristen Peters,14,Dermatology,12,5155.37,Yes,4,1031.074
+P1705,Gina James,Robert Williams,88,General Medicine,42,1305.08,No,1,261.016
+P1706,Marc Murphy,Christina Ruiz,76,Cardiology,29,4797.84,Yes,1,959.568
+P1707,Maurice Robinson,Kevin Sandoval,45,Dermatology,7,9834.68,Yes,3,1966.936
+P1708,Kayla Reyes,Cristina Mitchell,38,Neurology,19,447.63,No,4,89.526
+P1709,Dawn Williams,Franklin Ochoa,9,General Medicine,32,5195.98,No,2,1039.196
+P1710,Brandon Cole,Brian Nguyen,30,General Medicine,29,4045.57,Yes,1,809.114
+P1711,Mike Wallace,Anthony Bell,46,General Medicine,22,5578.02,No,2,1115.604
+P1712,Luis Mayer,Maria Madden,31,Orthopedics,32,7172.42,No,4,1434.484
+P1713,Aaron Russell,Scott Martin,10,Dermatology,34,9109.22,Yes,1,1821.844
+P1714,David Powers,Jeffrey Gill,68,Orthopedics,4,5184.4,No,3,1036.88
+P1715,Dale Sanders,Joseph Hendricks,9,Orthopedics,7,7991.11,Yes,1,1598.222
+P1716,Anna Roberts,Anthony Brown,18,Oncology,1,8705.79,Yes,5,1741.158
+P1717,Deborah Ortiz,Zachary Jackson,22,Pediatrics,24,5418.82,No,4,1083.764
+P1718,Amanda Compton,Stephanie Scott,61,Neurology,38,1509.06,Yes,1,301.812
+P1719,Kenneth Scott,Holly Hill,3,Orthopedics,40,5088.23,Yes,2,1017.646
+P1720,Leon Ramsey,Sean Mora,30,Oncology,26,7009.35,No,1,1401.87
+P1721,Brian Gordon,Melissa Stone,3,Pediatrics,9,3653.13,No,1,730.626
+P1722,Jeffrey Marks,Arthur Frederick,83,Oncology,34,9774.24,No,2,1954.848
+P1723,Vanessa Dorsey,Nicole Strong,74,Pediatrics,4,4680.62,Yes,4,936.124
+P1724,Andrew Arellano,Stephanie Hall,21,Dermatology,18,4158.92,No,4,831.784
+P1725,Anna Terrell,Mary Nash,43,Dermatology,42,3668.17,No,5,733.634
+P1726,Dr. Richard Torres,Caleb Clark,31,Cardiology,1,8565.18,Yes,1,1713.036
+P1727,Erica Freeman,Sarah Johnson,65,Neurology,40,3529.63,No,2,705.926
+P1728,Vanessa Woodward,Kevin Johnson,90,Pediatrics,38,4666.77,Yes,4,933.354
+P1729,Carolyn Olson,Tyler May,18,General Medicine,24,3545.98,No,1,709.196
+P1730,Christina Vaughn,Sarah Bonilla,19,General Medicine,44,7542.82,Yes,2,1508.564
+P1731,Dillon Howell,Kristine Walters,31,Cardiology,8,3962.02,Yes,3,792.404
+P1732,Bryan Rodriguez,Roy Mosley,46,Oncology,12,2883.98,No,2,576.796
+P1733,Tiffany Ferrell,Robert Turner,24,Orthopedics,3,7864.63,Yes,5,1572.926
+P1734,Heather Rivera,Andrea Jackson,49,Pediatrics,13,2558.37,No,1,511.674
+P1735,Diane Horne,Bradley Taylor,63,Dermatology,8,7839.16,Yes,5,1567.832
+P1736,Cody Barber,Drew White,31,General Medicine,14,2435.67,Yes,3,487.134
+P1737,Nathan Martinez,Tiffany Williams,26,Cardiology,4,7189.13,Yes,4,1437.826
+P1738,Diana Fields,Melinda Rose,22,Pediatrics,20,9585.25,Yes,3,1917.05
+P1739,Sarah Matthews,Tracy Bridges,58,Cardiology,16,9462.33,No,1,1892.466
+P1740,Michael Green,Richard Christian,39,Cardiology,15,846.6,No,5,169.32
+P1741,Maria Fisher,Rebecca Wright,23,Cardiology,21,1586.27,Yes,4,317.254
+P1742,Mr. Adam Parker,Daniel Morrison,40,Orthopedics,38,3886.32,No,2,777.264
+P1743,Melissa Vazquez,Mark Chapman,24,Orthopedics,41,8060.97,No,2,1612.194
+P1744,Sharon Rich,Sarah Malone,15,General Medicine,29,9149.61,Yes,1,1829.922
+P1745,Chelsea Berry,April Collins,46,Pediatrics,3,7960.76,No,2,1592.152
+P1746,Adrian Barron,Larry Williams,33,Oncology,13,8972.26,No,1,1794.452
+P1747,Amanda Sawyer,Bradley Kim,55,Pediatrics,35,9244.36,Yes,2,1848.872
+P1748,Paul Johnson,Lindsey Estrada,45,Pediatrics,33,6365,No,4,1273
+P1749,David Stuart,Lori Mills,61,Orthopedics,34,1606.03,No,5,321.206
+P1750,Jennifer Reed,Robert Roth,25,Orthopedics,3,7565.26,Yes,5,1513.052
+P1751,Rebecca Henry,Steven Flores,48,Cardiology,16,2893.75,No,2,578.75
+P1752,Gary Gray,Brandon Schmidt,33,Orthopedics,3,750.31,Yes,5,150.062
+P1753,Marco Thompson,John Owens,6,General Medicine,33,3512.48,No,5,702.496
+P1754,Brenda Schwartz,Crystal Anderson,24,Pediatrics,43,8337.54,No,2,1667.508
+P1755,Veronica Oliver,Zachary Johnson,65,Cardiology,17,3320.45,Yes,2,664.09
+P1756,Michael Thompson,Faith Barnett,36,Dermatology,40,5154.1,No,1,1030.82
+P1757,Ryan Ferrell,Sarah Benson,12,Oncology,5,1803.87,No,3,360.774
+P1758,Melissa Smith,Courtney Manning,78,Oncology,30,319.35,Yes,2,63.87
+P1759,Jennifer Harris,Kyle Pugh,51,Orthopedics,44,9677.57,No,5,1935.514
+P1760,Richard Campbell,Cody Williams,41,General Medicine,25,2852.35,No,2,570.47
+P1761,Nicole Foster,James Daniels,51,Cardiology,14,2033.78,Yes,2,406.756
+P1762,Edwin Bender,Jonathan Fox,45,Dermatology,42,9509.49,No,3,1901.898
+P1763,Rachael Jones,John Butler,7,Neurology,9,400.48,No,3,80.096
+P1764,Veronica Miller,Kenneth Morales,44,Dermatology,34,,No,5,470.59
+P1765,Michael Fry,Elizabeth Morgan,90,Oncology,11,6298.85,Yes,3,1259.77
+P1766,Mr. Robert Dixon MD,Kathleen Cross,27,General Medicine,17,5268.33,No,1,1053.666
+P1767,Marissa Wilson,Mary Hall,3,Cardiology,5,,Yes,2,1600.968
+P1768,Sean Terrell,Yvonne Holt,57,Pediatrics,13,4389.02,No,3,877.804
+P1769,Johnny Yang,Juan Sexton,70,Pediatrics,32,527.14,No,2,105.428
+P1770,Omar Powell,Tami Butler,72,Neurology,10,3919.88,Yes,1,783.976
+P1771,Angela Brown,Jennifer Wright,43,Pediatrics,20,1111.11,No,4,222.222
+P1772,Erin Rocha,Christian Adkins,47,Neurology,23,5723.42,No,4,1144.684
+P1773,Timothy Hunter,Elizabeth Lewis,76,Neurology,9,1763.06,No,2,352.612
+P1774,Craig Duran,Anthony Thomas DDS,77,Oncology,4,8750.85,Yes,4,1750.17
+P1775,Jesus Nichols,Lisa Johnson,19,Neurology,3,2695.68,No,5,539.136
+P1776,Lisa York,,20,Orthopedics,22,4711.23,Yes,4,942.246
+P1777,Katherine Rivera,Christopher Blake,49,Orthopedics,17,3907.36,Yes,4,781.472
+P1778,Kendra Mosley,Traci Lee,8,Neurology,37,3988.05,Yes,4,797.61
+P1779,Mary Thompson,John Irwin,88,General Medicine,14,3135.31,No,1,627.062
+P1780,Diana Little,David Summers,87,Dermatology,26,,No,4,1823.322
+P1781,Tara Hendricks,Anthony Dixon,37,Cardiology,45,661.68,No,2,132.336
+P1782,Jerry Fitzgerald,Lindsey Parker,59,Oncology,39,7999.82,No,3,1599.964
+P1783,Tracy Sanchez,Julian Howard,23,Cardiology,38,6066.68,No,5,1213.336
+P1784,Paul Holmes,Edwin Coleman,53,Pediatrics,31,7454.17,Yes,2,1490.834
+P1785,Jeffery Sanders,Michael Mckinney,23,Orthopedics,17,1814.78,Yes,5,362.956
+P1786,Kimberly Hicks,Molly Murray,86,Orthopedics,17,783.86,Yes,2,156.772
+P1787,Kenneth Williams,Michelle Miller,3,General Medicine,5,6303.32,No,2,1260.664
+P1788,Andrew Edwards,James Hammond,28,Orthopedics,20,2194.18,Yes,4,438.836
+P1789,Joseph Anderson,Megan Jones,52,Neurology,3,1867.28,Yes,1,373.456
+P1790,Mitchell Kim II,Christopher Gray,85,General Medicine,4,706.84,Yes,1,141.368
+P1791,Kevin Flores,Robert Ross,29,Pediatrics,12,1502.96,No,3,300.592
+P1792,Dalton Walters,Frank Gonzalez,33,Pediatrics,30,6974.47,Yes,4,1394.894
+P1793,Lindsay Wells,Bianca Robinson,26,Oncology,37,3705.03,Yes,5,741.006
+P1794,Tyler Fuller,Timothy Graham,38,General Medicine,4,7795.21,Yes,3,1559.042
+P1795,Hannah Gonzales,Brandon Mcclure,54,Dermatology,8,9365.72,Yes,1,1873.144
+P1796,Tammy Brown,Brent Hudson,15,Oncology,44,873.7,No,1,174.74
+P1797,Craig Webb,Thomas Christensen,35,Orthopedics,5,9087.13,No,1,1817.426
+P1798,Bruce Bennett,Joshua Smith,75,Pediatrics,26,9322.2,No,4,1864.44
+P1799,John Bennett,Joshua Ward,64,Neurology,41,2661.21,No,1,532.242
+P1800,Michael Franklin,Jennifer Salazar,42,Pediatrics,36,9275.56,Yes,5,1855.112
+P1801,Nicole Ewing,Karen Olson,86,Cardiology,40,4534.46,No,5,906.892
+P1802,Holly Herrera,Angel Jones,38,Oncology,35,2545.56,Yes,5,509.112
+P1803,Alexis Reynolds,Krista Garcia,68,General Medicine,15,9462.64,No,1,1892.528
+P1804,Samuel Griffin,Erica Smith,31,Dermatology,17,669.57,No,3,133.914
+P1805,Kimberly Hernandez,Ricky Watson,66,Pediatrics,40,7786.56,No,5,1557.312
+P1806,Brandy Wilson,Travis Henderson,38,Oncology,29,1726.9,No,4,345.38
+P1807,Jerry Phillips,Vanessa Alvarado,31,Cardiology,34,8695.33,Yes,3,1739.066
+P1808,Tonya Williams,Maria Schmidt,28,Dermatology,28,5799.58,Yes,2,1159.916
+P1809,Michael Russell,Chad Lewis,4,Neurology,12,363.03,Yes,4,72.606
+P1810,Lisa Smith,Kevin Duarte,76,Orthopedics,30,6840.78,Yes,3,1368.156
+P1811,Stephen Smith,Michael Goodwin,69,General Medicine,21,1901.59,Yes,1,380.318
+P1812,Kenneth Davis,Jessica Wolfe,30,General Medicine,16,777.76,Yes,1,155.552
+P1813,William Moore,Calvin Powell,28,Orthopedics,21,3033.51,No,1,606.702
+P1814,Heather Becker,Francis Harmon,2,Pediatrics,41,2152.46,No,4,430.492
+P1815,Jonathan Taylor,Thomas Smith,2,Dermatology,6,702.07,No,5,140.414
+P1816,Kristin Berg,Tanya Soto,82,Orthopedics,32,7222.23,Yes,4,1444.446
+P1817,Jill Brown,Craig Villanueva,29,Oncology,26,8735.18,Yes,3,1747.036
+P1818,Timothy Welch,James Davis,9,Neurology,38,485.89,No,5,97.178
+P1819,Sarah Kelley,Collin Cabrera,89,Pediatrics,18,9176.66,Yes,2,1835.332
+P1820,Vanessa Gibbs,Amy Duran,42,Neurology,31,8628.6,Yes,2,1725.72
+P1821,Courtney Bradford,Brandon Hansen,47,Dermatology,11,2402.26,No,5,480.452
+P1822,Gina Deleon,Ryan Rose,62,Neurology,19,1444.15,Yes,5,288.83
+P1823,Brian Barnett,Rhonda Norris,40,Pediatrics,22,4586.54,No,3,917.308
+P1824,Melanie Brown,Elizabeth Bell,8,Cardiology,33,6435.8,No,1,1287.16
+P1825,Vincent Nelson,Matthew Nguyen Jr.,76,Cardiology,30,5466.39,Yes,1,1093.278
+P1826,Jennifer Peterson,Anne Barker,81,Orthopedics,21,7102.41,Yes,4,1420.482
+P1827,Elaine Quinn,Jackie Ramirez,77,Oncology,14,7991.49,Yes,4,1598.298
+P1828,Gregory Stevens,Brian Clarke,12,General Medicine,14,6581.9,Yes,1,1316.38
+P1829,Matthew Bishop Jr.,Mario Jackson,75,Oncology,25,915.07,Yes,4,183.014
+P1830,Allison Ramsey,Elizabeth Fernandez,73,Pediatrics,15,928.03,No,3,185.606
+P1831,James Hill,Sara Smith,10,Orthopedics,35,3461.8,No,5,692.36
+P1832,Alex Murray,Robin Miller,67,Neurology,25,8817.84,Yes,2,1763.568
+P1833,Diane Rogers,Jordan Alvarez,52,Pediatrics,5,6454.98,Yes,5,1290.996
+P1834,Dawn Reynolds,Joseph Myers,85,Neurology,34,5713.23,Yes,2,1142.646
+P1835,Crystal Rose,Mr. Jacob Bradshaw,76,Oncology,33,2981.66,Yes,4,596.332
+P1836,Danielle Hubbard,Mary Stanley,36,Pediatrics,35,7274.04,No,4,1454.808
+P1837,Katrina Cruz,Samantha Curry,6,Oncology,41,8226.05,Yes,1,1645.21
+P1838,Jennifer Mccarthy,Zachary Moore,69,Oncology,9,8359.65,No,4,1671.93
+P1839,Martin Faulkner,Kristen Burns,22,Pediatrics,28,9917.67,Yes,1,1983.534
+P1840,Charles Bailey,,64,Orthopedics,38,9634.64,Yes,4,1926.928
+P1841,Laura Ward,Walter Hartman,22,Oncology,31,2941.87,No,2,588.374
+P1842,Mrs. Michelle Rivera,Donald Thomas,65,Dermatology,44,6757.96,Yes,3,1351.592
+P1843,Bryan Turner,Lisa Davidson,23,Oncology,33,2739.62,No,4,547.924
+P1844,Ann Burch,Angel Valentine,66,Pediatrics,7,7616.34,No,2,1523.268
+P1845,Patrick Bradford,Charles Mclaughlin,86,Orthopedics,11,7987.93,No,5,1597.586
+P1846,Emily Foster,Anna Scott,24,Cardiology,44,2277.69,Yes,4,455.538
+P1847,Erica Villanueva,Jesus Mclaughlin,11,Pediatrics,14,8246.73,Yes,5,1649.346
+P1848,Michelle Fisher,Kathy Harris,6,Orthopedics,30,2415.45,No,3,483.09
+P1849,Jose Roy,Mrs. Maria Johnson,14,Dermatology,3,1257.95,No,4,251.59
+P1850,Rita Ford,Jason Berry,82,Oncology,3,6656.91,No,4,1331.382
+P1851,Robert Berger,Elizabeth Weeks,89,Orthopedics,25,9379.52,No,3,1875.904
+P1852,Christina Eaton,Maria Smith,50,Oncology,34,9391.12,Yes,5,1878.224
+P1853,Dr. Cheyenne Smith,Rebecca Harrington,77,General Medicine,44,3192.42,Yes,2,638.484
+P1854,Kyle Davis,Chad Rodriguez,58,Neurology,17,5928.74,No,4,1185.748
+P1855,Rodney Ford,Elijah Lee,38,General Medicine,22,2591.36,No,2,518.272
+P1856,Colleen Ball,Timothy Miller,64,Pediatrics,18,8349.67,No,4,1669.934
+P1857,Julie Villanueva DDS,Heather Sparks,40,Pediatrics,3,2743.64,No,1,548.728
+P1858,Krista Miller,David Cortez,61,Orthopedics,37,8838.46,Yes,3,1767.692
+P1859,Nicole Taylor,Christopher Jones,41,Neurology,19,,No,5,848.338
+P1860,Edward Perkins,Barbara Cruz DDS,79,Oncology,35,9859.09,Yes,5,1971.818
+P1861,Sarah Vasquez,John Jackson,58,Neurology,10,4495.36,No,4,899.072
+P1862,Stephen Fuller,Angela Bridges,53,Cardiology,7,1472.8,Yes,5,294.56
+P1863,Kimberly Gillespie,Amy Anthony,72,General Medicine,1,2763.26,No,3,552.652
+P1864,Lisa Evans,Jordan Maldonado,79,Orthopedics,28,8882.38,No,2,1776.476
+P1865,Adrian Jordan,Whitney Powers,84,Oncology,40,7383.43,Yes,5,1476.686
+P1866,Mary Freeman,Jenna Foster,55,Pediatrics,45,7112.81,No,4,1422.562
+P1867,Kyle Ramirez,Theresa Henry,18,Oncology,2,5873.8,No,5,1174.76
+P1868,Jonathan Salazar,Carlos James,57,General Medicine,15,1316.34,Yes,1,263.268
+P1869,Julia Spencer,Rita Dorsey,26,General Medicine,42,7266.61,No,5,1453.322
+P1870,Andrew Lam,Samantha Kennedy,69,Pediatrics,42,9205.38,No,2,1841.076
+P1871,Michael Coleman,Jimmy Thomas,61,Dermatology,23,5650.13,Yes,1,1130.026
+P1872,Stephanie Holmes,Beth Elliott,4,Dermatology,30,1283.89,Yes,5,256.778
+P1873,Caroline Rivers MD,Amanda Reed,72,Cardiology,24,9915.1,No,4,1983.02
+P1874,Jeremiah Perez,Kathryn Brown,84,Dermatology,10,2084.03,No,1,416.806
+P1875,Theresa Malone,Matthew Mclaughlin,5,Cardiology,6,2460.07,Yes,2,492.014
+P1876,Tasha Williams,Susan Jones,22,Dermatology,1,9170.7,No,2,1834.14
+P1877,Dylan Jones,Jeffrey Walker,87,Dermatology,28,6842.75,No,3,1368.55
+P1878,Anna Andrade,Chad Dean,11,Dermatology,31,5972.65,No,5,1194.53
+P1879,Joanna Bell,Harold Humphrey,1,Cardiology,24,7636.75,No,3,1527.35
+P1880,Brian Turner,Phillip Tyler,24,Pediatrics,42,9345.26,Yes,5,1869.052
+P1881,Casey Velez,Susan Bright,79,General Medicine,1,4391.83,No,2,878.366
+P1882,Shawn Berry,Jacqueline Hamilton,42,Oncology,41,7280.62,No,5,1456.124
+P1883,Scott Griffin,Shannon Rodriguez,85,Orthopedics,19,7833.39,No,5,1566.678
+P1884,Deborah Williams,Joshua Holmes,59,Dermatology,26,1331.32,Yes,1,266.264
+P1885,Brandon Peterson,Chelsea Fernandez,48,Cardiology,2,9208.47,No,3,1841.694
+P1886,Jerome Romero,Richard Lara,69,Oncology,36,9143.56,Yes,5,1828.712
+P1887,Daniel Russell,Ashley Gray,16,Dermatology,27,4226.5,No,5,845.3
+P1888,Scott Alvarez,Daniel Mitchell,7,Cardiology,42,1840.12,Yes,2,368.024
+P1889,Kathy Russell,,62,Cardiology,44,3467.93,No,1,693.586
+P1890,David Singh,Caitlin Wise,50,Orthopedics,13,6634.29,Yes,3,1326.858
+P1891,Shawn Patterson,Douglas York,8,Oncology,8,778.81,No,5,155.762
+P1892,Sherry Hunter,Stephanie Kennedy,19,Orthopedics,22,5608.13,No,1,1121.626
+P1893,Anthony Mcmillan,Carrie Munoz,51,Neurology,14,8232.9,No,5,1646.58
+P1894,Gary Taylor,Savannah Brown,52,Orthopedics,31,8862.4,Yes,1,1772.48
+P1895,Natalie Donovan,Andrew Ayala,41,Neurology,23,4858.82,Yes,5,971.764
+P1896,Kristin Edwards,Amanda Lane,32,General Medicine,11,4333.88,Yes,5,866.776
+P1897,Kevin Long MD,Dr. Crystal Pena,71,Pediatrics,3,9417.46,No,2,1883.492
+P1898,Briana Jimenez,Eric Young,79,Dermatology,1,2173.56,No,2,434.712
+P1899,Kyle Johnston,Timothy Figueroa,77,Orthopedics,34,5768.58,No,3,1153.716
+P1900,Philip Moore,Kendra Wells,75,General Medicine,29,7341.1,No,1,1468.22
+P1901,Kimberly Reyes,Spencer Steele,29,Oncology,1,7716.89,No,3,1543.378
+P1902,Matthew Moore,April Johnson,6,Cardiology,10,9076.4,No,4,1815.28
+P1903,Darius Wilkinson,Mary Floyd,20,Neurology,41,4477.54,No,3,895.508
+P1904,Joshua Mccarty,Samuel Reed,61,Pediatrics,35,1962.43,Yes,2,392.486
+P1905,Maureen Craig,Russell Johnson,72,Oncology,39,2805.38,Yes,5,561.076
+P1906,Eric Jordan,Francisco Anderson,67,Oncology,36,2954.58,Yes,3,590.916
+P1907,Andrew Miller,Wendy Tapia,2,General Medicine,2,4074.58,Yes,5,814.916
+P1908,Alicia Arroyo,Michael Walter,79,Dermatology,7,1918.55,No,3,383.71
+P1909,Russell Grant,Brittney Jackson,83,Pediatrics,42,2098.35,No,1,419.67
+P1910,Veronica Kim,Joseph Beck,18,Dermatology,28,2140.05,No,3,428.01
+P1911,David Sanford,Sarah Johnson,77,Dermatology,1,8916.73,No,5,1783.346
+P1912,Amanda Moody,Kelli Arnold,81,Cardiology,8,5815.29,No,3,1163.058
+P1913,Michael Johnson,Ms. Veronica Clark,30,Orthopedics,27,6480.38,No,2,1296.076
+P1914,Joseph Moore,Donna Green,70,Dermatology,24,9365.97,No,2,1873.194
+P1915,Marilyn Conley,Sharon Freeman,19,Dermatology,39,7369.72,Yes,5,1473.944
+P1916,Randall Rodriguez,Kevin Butler,83,Oncology,22,3857.11,No,5,771.422
+P1917,Brooke Griffin,Rachel Martinez,12,Pediatrics,7,8961.6,No,2,1792.32
+P1918,Holly Thomas,Aaron Anderson,57,Cardiology,35,7292.69,No,1,1458.538
+P1919,Alison Martin,Crystal Brown,29,General Medicine,31,2442.08,Yes,2,488.416
+P1920,Jorge Evans,Juan Lopez,19,Cardiology,32,9364.82,Yes,3,1872.964
+P1921,Antonio Yates DVM,Isabella Greer,33,Orthopedics,10,9583.15,No,4,1916.63
+P1922,Stephanie Kelly,Victor Ayala,33,Neurology,5,7901.06,Yes,2,1580.212
+P1923,John Beck,Andrea Rivera,16,Oncology,27,7168.19,Yes,1,1433.638
+P1924,Kathryn Walters,Timothy Reynolds,65,Orthopedics,32,7501.12,Yes,5,1500.224
+P1925,Alex Thompson,Mark Barrett,34,Dermatology,28,8816.63,Yes,3,1763.326
+P1926,Brittney Long,Chad Lopez,51,General Medicine,21,8958.25,No,2,1791.65
+P1927,Christopher Chang,Michael Frost,68,Dermatology,6,8831.64,No,4,1766.328
+P1928,Rachael Johnson,Steven Lucas,39,Dermatology,5,9021.98,No,3,1804.396
+P1929,Shawn Alvarez,Jared Brown,73,Pediatrics,8,356.48,No,3,71.296
+P1930,Mary Collins,Mr. Brett Thornton,17,Orthopedics,3,3318.01,Yes,2,663.602
+P1931,Frederick Drake,David Lee,Unknown,Pediatrics,19,5680.53,No,3,1136.106
+P1932,Steven Navarro,Patrick Alexander,48,Dermatology,36,4849.41,No,2,969.882
+P1933,Charles Wallace,Calvin Thomas,73,Pediatrics,5,8829.48,Yes,1,1765.896
+P1934,Melissa Mccullough,Christina Harris,41,Neurology,29,7019.48,No,2,1403.896
+P1935,Victoria Greer,Victor Lee,40,Dermatology,15,7866.34,Yes,3,1573.268
+P1936,Anthony Spears III,Donald Alvarez,52,Oncology,13,8666.27,Yes,4,1733.254
+P1937,Timothy Mendoza,Patricia Cross,30,Orthopedics,12,5347.06,No,2,1069.412
+P1938,Rebecca Evans,Joshua Johnson,84,Orthopedics,45,9099.44,Yes,4,1819.888
+P1939,Jeffrey Newman,Dave Ellis,16,Dermatology,37,6729.99,Yes,5,1345.998
+P1940,Donald Alexander,Jeffrey Norman,42,Pediatrics,6,6458.55,No,5,1291.71
+P1941,Melissa Larsen,Kristen Mahoney,54,General Medicine,36,1470.8,No,5,294.16
+P1942,Mr. Patrick Schultz,Joshua Howard,37,Neurology,38,364.68,No,4,72.936
+P1943,Lorraine Anderson,Dr. Lauren Jordan DDS,37,Cardiology,10,9863.68,No,2,1972.736
+P1944,Theresa Hall,Judith Bernard,49,Oncology,29,4560.45,Yes,2,912.09
+P1945,Robert Chandler,Melanie Larson,47,Cardiology,11,1980.03,Yes,5,396.006
+P1946,Jamie Wade,Richard Jones,64,Oncology,18,8655.95,No,4,1731.19
+P1947,Danielle Roberts,Jonathan Johnson,19,Oncology,37,7242.45,No,1,1448.49
+P1948,Bobby Steele,Megan Adams,37,Dermatology,16,7277.23,No,1,1455.446
+P1949,Casey Torres,Brian Williams,52,General Medicine,38,9623.48,No,2,1924.696
+P1950,Kevin Lamb,Melissa Johnson,19,Cardiology,21,9041.32,No,4,1808.264
+P1951,Rebecca Carter,Mary Wright,8,Oncology,26,3515.24,Yes,5,703.048
+P1952,Juan Campbell,Jennifer Arias,10,Pediatrics,7,2429.89,No,1,485.978
+P1953,Jose Barker,Matthew Smith,22,Pediatrics,45,7199.16,No,1,1439.832
+P1954,Matthew Holland,Brittany Johnson,83,Pediatrics,10,3645.26,Yes,2,729.052
+P1955,Rachel Rose,Kayla Silva,45,Neurology,29,573.07,No,2,114.614
+P1956,Michael Adams,Marissa Monroe,4,Cardiology,31,9509.37,No,3,1901.874
+P1957,Makayla Chambers,Taylor Bowen,9,Cardiology,31,1580.03,No,4,316.006
+P1958,Laura Thomas,Michael Petty,57,Oncology,13,5607.25,Yes,4,1121.45
+P1959,Ashley Phillips,Kevin Norman,30,Dermatology,2,1818.82,No,4,363.764
+P1960,Peter Savage,Jennifer Gibbs,74,Oncology,38,4089.42,Yes,4,817.884
+P1961,Kelly Little,Ryan Tran,49,Orthopedics,11,1205.68,Yes,1,241.136
+P1962,Jason Wright,Dennis Ortiz,34,General Medicine,40,2842.13,No,2,568.426
+P1963,Robert Baker,Yolanda Curtis,39,Oncology,15,9782.81,Yes,4,1956.562
+P1964,Dawn Warner,Justin Flores,31,Oncology,16,8297.27,No,5,1659.454
+P1965,Sandra Moore,Cindy Foster MD,37,Oncology,2,8657.95,Yes,3,1731.59
+P1966,Christopher George,Nichole Wood,85,Pediatrics,26,5039.55,Yes,5,1007.91
+P1967,Brian Hamilton,Elizabeth Anderson,54,Orthopedics,26,7534.03,Yes,4,1506.806
+P1968,Matthew Gamble,Christopher Johnson,22,General Medicine,8,5420.19,Yes,4,1084.038
+P1969,Joshua Arroyo,Samantha Shepherd,62,Pediatrics,6,7228.64,YES,5,1445.728
+P1970,Hayley Holland,Aaron Harris,3,Neurology,24,1067.23,Yes,1,213.446
+P1971,Robert Singh,Ronald Marquez,14,Neurology,34,5491.59,No,4,1098.318
+P1972,Jerry Foster,Eric Stout,72,Cardiology,42,2946.54,No,2,589.308
+P1973,Jacob Smith,Gerald Marshall,78,Neurology,10,1774.06,No,3,354.812
+P1974,Karen Watts,Anthony Matthews,20,General Medicine,6,816.55,Yes,4,163.31
+P1975,Mary Lucero,Linda Benson,18,Neurology,27,1245.9,No,3,249.18
+P1976,Dana Lee,Sara Huff,7,Cardiology,25,5969.53,Yes,2,1193.906
+P1977,Zachary Conway,Jared Torres,75,Cardiology,17,9945.44,Yes,5,1989.088
+P1978,Kyle Wallace,Brittney Garcia,19,General Medicine,7,9694.11,Yes,5,1938.822
+P1979,Brian Reilly,Emily Williams,66,Orthopedics,8,2321.71,Yes,3,464.342
+P1980,Michael Wilson,Charles Hall,77,Oncology,40,969.98,No,1,193.996
+P1981,Tracey Williams,Zachary Johnson,7,Dermatology,29,4051.4,Yes,2,810.28
+P1982,Shannon Olson,Sara Golden,81,Cardiology,23,1756.64,No,5,351.328
+P1983,Martin Russell,Wendy Herrera,76,Orthopedics,23,892.16,Yes,2,178.432
+P1984,Matthew George,John Miller,87,Neurology,33,9046.94,No,2,1809.388
+P1985,Adam Garrison,Cody Stewart,70,Pediatrics,32,7874.74,No,3,1574.948
+P1986,Daniel Benson,Tasha Pope,40,Orthopedics,18,6345.28,No,2,1269.056
+P1987,Matthew Ray,Kathleen Vega,77,Pediatrics,27,9385.82,Yes,5,1877.164
+P1988,Hannah Clark,Destiny Thompson,23,Neurology,30,9926.38,Yes,3,1985.276
+P1989,Gina Silva,Ernest Young,10,Pediatrics,3,2730.19,Yes,3,546.038
+P1990,Willie Grimes,Matthew Jones,6,General Medicine,7,3750.66,Yes,2,750.132
+P1991,Greg Rivas,Richard Hayes,60,Oncology,15,7746.36,No,2,1549.272
+P1992,Nicole Matthews,Mr. Joshua White,10,Pediatrics,9,2351.81,No,4,470.362
+P1993,Evan Holmes,Brenda Miller,46,General Medicine,39,2043.78,Yes,2,408.756
+P1994,Anne Mckenzie,Albert Green,70,Neurology,14,8697.86,No,4,1739.572
+P1995,William Mcpherson,Leah Chandler,32,Neurology,14,6141.12,No,3,1228.224
+P1996,Terrance Maldonado,Robert Anderson,58,Pediatrics,21,399.94,Yes,3,79.988
+P1997,Robert Harris,Veronica Alexander,19,General Medicine,40,2460.22,No,5,492.044
+P1998,Tina Bailey,Terry Gonzales,75,Dermatology,4,4506.21,Yes,2,901.242
+P1999,Megan Stevens,Victoria Rogers,20,Pediatrics,15,439.74,Yes,4,87.948
+P2000,Nicole Leonard,Shawn Leon,56,Cardiology,26,9696.37,No,5,1939.274
+P2001,Ms. Rhonda Rose,Garrett Herrera,35,Oncology,41,541.09,No,1,108.218
+P2002,Lauren Jenkins,Caroline Armstrong,13,Neurology,12,2791.92,No,4,558.384
+P2003,Ebony Bailey,Rachael Harris,73,Pediatrics,16,4970.85,No,4,994.17
+P2004,Craig Russell,Melissa Huang,39,Orthopedics,35,,No,1,589.832
+P2005,Cassie Hudson,Francisco Herman,42,General Medicine,10,1913.74,Yes,2,382.748
+P2006,Rachel Dickson,Danielle Taylor,39,Dermatology,4,6575.29,No,1,1315.058
+P2007,Brandon Wright,Jacqueline Smith,87,Neurology,15,,Yes,3,194.282
+P2008,Tanner Walker,Jason Roman,85,Oncology,28,3282.58,No,4,656.516
+P2009,Brian Berry,David Solomon,23,Pediatrics,30,9935.9,Yes,2,1987.18
+P2010,Lisa Warner,Bonnie Warner,53,Neurology,2,1771.84,Yes,2,354.368
+P2011,Courtney Hunt,Michael Brock,32,Pediatrics,33,7199.9,No,1,1439.98
+P2012,Steve Smith MD,Christine Roth,10,General Medicine,43,2312.24,Yes,2,462.448
+P2013,Joy Wright,Jessica Hubbard,51,Oncology,38,4395.97,Yes,2,879.194
+P2014,Kimberly Mueller,Angela Perkins,18,Neurology,44,6207.47,No,3,1241.494
+P2015,Shawn Hudson,Brian Johnson,70,Cardiology,2,7642.33,Yes,3,1528.466
+P2016,Michelle Wilcox,Linda Duke,55,Cardiology,28,8028.24,Yes,4,1605.648
+P2017,Gloria Ford,Ms. Tiffany Hubbard PhD,81,Oncology,2,5729.45,No,2,1145.89
+P2018,Caroline Figueroa,Monica Adams,23,Dermatology,30,8745.52,Yes,4,1749.104
+P2019,Cynthia Jennings,Taylor Hill,12,Dermatology,11,9070.93,No,4,1814.186
+P2020,David Sanchez,Rebecca Hernandez,83,Orthopedics,41,8916.18,Yes,3,1783.236
+P2021,Cassandra Adams,Daniel Morrow,2,Oncology,5,2488.1,No,2,497.62
+P2022,Justin Williams,Ricardo Torres,9,Dermatology,28,3633.02,No,1,726.604
+P2023,Michael Mcgee,David Garcia,86,Pediatrics,38,7540.04,No,3,1508.008
+P2024,Brian Nguyen,Amanda Bryan,76,Neurology,16,4546.28,No,1,909.256
+P2025,Zachary Hutchinson,Paul Gamble,79,General Medicine,16,2710.59,Yes,2,542.118
+P2026,Ashley Lee,Jason Bush,68,Cardiology,25,893.73,Yes,4,178.746
+P2027,Jason Fritz,Troy Watts,2,Oncology,9,8732.23,No,3,1746.446
+P2028,David King,Karen Sutton,80,Pediatrics,35,4680.97,No,3,936.194
+P2029,Penny Mcgee,Jeffery Dickerson,59,Oncology,35,9524.36,No,1,1904.872
+P2030,Laura Leon,,20,Dermatology,15,608.26,Yes,1,121.652
+P2031,Brendan Shepherd,Gavin Williams,58,Neurology,24,6393.28,No,3,1278.656
+P2032,Christopher Hill,Regina Phillips,80,Cardiology,35,1559.41,Yes,3,311.882
+P2033,Malik Berger,Chelsea Silva,35,Orthopedics,16,6774.77,Yes,3,1354.954
+P2034,William Hawkins,Caroline Frederick,34,General Medicine,39,3620.72,No,4,724.144
+P2035,Cheryl Kim,Brian Foster,80,Cardiology,40,2595.37,No,3,519.074
+P2036,Debra Cantu,Penny Conner,72,General Medicine,30,8228.66,No,5,1645.732
+P2037,Diane Adams,Sean Beck,7,Oncology,1,2901.04,Yes,5,580.208
+P2038,Matthew Mcpherson,Jennifer Guerrero,27,Cardiology,39,9529.49,No,1,1905.898
+P2039,Laura Gutierrez,Edward Mora,57,Orthopedics,1,9030.86,No,4,1806.172
+P2040,Brittney Williams,Rachel White,37,Orthopedics,27,4970.8,No,3,994.16
+P2041,Angela Berry,Aaron Frost,Unknown,Cardiology,37,6858.52,No,4,1371.704
+P2042,Kim Martinez,Carla Andrade,28,Cardiology,38,1988.81,Yes,3,397.762
+P2043,Henry Martinez,Tina Lee,69,Cardiology,30,3420.42,Yes,3,684.084
+P2044,Jacqueline Melendez,Tracy Hill MD,59,Cardiology,22,3254.11,No,5,650.822
+P2045,Shane Jenkins,Madeline Hall,56,Orthopedics,34,763.37,No,3,152.674
+P2046,Benjamin Wright,Shawn Glass,11,Orthopedics,23,4336.6,No,3,867.32
+P2047,Alan Brown,James Hoffman,62,Dermatology,35,7595.21,Yes,5,1519.042
+P2048,Corey Wood,Vanessa Davis,16,Pediatrics,4,6796.69,No,2,1359.338
+P2049,Jessica Melendez,Jeffrey Patel,2,General Medicine,8,8490.36,Yes,2,1698.072
+P2050,Jason Cooper,Tammy Perez,73,Orthopedics,19,5159.91,Yes,2,1031.982
+P2051,Kelly Beasley,Jennifer Gonzales,1,Neurology,39,3175.17,Yes,1,635.034
+P2052,Sydney Ryan,Tiffany Perez,61,General Medicine,42,5551.23,No,4,1110.246
+P2053,Claudia Jimenez,Gabriel Weber,81,Pediatrics,25,1840.25,No,4,368.05
+P2054,Julie Velez,Patrick Harper,53,Neurology,38,5187.99,Yes,5,1037.598
+P2055,Dawn Paul,Alexandra Vega,84,Pediatrics,7,7081.3,Yes,1,1416.26
+P2056,Jeffrey Holloway,Samantha Jenkins,54,Pediatrics,18,4142.5,No,2,828.5
+P2057,Morgan Morales,Natalie Warner,21,Neurology,13,2943.28,No,4,588.656
+P2058,James Benitez,Jennifer Velasquez,20,Oncology,27,9988.86,Yes,5,1997.772
+P2059,Eileen Reed,Samantha Harrison,15,Dermatology,2,9942.72,No,5,1988.544
+P2060,James Williamson,Nicole Copeland,Unknown,Neurology,2,9962.11,No,1,1992.422
+P2061,Parker Hunter,Jennifer Stewart,52,Dermatology,16,6417.09,No,4,1283.418
+P2062,Daniel Williams,Eric Harrison,26,Dermatology,5,8648.75,Yes,1,1729.75
+P2063,Linda Le,Jennifer Smith,35,Oncology,7,8751.51,No,5,1750.302
+P2064,Patricia Allen,Amanda Davis,38,Oncology,34,4429.5,No,4,885.9
+P2065,Eric Harris,Edward Washington,79,Oncology,20,1493.22,Yes,4,298.644
+P2066,Bobby Henderson,John Goodman,52,Pediatrics,42,6715.86,No,4,1343.172
+P2067,Annette Lambert,Wesley Calderon,16,Dermatology,40,1022.75,Yes,5,204.55
+P2068,Dr. Shannon Powell MD,Gabriel Malone,70,General Medicine,22,1133.85,Yes,4,226.77
+P2069,William Harris,Brittany Charles,1,Neurology,2,1369.52,No,2,273.904
+P2070,Kelly Thompson,Mary Trevino,45,Dermatology,29,3759.73,Yes,5,751.946
+P2071,Jeffrey Cox,Kevin Cook,28,Cardiology,18,2277.15,No,3,455.43
+P2072,Kara Wu,Heather Petersen,38,Orthopedics,28,6835.64,Yes,2,1367.128
+P2073,April Jenkins,Jason Phillips,79,Cardiology,32,7349.72,No,1,1469.944
+P2074,Ryan Holmes,Thomas Dennis,69,Dermatology,20,1388.86,No,2,277.772
+P2075,Jeffrey Vasquez,Trevor Boyer,36,General Medicine,14,6995.07,Yes,1,1399.014
+P2076,Sean Smith,Shelby Whitehead DVM,37,Cardiology,11,7561.28,Yes,4,1512.256
+P2077,Whitney Lewis,Ashley Graham,79,Dermatology,31,361.74,No,2,72.348
+P2078,Jessica Miller,Mary Stevens,53,Dermatology,27,5866.11,No,4,1173.222
+P2079,Alejandro Mcmahon,Sarah Sawyer MD,41,Pediatrics,27,3012.4,Yes,2,602.48
+P2080,Jason Gonzalez,Rachael Estrada,17,Oncology,15,7284.15,Yes,5,1456.83
+P2081,Andrew Sanchez,John Clayton,25,Orthopedics,19,1762.8,YES,3,352.56
+P2082,Michelle Marsh,Alyssa Sloan,47,Pediatrics,41,3888.88,Yes,5,777.776
+P2083,Mathew Jones,Jesus Morales,55,Pediatrics,45,7271.8,Yes,2,1454.36
+P2084,Matthew Savage,Carolyn Mahoney,76,Dermatology,41,2198.89,Yes,4,439.778
+P2085,Megan Friedman,Peter Owen,55,General Medicine,2,5965.71,Yes,4,1193.142
+P2086,Jamie Brooks,Christopher Rogers,45,Cardiology,44,818.22,Yes,4,163.644
+P2087,James Lopez,Michael Carey,28,General Medicine,44,8478.18,No,1,1695.636
+P2088,Matthew Love,Craig Powell,60,Orthopedics,36,4276.08,No,4,855.216
+P2089,Mrs. Toni Le,Amanda Kennedy,19,Oncology,34,1681.93,Yes,3,336.386
+P2090,Michael Cisneros,Christopher Whitney,8,Oncology,1,1896.47,Yes,4,379.294
+P2091,Veronica Nash,Melissa Hendrix,3,Pediatrics,16,9717.39,No,2,1943.478
+P2092,William Pitts,Gary Lewis,58,Neurology,23,8875.27,No,1,1775.054
+P2093,Robert Mathews,Dr. Edward Gross,9,Pediatrics,39,9077.45,Yes,3,1815.49
+P2094,Shane Howard,Brandi Reyes,54,Cardiology,25,9334.3,No,3,1866.86
+P2095,Alexa Barker,Gail Watson,30,Cardiology,26,2255.61,No,1,451.122
+P2096,Dean Martinez,Jodi Jones,36,Oncology,28,1288.04,No,3,257.608
+P2097,Jennifer Lindsey,Michael Allen,36,Cardiology,34,5199.56,No,3,1039.912
+P2098,Amanda Mccarty,Stephanie Smith,11,Oncology,1,9555.53,No,1,1911.106
+P2099,Richard Villanueva,Eric Simon,15,Dermatology,42,1232.3,No,4,246.46
+P2100,Jerry Park,Gary Brennan,43,Oncology,4,6669.21,Yes,5,1333.842
+P2101,Frank May,Laura Ward,18,Dermatology,20,7820.97,No,1,1564.194
+P2102,Maria Washington,,8,Orthopedics,10,9592.09,No,4,1918.418
+P2103,Henry Thornton,Corey Wolfe,13,Dermatology,5,5061.98,Yes,3,1012.396
+P2104,Ryan Warner,Douglas Williams,7,Pediatrics,4,8949.42,No,2,1789.884
+P2105,Lindsay Hill,Adam Young,37,General Medicine,33,6294.06,Yes,4,1258.812
+P2106,Zachary Stone,Justin Jones,46,Orthopedics,16,7741.24,No,1,1548.248
+P2107,Natalie Williams,Wendy Miller,11,General Medicine,16,6714.76,Yes,1,1342.952
+P2108,Christina Cobb,Robert Fisher,20,Orthopedics,24,3722.23,Yes,5,744.446
+P2109,Nicole Burgess,Christopher Ramsey,38,Cardiology,14,6864.88,Yes,4,1372.976
+P2110,Krystal Brown,Stacey Turner,32,Pediatrics,15,9327.58,YES,2,1865.516
+P2111,Adam King,Stephanie Williams,56,Cardiology,15,635.34,Yes,3,127.068
+P2112,Amy Wilson,Carolyn Patel,66,Pediatrics,31,4533.92,No,5,906.784
+P2113,Gina Torres,Michelle Pearson,63,Cardiology,37,5532.28,Yes,3,1106.456
+P2114,Lisa Owens,Patricia Vasquez,70,Cardiology,33,6710.49,No,5,1342.098
+P2115,Melissa White,April Davenport,45,General Medicine,40,5989.19,Yes,5,1197.838
+P2116,Marissa Larson,Matthew Mcdonald,16,General Medicine,28,7362.18,Yes,5,1472.436
+P2117,Kim Gonzales,William Dougherty,3,General Medicine,9,3406.26,Yes,3,681.252
+P2118,Scott Baker,David Adams,44,Orthopedics,20,7817.97,Yes,4,1563.594
+P2119,Drew Velasquez,Cathy Gordon,48,General Medicine,25,6360.92,Yes,2,1272.184
+P2120,Stephanie Nichols,Bob Mason,8,Pediatrics,5,,Yes,3,509.02
+P2121,Chelsea Kelly,Patricia Lewis,26,Oncology,33,2613.25,No,5,522.65
+P2122,David Conner,Troy Salazar,5,Orthopedics,6,6488.93,Yes,5,1297.786
+P2123,Kelly Meyers,Mr. Cody Solis II,22,General Medicine,8,1806.75,Yes,5,361.35
+P2124,David Carroll,Amy Fitzpatrick,52,Neurology,22,9552.2,No,4,1910.44
+P2125,Ryan Diaz,Brenda Campbell,72,Pediatrics,15,5125.23,No,5,1025.046
+P2126,Leonard Lopez,Brittany Evans,23,Cardiology,44,8622.47,Yes,5,1724.494
+P2127,Sherry Jackson,Brandon Garcia,36,General Medicine,43,6792.77,No,4,1358.554
+P2128,Tamara Golden,David Rogers,32,Neurology,16,7209.83,No,3,1441.966
+P2129,Allen Martin,Adam Ortega,57,Pediatrics,41,6199.03,No,2,1239.806
+P2130,Michele Taylor,Jeffrey Reyes,18,Cardiology,1,6061.45,No,5,1212.29
+P2131,Steven Montgomery,Sara Garcia,22,Cardiology,5,2189.06,No,2,437.812
+P2132,Diana Maxwell,Bryce Glover,86,Oncology,18,4051.58,Yes,1,810.316
+P2133,Timothy Harvey,Lisa Taylor,53,Neurology,36,6543.71,No,1,1308.742
+P2134,Jake Cook,Anna Richardson,1,Cardiology,15,,Yes,2,355.888
+P2135,Molly Gallagher,Jack Brady,23,General Medicine,16,8973.29,Yes,5,1794.658
+P2136,Geoffrey Ray,Tracy Williams,57,General Medicine,41,2031.8,Yes,5,406.36
+P2137,Catherine Hamilton,Nicholas Alvarado,56,Orthopedics,25,1906.94,Yes,2,381.388
+P2138,Jacqueline Kelly,Steve Smith,6,General Medicine,9,7730.34,Yes,5,1546.068
+P2139,Linda Allen,Alyssa Miller,9,Orthopedics,18,5819.24,Yes,5,1163.848
+P2140,Alicia Dorsey,Robert Waters,11,Orthopedics,21,2522.48,Yes,5,504.496
+P2141,Deborah Kim,Barbara Robinson,80,General Medicine,10,,No,1,1363.806
+P2142,Shannon Escobar,Jesse Garcia,11,Neurology,26,6014.15,Yes,2,1202.83
+P2143,Dawn Schwartz,Kelly Richardson,8,Oncology,8,3709.27,Yes,4,741.854
+P2144,Michael Elliott,Aaron Mills,54,Neurology,9,5809.8,No,3,1161.96
+P2145,Curtis Jones,Lori Gray MD,60,General Medicine,9,5292.36,No,4,1058.472
+P2146,Hannah Barnes,Christopher Andrews,40,Dermatology,21,3135.85,No,5,627.17
+P2147,Robert Wagner,Steven Sullivan,53,Oncology,40,2250.44,No,3,450.088
+P2148,Amber Gilbert,Russell Mitchell,69,Dermatology,11,3634.51,Yes,1,726.902
+P2149,Samuel Williams,Christopher Mendez,16,General Medicine,8,4271.28,No,2,854.256
+P2150,Sean Walker,Teresa Green,1,Cardiology,1,2813.17,No,4,562.634
+P2151,Rebecca Greene,Alan Hernandez,73,Cardiology,18,4081.95,No,2,816.39
+P2152,Mary Herrera,Anne Campbell,60,Oncology,30,6876.9,No,4,1375.38
+P2153,Alexander Hernandez,James Craig,10,Neurology,30,2567.82,No,1,513.564
+P2154,James Cardenas,Aaron Blair,53,General Medicine,29,2878.52,Yes,2,575.704
+P2155,Christopher Williams,Mary Ramirez,60,General Medicine,36,2037.99,Yes,4,407.598
+P2156,Catherine Chan,Randy Hall,85,Neurology,33,,Yes,3,1164.788
+P2157,Maureen Lane,Kayla Carlson,23,General Medicine,1,829.22,Yes,1,165.844
+P2158,Jennifer Johnson,Lisa Mcmillan,26,Cardiology,15,7231.75,No,2,1446.35
+P2159,Carol Hamilton,Randy Rich,Unknown,Orthopedics,9,,No,3,1233.11
+P2160,Travis Jones,Aaron Cross,42,Dermatology,3,679.19,Yes,4,135.838
+P2161,Christina Hernandez,Shawn Proctor,20,Cardiology,39,8002.05,Yes,3,1600.41
+P2162,Emma Tucker MD,Jennifer Shelton,34,General Medicine,30,757.13,Yes,1,151.426
+P2163,Leroy Garrett,Teresa Martin,32,Dermatology,44,2347.47,No,3,469.494
+P2164,Victor Doyle,Morgan Jones,41,Cardiology,32,6313.56,No,5,1262.712
+P2165,Brenda Brewer,Jose Garcia,48,Cardiology,12,7192.87,No,4,1438.574
+P2166,Jordan Bartlett,Jacqueline Lee,67,Orthopedics,5,,Yes,3,967.12
+P2167,James Cooley,Ana Castillo,62,Neurology,20,2154.9,No,4,430.98
+P2168,Elizabeth Roy,Jennifer Clements,42,General Medicine,14,7994.29,No,3,1598.858
+P2169,Heather Humphrey,Mr. Derek Mendez,14,Dermatology,23,1098.32,No,5,219.664
+P2170,Gary Brown,Mary Cortez,2,Cardiology,36,9103.13,Yes,2,1820.626
+P2171,Christopher Clark,Brittney Stevens,63,Dermatology,35,1740.57,No,3,348.114
+P2172,Glenn Chavez,Sheri Glover,9,Oncology,41,5044.96,No,5,1008.992
+P2173,Brianna Salas,Megan Miller,67,Pediatrics,19,7662.02,Yes,5,1532.404
+P2174,Veronica Young,Haley Obrien,15,Oncology,13,5133.39,No,4,1026.678
+P2175,Shannon Jones,Ryan Lamb,82,Neurology,27,8893.3,Yes,4,1778.66
+P2176,Mark Stephenson,Meagan Buchanan,86,General Medicine,29,1470.07,Yes,2,294.014
+P2177,Michael Jones,,8,Neurology,2,5912.14,Yes,1,1182.428
+P2178,Patricia Lowery,Linda Baldwin,22,Oncology,27,1807.62,No,1,361.524
+P2179,Jason Valdez,Keith Mueller,23,Pediatrics,17,7344.29,Yes,3,1468.858
+P2180,Sydney Rice,Shane Vaughan,3,Cardiology,8,9762.86,No,5,1952.572
+P2181,Connie Garcia,Judith Hayes,17,Oncology,39,7033.25,No,5,1406.65
+P2182,Steven Jacobs,Robert Taylor,33,Oncology,5,9859.44,No,5,1971.888
+P2183,Adam Tate,Connor Miller,63,Oncology,17,8147.93,Yes,3,1629.586
+P2184,David Castillo,Paul Jones,69,Orthopedics,21,853.7,No,3,170.74
+P2185,Terri Jones,,22,Oncology,35,707.77,No,3,141.554
+P2186,William Sloan,Lauren Scott,46,Neurology,40,7403.49,No,5,1480.698
+P2187,Sean Davis,Travis Cook,72,Dermatology,40,7926.31,Yes,5,1585.262
+P2188,William Mercer,Jennifer Wall,16,Cardiology,45,3632.82,Yes,3,726.564
+P2189,Alex Wilcox,Cheryl Thompson,Unknown,Cardiology,2,2426.78,No,2,485.356
+P2190,Jeremy Ayala,Christopher Bradley,8,Oncology,30,3723.86,No,4,744.772
+P2191,Ann Payne,Jake Johnson,56,Cardiology,19,9273.83,No,4,1854.766
+P2192,Samantha Moore,Maria Elliott,69,Oncology,29,7981.8,No,3,1596.36
+P2193,Jack Holder,Olivia Potts,79,Orthopedics,22,7722.25,No,4,1544.45
+P2194,Heather Watkins,Kathy Powell,29,Pediatrics,3,8904.9,YES,3,1780.98
+P2195,Angelica Thomas MD,Craig Haynes,66,Neurology,1,9980.18,Yes,3,1996.036
+P2196,Michael Rodriguez,April Rodriguez,23,Pediatrics,8,8532.53,Yes,2,1706.506
+P2197,Timothy Porter,Anna Johnson,10,Pediatrics,17,9803.76,Yes,2,1960.752
+P2198,Matthew Dominguez,Destiny Mason,70,General Medicine,9,5055.81,No,1,1011.162
+P2199,Lucas Scott,Raven Nichols,50,Neurology,23,6855.55,Yes,4,1371.11
+P2200,Mitchell Hall,Casey Guzman,4,Cardiology,29,905.3,Yes,1,181.06
+P2201,Albert Hardy,Kerri Aguilar,31,Neurology,27,7834.88,No,5,1566.976
+P2202,Erin Anthony,,75,Orthopedics,18,8287.74,Yes,5,1657.548
+P2203,Robert Swanson,Amy Marshall,42,General Medicine,10,1968.2,Yes,4,393.64
+P2204,Susan Patrick,Timothy Schultz,15,Oncology,32,3457.07,Yes,1,691.414
+P2205,Charles Garcia,Amber Rose,47,Neurology,44,4740.96,No,4,948.192
+P2206,Amanda Benitez,Michael Martin,32,Orthopedics,30,5101.89,No,2,1020.378
+P2207,Vernon Lawrence,Paula White,59,Oncology,25,7187.52,Yes,2,1437.504
+P2208,Jenny Miller,John Brown,88,Orthopedics,31,3395.93,Yes,4,679.186
+P2209,Steve West,Alexander Garcia,89,Oncology,15,6584.9,No,3,1316.98
+P2210,William Adams,Alexis Price,37,Cardiology,23,2092.23,No,5,418.446
+P2211,Frank Hernandez,Preston Willis,31,Pediatrics,1,2552.27,No,5,510.454
+P2212,Carla Roth,George Wiley,69,Orthopedics,4,7735.28,Yes,2,1547.056
+P2213,Terry Davis,Alexis Montgomery,10,Oncology,33,9148.01,Yes,5,1829.602
+P2214,Dorothy Buchanan,John King,58,Cardiology,1,1340.72,YES,4,268.144
+P2215,Kevin Rivera,Lindsey Barry,5,General Medicine,44,2551.33,Yes,3,510.266
+P2216,Heather Conway,Sheri Gould,3,Orthopedics,39,3003.78,No,4,600.756
+P2217,Brenda Bishop,Brianna Watson,10,Dermatology,38,4305.88,Yes,4,861.176
+P2218,Katherine Torres,Sara Garcia,66,Oncology,39,6305.84,YES,5,1261.168
+P2219,Rebecca Martin,Mark Carter,65,Neurology,39,3917.71,No,4,783.542
+P2220,Courtney Williams,Mrs. Tara Barker,55,Orthopedics,31,2250.12,Yes,1,450.024
+P2221,Kimberly Rose,Andrew Flores,13,Dermatology,4,5339.13,No,1,1067.826
+P2222,Mary Rowe,Lisa Figueroa,42,Oncology,16,5048.53,No,1,1009.706
+P2223,Robert Randall,Lisa Mccormick,52,Dermatology,2,6131.38,Yes,4,1226.276
+P2224,Taylor Kirk,,54,Oncology,11,5134.47,No,2,1026.894
+P2225,Brian Cross,Mary Brown,43,Cardiology,10,3743.14,Yes,2,748.628
+P2226,Stephanie Bean,Jill Smith,43,Orthopedics,26,5055.24,No,5,1011.048
+P2227,Tiffany Rodgers,Mark Wilson,41,Cardiology,6,7356.68,No,1,1471.336
+P2228,Sara Hill,Cheryl Palmer,82,Oncology,31,3131.87,Yes,1,626.374
+P2229,Eric Peterson,Robyn Brown,20,Orthopedics,44,2233.97,No,5,446.794
+P2230,Aaron Bennett,Holly Warner,3,Pediatrics,43,4473.63,No,1,894.726
+P2231,Michael Reese,Wayne Torres,8,Cardiology,9,4483.16,No,2,896.632
+P2232,Sharon Williamson MD,Norman Rodriguez,42,Oncology,35,6490.24,Yes,4,1298.048
+P2233,Todd Gibson,Jacqueline Stanton,Unknown,General Medicine,37,9427.1,Yes,5,1885.42
+P2234,John Carroll,Jordan Coleman,40,Orthopedics,42,2825.72,Yes,3,565.144
+P2235,Ian Mcguire,Matthew Garcia,47,Cardiology,38,5725.04,Yes,5,1145.008
+P2236,Richard Erickson,Zachary Simmons,71,Cardiology,20,3078.45,No,3,615.69
+P2237,Steven Gilbert,Lee Eaton,6,Dermatology,18,4663.03,No,4,932.606
+P2238,Michael Miller,Lance Smith,83,General Medicine,29,2751.48,Yes,2,550.296
+P2239,Catherine Parker,Amber Mendez,71,Orthopedics,11,6429.08,No,2,1285.816
+P2240,Jason Jones,Jared Bailey,76,Neurology,38,8832.48,No,4,1766.496
+P2241,Susan Hale,Molly Ortega,28,Dermatology,25,1510.83,Yes,3,302.166
+P2242,Cory Williams,Eric Finley,18,Neurology,34,5570.21,No,3,1114.042
+P2243,Ashlee Mendoza,Kimberly Woodard,30,Pediatrics,24,1081.13,Yes,4,216.226
+P2244,Craig Hanson,Alexis Padilla DVM,46,General Medicine,45,4204.68,Yes,3,840.936
+P2245,Jonathan Diaz PhD,Leslie Clark DDS,81,Oncology,37,2482.47,Yes,3,496.494
+P2246,Logan Kaiser,Sherry Clark,24,Dermatology,39,4585.89,No,2,917.178
+P2247,Kevin Hopkins,,55,Cardiology,40,4791.18,Yes,4,958.236
+P2248,Joseph Brown,Adrian Harris,45,Cardiology,16,674.37,Yes,1,134.874
+P2249,Craig Salinas,Jeff Nelson,74,Orthopedics,2,3623.5,Yes,5,724.7
+P2250,Brittany Hernandez,Tammy Mitchell,66,General Medicine,6,,No,2,1733.26
+P2251,Ann Jackson,Kristin Boyer,1,General Medicine,18,,Yes,2,99.028
+P2252,Leslie Reeves,Dr. Morgan Schneider,20,Orthopedics,23,7079.15,Yes,4,1415.83
+P2253,Jessica Chavez,Scott Perez,77,Pediatrics,38,7303.23,Yes,4,1460.646
+P2254,Jody Rivers,Lori Yang,18,Dermatology,15,7063.29,No,1,1412.658
+P2255,Benjamin Jensen,Charlene Horn,46,General Medicine,10,3224.15,No,1,644.83
+P2256,Monica Huber,Chad Nielsen,28,Neurology,1,657.13,No,2,131.426
+P2257,Jonathan Johnson,Susan King,70,Cardiology,42,,Yes,2,430.616
+P2258,Alejandro Pruitt,Miguel Wilkinson,51,General Medicine,39,7967.98,No,4,1593.596
+P2259,Pamela Ford,Matthew Moore,33,Orthopedics,8,3812.44,Yes,4,762.488
+P2260,Kenneth Stephens,,58,Orthopedics,37,4384.77,No,3,876.954
+P2261,Ruth Ross,Terri Phillips,19,Oncology,34,4691.47,Yes,1,938.294
+P2262,Christopher Villa,Cassidy Bryant,61,Orthopedics,29,1366.64,Yes,2,273.328
+P2263,Dean Moreno,Summer Green,83,Orthopedics,1,6047.7,No,4,1209.54
+P2264,Zachary Weaver,Troy Park,14,Dermatology,16,624.66,Yes,5,124.932
+P2265,Ashley Price,Beth Middleton,49,Cardiology,7,3318.39,Yes,2,663.678
+P2266,Kerry Clark,John Martin,38,Orthopedics,25,8460.95,No,3,1692.19
+P2267,Margaret Smith,Jessica Lucas,26,Dermatology,40,4399.46,Yes,2,879.892
+P2268,Wayne Gaines,Angelica Short,30,Oncology,42,4877.68,Yes,3,975.536
+P2269,Mr. Daniel Anderson PhD,Brittney Vang,77,Neurology,30,7986.79,Yes,5,1597.358
+P2270,Casey Thornton,Patricia Perez,18,Dermatology,3,8237.02,Yes,1,1647.404
+P2271,Danielle Pierce,Stacy Harrington,13,Oncology,13,7455.68,Yes,4,1491.136
+P2272,Nathan Schmidt,Brandon Burton,1,General Medicine,35,3851.78,No,2,770.356
+P2273,Cynthia Craig,Brittany Rivera,5,Cardiology,2,3232.79,No,3,646.558
+P2274,Robert Silva,Troy Lopez,84,Oncology,6,8053.56,No,1,1610.712
+P2275,Emily Walker,Jonathan White,56,Dermatology,40,3755.96,No,4,751.192
+P2276,Elizabeth Bennett,Thomas Douglas,80,Dermatology,23,1449.77,No,1,289.954
+P2277,Hayden Martinez,Kara Wilson,39,Pediatrics,36,1689.21,Yes,3,337.842
+P2278,Ronald Nunez,Dawn Carter,9,Cardiology,23,7918.99,Yes,5,1583.798
+P2279,Benjamin Morris,Lisa Holloway,86,Oncology,23,2174.6,Yes,5,434.92
+P2280,Joanne Castro,,51,Orthopedics,27,2663.04,Yes,2,532.608
+P2281,Jeffery Hendricks,Christine Adams,14,Dermatology,30,6715.26,No,4,1343.052
+P2282,Steven Jones,David Moon,62,General Medicine,33,7537.1,Yes,5,1507.42
+P2283,Tanner Turner,Jason Campbell,32,Dermatology,41,9149.41,No,2,1829.882
+P2284,Michael Campbell,Thomas Lowe,10,Orthopedics,16,2920.66,No,3,584.132
+P2285,Matthew Bautista,Elizabeth Evans MD,15,Orthopedics,13,5629.75,Yes,4,1125.95
+P2286,Megan Johnson,Amanda Obrien,12,Neurology,28,5292.42,No,5,1058.484
+P2287,Lisa Yu,Matthew Wiggins,50,Orthopedics,26,483.16,No,2,96.632
+P2288,Christina Bolton,Michelle Hernandez,56,Dermatology,21,389.41,Yes,2,77.882
+P2289,Matthew Martinez,Daniel Hanson,90,General Medicine,28,1822.31,Yes,4,364.462
+P2290,Kelly Anthony,Caitlin Padilla,10,Cardiology,21,3964.77,No,1,792.954
+P2291,Lori Manning,Thomas Rowland,15,Pediatrics,17,9097.44,Yes,3,1819.488
+P2292,Christopher Johnston,Patrick Sanders,28,General Medicine,30,9102.03,No,2,1820.406
+P2293,Dennis Dickson,Sharon Whitaker,84,Orthopedics,34,2026.96,No,2,405.392
+P2294,Mason Hanson,Allison Arnold,88,General Medicine,6,2877.9,Yes,1,575.58
+P2295,Rebecca Flores,Julie Lopez,52,Pediatrics,26,7654.63,Yes,2,1530.926
+P2296,Natalie Thompson,James Frazier,70,Oncology,13,936.6,Yes,4,187.32
+P2297,Jesse White,Troy Pierce,22,General Medicine,25,5762.7,Yes,2,1152.54
+P2298,Richard Cruz,Marvin Barber,67,Dermatology,19,4409.13,Yes,3,881.826
+P2299,Lindsay Washington,,42,Cardiology,36,5783.48,Yes,2,1156.696
+P2300,Matthew Mendoza,Mike Wiggins,43,Orthopedics,23,5163.71,No,5,1032.742
+P2301,Joshua Roberts,April Bell,22,Cardiology,30,4732.75,No,2,946.55
+P2302,Brittany Bridges,Lindsey Marsh,80,Neurology,25,5650.15,Yes,1,1130.03
+P2303,James Short,Angela Thompson,17,Cardiology,22,7720.16,Yes,4,1544.032
+P2304,Sherri Smith,Stephen Lewis,36,Neurology,12,3989.3,Yes,3,797.86
+P2305,Ronald Hawkins,Kim Murphy,11,Pediatrics,23,9149.38,Yes,5,1829.876
+P2306,Alvin Jordan,Jennifer Delacruz,18,Cardiology,9,2243.66,Yes,4,448.732
+P2307,Dustin Thompson,,64,Orthopedics,20,1741.45,Yes,1,348.29
+P2308,Amy Riddle,Traci Cantu,48,Neurology,5,5521.71,No,2,1104.342
+P2309,Danny Alvarez,Matthew Cooke,65,General Medicine,12,2449.22,No,2,489.844
+P2310,Kaitlyn Salazar,Darrell Miller,75,Pediatrics,3,2646.11,No,4,529.222
+P2311,Laura Henderson,Justin Fisher,80,Oncology,3,4542.45,No,4,908.49
+P2312,Jennifer Keller,Angela Cole,58,Oncology,9,,No,3,1636.888
+P2313,Monica Macias,Harry Marshall,69,Neurology,23,7656.45,No,5,1531.29
+P2314,Donna Ware,Samuel Garcia,59,Dermatology,10,1742.04,Yes,3,348.408
+P2315,Tony Chavez,Matthew Ramirez,50,Oncology,2,9600.46,Yes,2,1920.092
+P2316,Devin Day,Kathryn Trujillo,22,General Medicine,24,4953.42,No,1,990.684
+P2317,Brian Green,Larry Sanchez,76,General Medicine,21,4085.74,Yes,2,817.148
+P2318,Jeffrey Fernandez,Peter Turner,26,Neurology,36,2185.66,Yes,5,437.132
+P2319,Joe Espinoza,Jennifer Wilkinson,66,Neurology,43,3625.71,No,5,725.142
+P2320,Melinda Maddox,Tyler Knight,53,Cardiology,33,7421.22,No,1,1484.244
+P2321,Kevin Stephens,Tyler Knox,80,Cardiology,5,6889.48,No,5,1377.896
+P2322,Andrew Phillips,Julia Palmer,14,Oncology,44,1446.52,No,4,289.304
+P2323,David Hansen,Ethan Carroll,14,Cardiology,1,9756.97,Yes,4,1951.394
+P2324,Michael Lopez DVM,Vincent Boyd,9,Dermatology,34,4849.67,No,2,969.934
+P2325,Cynthia Crosby,Henry White,36,Orthopedics,19,6511.91,No,3,1302.382
+P2326,Andrew Schneider,Christine Webb,71,General Medicine,29,7531.89,No,1,1506.378
+P2327,Amanda Williams,Megan Miller,67,Neurology,26,8827.39,No,3,1765.478
+P2328,Julie Mclean,Stephanie Beck,40,Pediatrics,26,517.59,No,1,103.518
+P2329,Megan Roberts,Jason Harris,63,Orthopedics,36,467.44,Yes,5,93.488
+P2330,John Benson,Desiree Henson,23,Oncology,5,1623.41,YES,4,324.682
+P2331,Chad Spence,Joann Figueroa,8,General Medicine,32,4747.42,Yes,4,949.484
+P2332,Nicholas Weeks,Mark Mitchell,49,Neurology,36,6549.29,No,2,1309.858
+P2333,Ivan Mcguire,Mario Lopez,62,Oncology,18,4289.74,Yes,3,857.948
+P2334,Nicole Anderson,Paul Hudson,15,Oncology,35,1643.12,Yes,4,328.624
+P2335,Connie Johnson,Jose Cannon,47,Oncology,12,4060.48,No,1,812.096
+P2336,Raven Figueroa,Julie Griffin,51,General Medicine,35,1510.67,Yes,4,302.134
+P2337,Steven Martin,Lauren Hopkins,87,Pediatrics,33,3309.43,YES,5,661.886
+P2338,Lucas Nguyen,Sara Carr,25,Dermatology,29,1288.7,Yes,1,257.74
+P2339,Anita Galloway,Francis Taylor,59,Neurology,21,9626.61,No,2,1925.322
+P2340,Lauren Garner,Danielle Roberts,73,Dermatology,27,1560.11,Yes,3,312.022
+P2341,Angela Jordan,Amy Chen,76,Pediatrics,11,5308.84,No,3,1061.768
+P2342,Madison Hernandez MD,Marie Reese,84,General Medicine,19,8120.44,Yes,1,1624.088
+P2343,Andrew Gomez,Alexis Espinoza,74,Dermatology,9,5655.75,No,2,1131.15
+P2344,Joseph Porter,Paula Mills,37,Pediatrics,32,4064.96,Yes,5,812.992
+P2345,William Vega,William Lee,33,Oncology,12,8359.48,Yes,1,1671.896
+P2346,Miss Angela Rosales,Dr. Destiny Stuart MD,85,General Medicine,6,8923.07,Yes,2,1784.614
+P2347,Jaclyn Good,Rebecca Diaz,38,General Medicine,38,8949.62,Yes,5,1789.924
+P2348,Brian Harrington,Joshua Horne,66,Pediatrics,9,902.88,Yes,5,180.576
+P2349,Kelly Hoover,Russell Cabrera,75,Cardiology,39,7264.86,No,1,1452.972
+P2350,Paul Stanley,Jackie Gardner,27,Dermatology,36,2919.21,No,3,583.842
+P2351,Joshua Powell,Heather Holland,81,Orthopedics,31,5907.76,No,5,1181.552
+P2352,Elizabeth Reed,Thomas Davis,12,Orthopedics,37,9559.92,Yes,2,1911.984
+P2353,Taylor Lynn,John Campos,32,Cardiology,5,2284.86,Yes,2,456.972
+P2354,Adam Hernandez,Carol Smith,77,Orthopedics,39,8513.68,No,5,1702.736
+P2355,Abigail Thomas,Charles Weber,44,Dermatology,35,3989.3,Yes,4,797.86
+P2356,Christopher Sanchez,Stephen Barnes,40,Pediatrics,30,3662.99,No,4,732.598
+P2357,Thomas Wilson,Maria Miller,59,Orthopedics,43,7755.27,No,1,1551.054
+P2358,Charles Garcia,Robert Mclaughlin,16,Neurology,9,863.99,Yes,2,172.798
+P2359,Melissa Maddox,Thomas Barrera,74,General Medicine,39,5600.61,No,1,1120.122
+P2360,Robert Smith,Robin Bowman,72,Pediatrics,18,5018.79,Yes,4,1003.758
+P2361,Danielle Murphy,Lisa Williams,15,Pediatrics,19,9144.65,No,2,1828.93
+P2362,Veronica Bentley,Michael Smith,27,Dermatology,35,5409.67,Yes,4,1081.934
+P2363,James Kelly,John Molina,64,General Medicine,43,6962.1,Yes,4,1392.42
+P2364,Sheila Johnson,Jacob Rocha,21,General Medicine,36,5011.09,No,5,1002.218
+P2365,James Dudley,Christopher Horton,47,Orthopedics,1,7625.53,Yes,4,1525.106
+P2366,Todd Perry,Kaitlyn Sweeney,11,Orthopedics,30,2291.17,No,1,458.234
+P2367,Garrett Ruiz,Jordan Singh,61,Pediatrics,37,8758.77,No,1,1751.754
+P2368,Ryan Reeves,William Mills,75,Cardiology,11,397.74,No,4,79.548
+P2369,Alexis Ballard,Ellen Fitzgerald,14,Orthopedics,13,8708.01,Yes,4,1741.602
+P2370,Paul Dunn,Sara Bowman,41,General Medicine,33,8536.51,Yes,2,1707.302
+P2371,Angela Ho,Joshua Simpson,59,Dermatology,16,1108.34,No,3,221.668
+P2372,Jane Farmer,Stephen Bennett,90,Cardiology,19,2993.13,No,2,598.626
+P2373,Dalton Hardy,John Hayes,39,Oncology,14,3702.24,No,2,740.448
+P2374,Travis Gregory,Mark Mitchell,73,Pediatrics,24,1602.4,Yes,3,320.48
+P2375,Clifford Cummings,Jasmine Long,78,Cardiology,25,5482.89,No,4,1096.578
+P2376,Mr. Joseph Anderson,Daniel Trujillo,87,Pediatrics,12,8397.31,Yes,3,1679.462
+P2377,Julia Johnson,Kathy Lee,31,Oncology,5,3003.45,No,4,600.69
+P2378,Ryan Flores,Mr. Brian Wang DVM,32,Dermatology,18,3755.39,Yes,1,751.078
+P2379,Wesley Sanchez,Cameron Martinez MD,86,Cardiology,41,3329.77,No,5,665.954
+P2380,Dawn Branch DDS,Stephen Caldwell,25,Oncology,13,2518.52,No,5,503.704
+P2381,Jenna Wilcox,Katherine Hernandez,67,General Medicine,34,2371.05,No,2,474.21
+P2382,Jeffrey Clark,Jose Thompson,71,Dermatology,19,1529.11,Yes,5,305.822
+P2383,Omar Higgins,Joshua Perez,55,Dermatology,38,3676.96,No,1,735.392
+P2384,Kara Moran,,17,Orthopedics,28,3457.54,No,1,691.508
+P2385,Jason Davis,Anthony Fox,83,General Medicine,43,1072.6,No,5,214.52
+P2386,David Scott,Kyle Savage,54,Dermatology,5,3538.11,No,4,707.622
+P2387,Mark Burke,Jason Hammond,76,Neurology,15,8438.39,No,4,1687.678
+P2388,Jacob Morris,Michael Chavez,27,Orthopedics,35,3959.16,No,2,791.832
+P2389,Robert Hernandez,Daniel Whitaker,17,Oncology,43,5641.91,No,5,1128.382
+P2390,Elizabeth Anderson,,41,Orthopedics,23,1876.77,Yes,4,375.354
+P2391,Abigail Morse,Ann Bishop,89,General Medicine,9,,Yes,1,1913.678
+P2392,Randy Buck,Amber Rose,76,Cardiology,12,915.91,Yes,4,183.182
+P2393,James Jones,Karen Carter,70,Neurology,44,5128.12,No,4,1025.624
+P2394,Tiffany Cole,Philip Cook,61,General Medicine,35,4661.53,No,5,932.306
+P2395,Robert Hardin,Thomas Soto,65,Pediatrics,14,9951.58,Yes,5,1990.316
+P2396,Lauren Hardin MD,Mr. Jonathan Cardenas,88,Pediatrics,22,,Yes,1,780.658
+P2397,Vanessa Hutchinson,Christopher Mendoza,32,Pediatrics,11,4086.22,Yes,3,817.244
+P2398,Robert Robinson,Stephen Kent,60,Pediatrics,1,3744.02,Yes,3,748.804
+P2399,Chelsea Armstrong,Justin White,2,Neurology,8,7499.89,No,1,1499.978
+P2400,Michael Payne,Jamie Livingston,8,Pediatrics,19,7951.83,No,1,1590.366
+P2401,Dr. Allison Joseph,Victoria Griffin,78,Orthopedics,40,9979.76,No,4,1995.952
+P2402,Samantha Kelley,Jennifer Reyes,76,Pediatrics,15,2130.02,Yes,4,426.004
+P2403,Brandon Morris,Daniel Bradford,72,Neurology,11,1688.74,No,2,337.748
+P2404,Kelly Wilkins,Pamela Jensen,17,Neurology,33,8199.99,Yes,2,1639.998
+P2405,Michael Howard,Daniel Beasley,70,Pediatrics,24,4376.89,No,3,875.378
+P2406,Nathan Hernandez,Keith Knox,10,Orthopedics,33,5384.77,No,4,1076.954
+P2407,Christopher Newman,Amber Flores,19,General Medicine,9,7993.23,No,4,1598.646
+P2408,Hector Mcbride,David Young,36,Dermatology,3,2190.6,No,4,438.12
+P2409,Peter Hill,Anthony Santiago,35,Oncology,19,855.62,No,5,171.124
+P2410,Shane Collins,Beth Stewart,48,Orthopedics,26,,No,4,885.598
+P2411,Tanya Rocha,Haley Gonzalez,68,Neurology,36,3805.18,No,2,761.036
+P2412,Brian Moore,John Malone,51,Dermatology,33,2797.39,No,5,559.478
+P2413,Jacqueline Ramirez,Joshua Ruiz,44,Orthopedics,26,9890.18,Yes,5,1978.036
+P2414,Anne Robertson,Molly Sullivan,23,Cardiology,8,1042.9,No,2,208.58
+P2415,Robert Price,Travis Mcdonald,11,Cardiology,12,7530.58,No,1,1506.116
+P2416,Carrie Aguirre,Ryan Beasley,85,Oncology,28,9253.47,No,2,1850.694
+P2417,Sarah Cunningham,Kelly Johnston,52,Neurology,17,9479.65,Yes,3,1895.93
+P2418,Ian Hester,Theresa Ramsey,90,Oncology,41,4623.06,Yes,4,924.612
+P2419,Cynthia Knight,Gloria Hall,81,Pediatrics,29,7193.65,No,5,1438.73
+P2420,Jeremy Brown,Gina Norton,29,Pediatrics,2,1743.22,Yes,3,348.644
+P2421,Albert Hawkins,Alexis Johnson,78,Cardiology,33,4629.3,No,3,925.86
+P2422,Ian Smith,Tiffany Williams,7,Neurology,26,403.56,No,5,80.712
+P2423,Michael Parks,Ryan Summers,71,Dermatology,15,3341.27,Yes,1,668.254
+P2424,Kimberly Levy,Alyssa Cummings,5,Cardiology,25,5376.15,Yes,4,1075.23
+P2425,Sara Perez,Jennifer Buckley,80,General Medicine,3,9413.86,No,3,1882.772
+P2426,David Campos,Jill Jacobs,73,Pediatrics,31,1497.67,YES,3,299.534
+P2427,Darrell Reeves,Kayla Simpson MD,61,Dermatology,39,4902.85,No,1,980.57
+P2428,Jon Clark,Ms. Mackenzie Young MD,27,Orthopedics,7,1156.71,Yes,4,231.342
+P2429,Sara Lewis,Kayla Hines,36,Dermatology,35,9417.07,No,3,1883.414
+P2430,Robert Robinson,Joseph Holden,66,Cardiology,23,9605.17,No,1,1921.034
+P2431,Sydney Kaiser,Monica Stevens,42,Dermatology,29,1516.74,No,5,303.348
+P2432,Erika Lewis,Kelly Miller,31,Dermatology,45,7838.55,Yes,5,1567.71
+P2433,Raymond Downs,Maria Munoz,79,Orthopedics,2,3143.13,Yes,3,628.626
+P2434,Kimberly Brown MD,Vanessa Kirby,83,Neurology,3,2346.03,No,4,469.206
+P2435,Christine Robbins,Michael Thompson,70,Dermatology,19,2201.98,Yes,4,440.396
+P2436,Katie Hill,Robin Chambers,13,Cardiology,1,5074.73,Yes,1,1014.946
+P2437,Michael Thomas,James Gibson,58,Cardiology,27,1895.29,Yes,5,379.058
+P2438,Susan Hicks,Robert Hester,18,Dermatology,22,729.31,Yes,3,145.862
+P2439,Nathan Powell,Jerry Thompson,9,Oncology,22,4184.52,No,5,836.904
+P2440,Derek Castro,Vanessa Mckinney,36,Neurology,19,1333.99,No,4,266.798
+P2441,Phillip Coleman,Courtney Blevins,69,Orthopedics,32,8720.25,Yes,3,1744.05
+P2442,Ruben Martin,Jaclyn Harrison,79,Dermatology,30,1111.62,Yes,5,222.324
+P2443,Mr. Joseph Garcia,Beth Watkins,63,Pediatrics,8,5220.19,Yes,1,1044.038
+P2444,Julie Stevens,Lindsay Jordan,24,Dermatology,14,9339.19,Yes,2,1867.838
+P2445,Michael Wright,Karl Leonard,79,Dermatology,6,5261.9,Yes,4,1052.38
+P2446,Rhonda Wilson,Mrs. Vanessa Watson,81,General Medicine,2,3323.08,Yes,3,664.616
+P2447,Katherine Morales,Brenda Patterson,38,Dermatology,42,9270.22,No,3,1854.044
+P2448,Stephanie Hopkins,Joseph Odonnell,11,Orthopedics,1,2178.1,Yes,5,435.62
+P2449,Nicole Taylor,Ashley Daniel,20,Pediatrics,4,9538.36,Yes,4,1907.672
+P2450,Ryan Matthews,Terry Armstrong,74,General Medicine,28,3500.01,No,3,700.002
+P2451,Shelley Foster,Melinda Scott,14,Pediatrics,35,4698.42,No,2,939.684
+P2452,Craig Blake,Brianna Roberts,14,Orthopedics,40,5179.84,No,3,1035.968
+P2453,Christopher Roberson,Elizabeth Clark,86,Orthopedics,38,5273.24,No,1,1054.648
+P2454,Tara Newton,Kevin Forbes,4,Pediatrics,38,8915.88,Yes,2,1783.176
+P2455,Cassandra Bishop,Colin Carter,69,Oncology,37,9676.22,No,5,1935.244
+P2456,Alexandria Luna,Toni Young,16,General Medicine,23,1065.22,No,4,213.044
+P2457,Mr. Steven Brown,James Anderson,25,Dermatology,25,511.65,Yes,5,102.33
+P2458,Joshua Patterson,Melissa Ware,22,Dermatology,44,7883.43,No,2,1576.686
+P2459,Heather Medina,Andrea Vance,82,Oncology,45,861.34,No,2,172.268
+P2460,Lisa Johnson,Juan Murray,52,Cardiology,42,5026.42,Yes,1,1005.284
+P2461,Andrew Brown,Mr. Charles Pope,44,Oncology,20,2369.91,No,5,473.982
+P2462,Lisa Nelson,Mary Wood,49,Cardiology,44,3455.29,No,2,691.058
+P2463,Carolyn Reynolds,Lori Chavez,66,Orthopedics,40,3863.78,No,2,772.756
+P2464,Mr. Alex Anderson,Joe Warner,20,Oncology,13,7393.47,No,4,1478.694
+P2465,Jesse Taylor,Kimberly Jefferson,19,Dermatology,6,7440.12,Yes,4,1488.024
+P2466,Joseph Reid,Dean Hall,56,Cardiology,2,9388.16,Yes,1,1877.632
+P2467,David Duke,Katherine Green,32,Neurology,3,7383.91,Yes,2,1476.782
+P2468,Curtis Burke,Daniel Mueller,51,Neurology,3,2816.67,Yes,4,563.334
+P2469,James Fletcher,Kevin Monroe,17,Cardiology,26,1849.45,No,1,369.89
+P2470,Daniel Bennett,Dawn Ortega,26,Pediatrics,27,7076.46,No,3,1415.292
+P2471,Kara Hurst,Katelyn Melendez,78,General Medicine,22,2339.44,Yes,3,467.888
+P2472,Patricia Odom,Randy Ramos,11,Cardiology,12,2224.63,YES,5,444.926
+P2473,Lori Bowman,Albert Romero,81,Oncology,1,2225.21,No,5,445.042
+P2474,Joshua Farmer IV,Mary Vega,82,General Medicine,35,9481.82,Yes,1,1896.364
+P2475,Denise Price,Margaret Dawson,30,Pediatrics,38,1999.36,No,1,399.872
+P2476,Michael Simmons,Cameron Turner MD,36,Dermatology,45,7706.49,No,3,1541.298
+P2477,Elizabeth Smith,Sharon Turner,90,Oncology,41,3265.67,No,3,653.134
+P2478,Autumn Gallagher,Mary Brock,41,General Medicine,33,6240.18,Yes,2,1248.036
+P2479,James Hernandez,Eric Carter MD,36,Pediatrics,10,7854.96,No,2,1570.992
+P2480,John Jarvis,Penny Ferguson DDS,87,Oncology,42,1091.75,Yes,1,218.35
+P2481,James Ramos,Gregory Luna,82,Oncology,14,7652.02,No,1,1530.404
+P2482,Brittany Martinez,Debbie Holland,48,Oncology,38,4462.52,No,4,892.504
+P2483,Anna Ramirez,Carol Allen,Unknown,Dermatology,32,7168.63,Yes,2,1433.726
+P2484,Miguel Morris,Amanda Randall,42,Neurology,2,1017.92,No,5,203.584
+P2485,Eric Peterson,Christopher Meyer,86,Dermatology,10,1727.01,No,2,345.402
+P2486,David Rasmussen,Kayla Brown,40,Dermatology,43,2600.07,No,3,520.014
+P2487,Jamie Harper,Thomas Smith Jr.,37,Orthopedics,14,9818.7,Yes,4,1963.74
+P2488,Stacy Le,Ronald Everett,79,Neurology,7,7166.4,Yes,5,1433.28
+P2489,Shannon Navarro,Kathleen Gibson,29,General Medicine,39,9179.35,No,5,1835.87
+P2490,Christine Adams,Matthew Reynolds,44,Dermatology,21,3890.25,Yes,1,778.05
+P2491,Dennis Moreno,James Hunter,47,Dermatology,37,2563.15,YES,4,512.63
+P2492,Hailey Thomas,Joanna Chapman,88,Dermatology,45,1237.75,No,5,247.55
+P2493,Benjamin Henderson,Tammy Hayden,13,Cardiology,33,3028.42,Yes,4,605.684
+P2494,Omar Allen,Steven Gibson,33,Orthopedics,10,2214.09,Yes,5,442.818
+P2495,Brenda Gillespie,Taylor Washington,48,Cardiology,45,6411.89,No,2,1282.378
+P2496,Brent Gonzalez,,76,Orthopedics,5,6551.9,No,4,1310.38
+P2497,Jennifer Bond,Rebecca Bass,53,Oncology,28,7356.11,No,4,1471.222
+P2498,Lisa Shannon,Joseph Moore DDS,75,Pediatrics,10,6484.73,No,1,1296.946
+P2499,Deborah Johnson,Shannon Newman,77,Orthopedics,17,8259.56,Yes,3,1651.912
+P2500,Amanda Gomez,Mark Kennedy,74,Dermatology,19,5240.7,No,4,1048.14
+P1407,Christine Briggs,Caroline Wang,53,Orthopedics,25,1469.86,No,3,293.972
+P0298,Lori Bell,Lisa Rice,22,Neurology,44,6122.46,Yes,5,1224.492
+P1277,Margaret Johnson,Austin Smith,4,Dermatology,28,,Yes,1,679.854
+P2369,Alexis Ballard,Ellen Fitzgerald,14,Orthopedics,13,8708.01,Yes,4,1741.602
+P0439,Jerry Collins,Tammy Sullivan,64,General Medicine,22,2954.84,No,2,590.968
+P2010,Lisa Warner,Bonnie Warner,53,Neurology,2,1771.84,Yes,2,354.368
+P0643,Amanda Mitchell,Brad Bell,63,General Medicine,13,2994.48,No,2,598.896
+P0656,Cynthia Tucker,Ronald Jackson,77,Orthopedics,27,2298.22,Yes,2,459.644
+P1194,Robert Hood,David Foster,71,Cardiology,10,7434.75,No,2,1486.95
+P2411,Tanya Rocha,Haley Gonzalez,68,Neurology,36,3805.18,No,2,761.036
+P0899,Jillian Tapia,Sean Anderson,56,Pediatrics,15,8791.62,Yes,2,1758.324
+P0469,Timothy Haas,Richard Romero,26,Neurology,16,5878.99,Yes,3,1175.798
+P0608,Michael Scott,Tiffany Sherman,11,Neurology,37,9509.37,No,4,1901.874
+P2500,Amanda Gomez,Mark Kennedy,74,Dermatology,19,5240.7,No,4,1048.14
+P2263,Dean Moreno,Summer Green,83,Orthopedics,1,6047.7,No,4,1209.54
+P0590,Michelle Sweeney,Joseph Becker,11,Dermatology,10,9400.87,No,1,1880.174
+P0108,Christopher Russell,Andrew Miller,56,Cardiology,13,4804.47,Yes,5,960.894
+P0536,Julie Williams,,34,Cardiology,16,4020.13,Yes,2,804.026
+P1550,Tracy Jones,Justin West,69,General Medicine,26,7291.61,No,5,1458.322
+P1266,Ashley Stevenson,Brian Curtis,37,Cardiology,17,1973.67,Yes,3,394.734
